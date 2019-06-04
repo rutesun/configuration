@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559638916449">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/operators/python_operator.py" timestamp="1559627541009" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/db_manager.py" timestamp="1559636327211" />
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/modules/printer.py" timestamp="1559619737135">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -31,11 +25,11 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_v3.py" timestamp="1559642485057">
-        <mark key="[" line="42" column="1" />
-        <mark key="]" line="30" column="25" />
-        <mark key="^" line="30" column="25" />
-        <mark key="." line="30" column="25" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_v3.py" timestamp="1559643519747">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="125" column="30" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/s3_test.py" timestamp="1559619311856">
         <mark key="[" line="5" column="0" />
@@ -49,21 +43,10 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v3.py" timestamp="1559638822441">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="50" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="17" column="50" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_monthly_mart.py" timestamp="1559638773170">
         <mark key="[" line="166" column="17" />
         <mark key="]" line="166" column="17" />
         <mark key="." line="166" column="17" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/.envrc" timestamp="1559619611676">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="1" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/go.py" timestamp="1559620754984">
         <mark key="[" line="9" column="9" />
@@ -71,18 +54,12 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1559638923240">
-        <mark key="[" line="189" column="35" />
-        <mark key="]" line="189" column="35" />
-        <mark key="." line="189" column="35" />
-        <mark key="^" line="23" column="14" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1559642471458">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1559643738895">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="61" column="61" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="84" column="36" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="70" column="24" />
+        <mark key="]" line="70" column="24" />
+        <mark key="^" line="70" column="24" />
+        <mark key="." line="70" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1559629665931">
         <mark key="[" line="30" column="0" />
@@ -94,6 +71,36 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559638916449">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/operators/mysql_operator.py" timestamp="1559643434098" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/db_manager.py" timestamp="1559636327211" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v3.py" timestamp="1559638822441">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="17" column="50" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="50" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/.envrc" timestamp="1559619611676">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1559644730207">
+        <mark key="[" line="213" column="122" />
+        <mark key="]" line="213" column="124" />
+        <mark key="." line="213" column="124" />
+        <mark key="^" line="213" column="124" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1559644792952">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="4" />
+        <mark key="." line="63" column="4" />
+        <mark key="^" line="57" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -108,49 +115,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>and</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRiID0gY29ubmVjdF9kYihBTkFMWVRJQ1NfVEVNUF9EQikK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIERCX1NPVVJDRSwgREJfVEVNUCwgREJfUFJPRFVDVElPTiwgREJfU1RFQUxUSAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICB3aXRoIGNsb3NpbmcoY29ubmVjdF9kYignaW5mb3JtYXRpb25fc2NoZW1hJykpIGFzIGNvbm46CiAgICAgICAgd2l0aCBjb25uLmN1cnNvcigpIGFzIGN1cnNvcjoKICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUocXVlcnkpCiAgICAgICAgICAgIGRhdGEgPSBjdXJzb3IuZmV0Y2hhbGwoKQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYWdzLm1vZHVsZXMuY29uc3RhbnRzIGltcG9ydCAoCg==</text>
+      <register name="5" type="4">
+        <text>with closing(connect_db(DB_PRODUCTION)) as conn:
+        with conn.cursor() as cursor:
+            try:
+                cursor.execute(sql)
+                conn.commit()
+            except Exception as e:
+                print(e)</text>
       </register>
       <register name="6" type="4">
-        <text>def connect_db(db):
-    db = pymysql.connect(host='localhost',
-                         user='root',
-                         db=db,
-                         charset='utf8',
-                         cursorclass=pymysql.cursors.DictCursor
-                         )
-    return db</text>
+        <text encoding="base64">IHdpdGggY2xvc2luZyhjb25uZWN0X2RiKERCX1RFTVApKSBhcyBjb25uOgogICAgICAgIHdpdGggY29ubi5jdXJzb3IoKSBhcyBjdXJzb3I6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKHNxbCkKICAgICAgICAgICAgICAgIGNvbm4uY29tbWl0KCkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgcHJpbnQoZSk=</text>
       </register>
-      <register name="7" type="4">
-        <text>ith closing(connect_db(db)) as conn:
-        with conn as cursor:
-            cursor.execute(query)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBjb250ZXh0bGliIGltcG9ydCBjbG9zaW5nCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICB3aXRoIGNsb3NpbmcoZGIpIGFzIGNvbm46CiAgICAgICAgd2l0aCBjb25uIGFzIGN1cnNvcjoKICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUocXVlcnkpCiAgICAgICAgICAgIGRhdGEgPSBjdXJzb3IuZmV0Y2hhbGwoKQogICAgICAgICAgICBkZXNjID0gY3Vyc29yLmRlc2NyaXB0aW9uCiAgICAgICAgICAgIGZpZWxkX25hbWUgPSBbZmllbGRbMF0gZm9yIGZpZWxkIGluIGRlc2NdCiAgICAgICAgICAgIGRmID0gcGQuRGF0YUZyYW1lKGRhdGEpW2ZpZWxkX25hbWVd</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZGF0YShxdWVyeSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>190</text>
