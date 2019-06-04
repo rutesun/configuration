@@ -57,6 +57,12 @@
         <mark key="." line="128" column="23" />
         <mark key="^" line="86" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1559629665931">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/example1.py" timestamp="1559619787121">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
