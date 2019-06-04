@@ -3,10 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559628038903">
+      <file name="/Dummy.txt" timestamp="1559638916449">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/operators/python_operator.py" timestamp="1559627541009" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/db_manager.py" timestamp="1559636327211" />
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/modules/printer.py" timestamp="1559619737135">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -19,8 +22,8 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" timestamp="1559632189059">
-        <mark key="'" line="34" column="26" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" timestamp="1559639530317">
+        <mark key="'" line="163" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/test/print.py" timestamp="1558686784185">
         <mark key="[" line="2" column="13" />
@@ -28,14 +31,34 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/dump.py" timestamp="1558686789594">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_v3.py" timestamp="1559638658368">
+        <mark key="[" line="140" column="16" />
+        <mark key="]" line="140" column="16" />
+        <mark key="^" line="20" column="9" />
+        <mark key="." line="140" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/s3_test.py" timestamp="1559619311856">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v2.py" timestamp="1559635776446">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v3.py" timestamp="1559638822441">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="17" column="50" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="50" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_monthly_mart.py" timestamp="1559638773170">
+        <mark key="[" line="166" column="17" />
+        <mark key="]" line="166" column="17" />
+        <mark key="." line="166" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/.envrc" timestamp="1559619611676">
         <mark key="[" line="1" column="33" />
@@ -48,16 +71,18 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1559627993236">
-        <mark key="[" line="79" column="36" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1559638923240">
+        <mark key="[" line="189" column="35" />
+        <mark key="]" line="189" column="35" />
+        <mark key="." line="189" column="35" />
+        <mark key="^" line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1559627971114">
-        <mark key="[" line="128" column="23" />
-        <mark key="]" line="128" column="23" />
-        <mark key="." line="128" column="23" />
-        <mark key="^" line="86" column="36" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1559638816887">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="61" column="61" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="84" column="36" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1559629665931">
         <mark key="[" line="30" column="0" />
@@ -70,66 +95,91 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/airflow.cfg" timestamp="1559619218220">
-        <mark key="[" line="98" column="1" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="34" column="26" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v3.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" />
+      <jump line="32" column="12" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" />
+      <jump line="46" column="6" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" />
+      <jump line="47" column="19" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" />
+      <jump line="163" column="18" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhZ19pZCA9ICIxMSIK</text>
-      </register>
       <register name="&quot;" type="4">
         <text>,</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGt3YXJncykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhZ19pZCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcHJvdmlkZV9jb250ZXh0PVRydWUsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgb3BfYXJncz17J2RhZ19pZCc6IGRhZ19ydW5faWR9LAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">I2Zyb20gbW9kdWxlcy5zbGFja19ub3RpZmllciBpbXBvcnQgc2xhY2tfbm90aWZ5X2NhbGxiYWNrCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>redis</text>
+        <text>run</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRiID0gY29ubmVjdF9kYihBTkFMWVRJQ1NfVEVNUF9EQikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIERCX1NPVVJDRSwgREJfVEVNUCwgREJfUFJPRFVDVElPTiwgREJfU1RFQUxUSAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBkYWdzLm1vZHVsZXMuY29uc3RhbnRzIGltcG9ydCAoCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>def connect_db(db):
+    db = pymysql.connect(host='localhost',
+                         user='root',
+                         db=db,
+                         charset='utf8',
+                         cursorclass=pymysql.cursors.DictCursor
+                         )
+    return db</text>
+      </register>
+      <register name="7" type="4">
+        <text>ith closing(connect_db(db)) as conn:
+        with conn as cursor:
+            cursor.execute(query)</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICB3aXRoIGNsb3NpbmcoZGIpIGFzIGNvbm46CiAgICAgICAgd2l0aCBjb25uIGFzIGN1cnNvcjoKICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUocXVlcnkpCiAgICAgICAgICAgIGRhdGEgPSBjdXJzb3IuZmV0Y2hhbGwoKQogICAgICAgICAgICBkZXNjID0gY3Vyc29yLmRlc2NyaXB0aW9uCiAgICAgICAgICAgIGZpZWxkX25hbWUgPSBbZmllbGRbMF0gZm9yIGZpZWxkIGluIGRlc2NdCiAgICAgICAgICAgIGRmID0gcGQuRGF0YUZyYW1lKGRhdGEpW2ZpZWxkX25hbWVd</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfZGF0YShxdWVyeSk6Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>190</text>
       </register>
     </registers>
     <search>
-      <last-search>redis</last-search>
+      <last-search>run</last-search>
       <last-offset />
-      <last-pattern>redis</last-pattern>
+      <last-pattern>run</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>redis</entry>
+        <entry>dump</entry>
+        <entry>run</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>1</entry>
+        <entry>190</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
