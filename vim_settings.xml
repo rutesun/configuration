@@ -4,44 +4,36 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/operators/python_operator.py" timestamp="1559627541009" />
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/modules/printer.py" timestamp="1559619737135">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/.gitignore" timestamp="1559619426122">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
+      <file name="/a.dummy" timestamp="1559650546435">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" timestamp="1559639530317">
         <mark key="'" line="163" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/test/print.py" timestamp="1558686784185">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_v3.py" timestamp="1559650777046">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="20" column="49" />
+        <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_v3.py" timestamp="1559643519747">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="125" column="30" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/s3_test.py" timestamp="1559619311856">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_tables.py" timestamp="1559650819863">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v2.py" timestamp="1559635776446">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="9" />
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_tables.py" timestamp="1559650483042">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_monthly_mart.py" timestamp="1559638773170">
         <mark key="[" line="166" column="17" />
@@ -54,6 +46,7 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/slack_notifier.py" timestamp="1559647763977" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1559643738895">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="70" column="24" />
@@ -61,24 +54,32 @@
         <mark key="^" line="70" column="24" />
         <mark key="." line="70" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1559629665931">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1559646874204">
+        <mark key="[" line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_table_incremental.py" timestamp="1559650613803" />
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/example1.py" timestamp="1559619787121">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559638916449">
+      <file name="/Dummy.txt" timestamp="1559648857374">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_steal_tables.py" timestamp="1559650218953">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+        <mark key="^" line="53" column="11" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/operators/mysql_operator.py" timestamp="1559643434098" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/db_manager.py" timestamp="1559636327211" />
+      <file name="/dump_hourly_v3.py" timestamp="1559647147271" />
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/dump.py" timestamp="1558686789594">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v3.py" timestamp="1559638822441">
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="50" />
@@ -90,17 +91,23 @@
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1559644730207">
-        <mark key="[" line="213" column="122" />
-        <mark key="]" line="213" column="124" />
-        <mark key="." line="213" column="124" />
-        <mark key="^" line="213" column="124" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1559649657223">
+        <mark key="[" line="205" column="55" />
+        <mark key="]" line="209" column="32" />
+        <mark key="." line="209" column="32" />
+        <mark key="^" line="209" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1559644792952">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="4" />
-        <mark key="." line="63" column="4" />
-        <mark key="^" line="57" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_incremental.py" timestamp="1559650225925">
+        <mark key="[" line="26" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1559647720101">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/airflow.cfg" timestamp="1559619218220">
+        <mark key="[" line="98" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -115,49 +122,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>and</text>
+        <text>INCREMENTAL_TABLES</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>INCREMENTAL_TABLES</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlKQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5kdW1teV9vcGVyYXRvciBpbXBvcnQgRHVtbXlPcGVyYXRvcgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBkdW1wX2luY3JlbWVudGFsX3N0YXJ0ID0gRHVtbXlPcGVyYXRvcigKICAgICAgICB0YXNrX2lkPSdkdW1wX2luY3JlbWVudGFsX3N0YXJ0JywKICAgICAgICBkYWc9ZGFnCiAgICApCgogICAgc3luY19kZWxldGVkX2xvYW5fYXBwID0gTXlTcWxPcGVyYXRvcigKICAgICAgICB0YXNrX2lkPSdzeW5jX2RlbGV0ZWRfbG9hbl9hcHAnLAogICAgICAgIG15c3FsX2Nvbm5faWQ9Q09OTl9TVEFUX1JXLAogICAgICAgIHNxbD0iZGVsZXRlIGEgZnJvbSBsb2FuX2FwcCBhIElOTkVSIEpPSU4gKHNlbGVjdCBpZCBmcm9tIGxvYW5fYXBwX2F1ZCB3aGVyZSByZXZ0eXBlID0gMikgYiBvbiBhLmlkID0gYi5pZDsiLAogICAgICAgIGRhdGFiYXNlPURCX1BST0RVQ1RJT04sCiAgICAgICAgYXV0b2NvbW1pdD1UcnVlLAogICAgICAgIG9uX2ZhaWx1cmVfY2FsbGJhY2s9c2xhY2tfbm90aWZ5X2NhbGxiYWNrLAogICAgICAgIGRhZz1kYWcKICAgICk=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGNyZWF0ZV9kYXRhYmFzZSA9IFB5dGhvbk9wZXJhdG9yKAogICAgICAgIHRhc2tfaWQ9J2NyZWF0ZV9kYXRhYmFzZScsCiAgICAgICAgcHl0aG9uX2NhbGxhYmxlPWNyZWF0ZV9kYXRhYmFzZSwKICAgICAgICBvbl9zdWNjZXNzX2NhbGxiYWNrPXNsYWNrX25vdGlmeV9jYWxsYmFjaywKICAgICAgICBvcF9rd2FyZ3M9eydkYWdfaWQnOiBkYWdfcnVuX2lkfSwKICAgICAgICBkYWc9ZGFnCiAgICAp</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICB3aXRoIGNsb3NpbmcoY29ubmVjdF9kYignaW5mb3JtYXRpb25fc2NoZW1hJykpIGFzIGNvbm46CiAgICAgICAgd2l0aCBjb25uLmN1cnNvcigpIGFzIGN1cnNvcjoKICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUocXVlcnkpCiAgICAgICAgICAgIGRhdGEgPSBjdXJzb3IuZmV0Y2hhbGwoKQ==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGRyb3BfZGF0YWJhc2UgPSBQeXRob25PcGVyYXRvcigKICAgICAgICB0YXNrX2lkPSdkcm9wX2RhdGFiYXNlJywKICAgICAgICBweXRob25fY2FsbGFibGU9ZHJvcF9kYXRhYmFzZSwKICAgICAgICBvbl9zdWNjZXNzX2NhbGxiYWNrPXNsYWNrX25vdGlmeV9jYWxsYmFjaywKICAgICAgICBvcF9rd2FyZ3M9eydkYWdfaWQnOiBkYWdfcnVuX2lkfSwKICAgICAgICBkYWc9ZGFnCiAgICAp</text>
       </register>
-      <register name="5" type="4">
-        <text>with closing(connect_db(DB_PRODUCTION)) as conn:
-        with conn.cursor() as cursor:
-            try:
-                cursor.execute(sql)
-                conn.commit()
-            except Exception as e:
-                print(e)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhYmFzZV9uYW1lID0gbWFrZV9kYXRhYmFzZV9uYW1lKGRhZ19pZCwgREJfU1RFQUxUSCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHdpdGggY2xvc2luZyhjb25uZWN0X2RiKERCX1RFTVApKSBhcyBjb25uOgogICAgICAgIHdpdGggY29ubi5jdXJzb3IoKSBhcyBjdXJzb3I6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKHNxbCkKICAgICAgICAgICAgICAgIGNvbm4uY29tbWl0KCkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgcHJpbnQoZSk=</text>
+        <text encoding="base64">CmR1bXBfc3RlYWx0aCA9IEJhc2hPcGVyYXRvcigKICAgIHRhc2tfaWQ9J2R1bXBfc3RlYWx0aCcsCiAgICBiYXNoX2NvbW1hbmQ9ZHVtcF9zdGVhbHRoKCdkdW1wX3N0ZWFsdGhfe30uc3FsJy5mb3JtYXQoZGFnX3J1bl9pZCkpLAogICAgb25fZmFpbHVyZV9jYWxsYmFjaz1zbGFja19ub3RpZnlfY2FsbGJhY2ssCiAgICBkYWc9ZGFnCikKCmxvYWRfc3RlYWx0aCA9IEJhc2hPcGVyYXRvcigKICAgIHRhc2tfaWQ9J2xvYWRfc3RlYWx0aCcsCiAgICBiYXNoX2NvbW1hbmQ9bG9hZF9zdGVhbHRoKCdkdW1wX3N0ZWFsdGhfe30uc3FsJy5mb3JtYXQoZGFnX3J1bl9pZCkpLAogICAgb25fZmFpbHVyZV9jYWxsYmFjaz1zbGFja19ub3RpZnlfY2FsbGJhY2ssCiAgICBkYWc9ZGFnCik=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBjb250ZXh0bGliIGltcG9ydCBjbG9zaW5nCg==</text>
+      <register name="7" type="4">
+        <text>dag = DAG(
+    dag_id='dump_stealth_tables',
+    default_args=args,
+    schedule_interval='0 0-14,20-23 * * *',
+    catchup=False
+)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyaWdnZXJfcnVsZT0nYWxsX2RvbmUnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24gPSBjb25uZWN0X2RiKCdpbmZvcm1hdGlvbl9zY2hlbWEnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>190</text>
+        <text>110</text>
       </register>
     </registers>
     <search>
@@ -176,6 +185,7 @@
       <history-cmd>
         <entry>1</entry>
         <entry>190</entry>
+        <entry>110</entry>
       </history-cmd>
       <history-expr />
       <history-input />
