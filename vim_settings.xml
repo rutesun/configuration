@@ -19,7 +19,9 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" timestamp="1559626373138" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" timestamp="1559632189059">
+        <mark key="'" line="34" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/test/print.py" timestamp="1558686784185">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -72,7 +74,9 @@
         <mark key="[" line="98" column="1" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="34" column="26" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRhZ19pZCA9ICIxMSIK</text>
@@ -107,13 +111,21 @@
       <register name="-" type="4">
         <text>,</text>
       </register>
+      <register name="/" type="4">
+        <text>redis</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>redis</last-search>
+      <last-offset />
+      <last-pattern>redis</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>redis</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
