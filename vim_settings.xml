@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558686721719">
+      <file name="/Dummy.txt" timestamp="1559628038903">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/operators/python_operator.py" timestamp="1559627541009" />
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/modules/printer.py" timestamp="1559619737135">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -18,6 +19,7 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" timestamp="1559626373138" />
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/test/print.py" timestamp="1558686784185">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -44,10 +46,16 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1559620065695">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1559627993236">
+        <mark key="[" line="79" column="36" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1559627971114">
+        <mark key="[" line="128" column="23" />
+        <mark key="]" line="128" column="23" />
+        <mark key="." line="128" column="23" />
+        <mark key="^" line="86" column="36" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/example1.py" timestamp="1559619787121">
         <mark key="[" line="25" column="0" />
@@ -61,33 +69,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">I2Zyb20gbW9kdWxlcy5zbGFja19ub3RpZmllciBpbXBvcnQgc2xhY2tfbm90aWZ5X2NhbGxiYWNrCg==</text>
+        <text encoding="base64">ICAgIGRhZ19pZCA9ICIxMSIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2Zyb20gbW9kdWxlcy5zbGFja19ub3RpZmllciBpbXBvcnQgc2xhY2tfbm90aWZ5X2NhbGxiYWNrCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGt3YXJncykK</text>
       </register>
-      <register name="4" type="4">
-        <text>import sys
-import os
-sys.path.insert(0, os.path.abspath(os.path.join(os.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KGRhZ19pZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
+        <text encoding="base64">ICAgICMgcHJvdmlkZV9jb250ZXh0PVRydWUsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CnByaXRlciA9IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgb3BfYXJncz17J2RhZ19pZCc6IGRhZ19ydW5faWR9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5kdW1teV9vcGVyYXRvciBpbXBvcnQgRHVtbXlPcGVyYXRvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">I2Zyb20gbW9kdWxlcy5zbGFja19ub3RpZmllciBpbXBvcnQgc2xhY2tfbm90aWZ5X2NhbGxiYWNrCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
