@@ -1,0 +1,23 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ShowUsages">
+        <abbreviation name="su" />
+      </action>
+      <action id="OpenEditorInOppositeTabGroup">
+        <abbreviation name="oog" />
+      </action>
+      <action id="MoveTabDown">
+        <abbreviation name="md" />
+      </action>
+      <action id="MoveEditorToOppositeTabGroup">
+        <abbreviation name="mog" />
+      </action>
+      <action id="MoveTabRight">
+        <abbreviation name="mr" />
+        <abbreviation name="MR" />
+        <abbreviation name="WMR" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

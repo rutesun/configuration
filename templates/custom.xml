@@ -1,0 +1,7 @@
+<templateSet group="custom">
+  <template name="//--" value="// ---------------------------------&#10;// $END$&#10;// ---------------------------------" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
