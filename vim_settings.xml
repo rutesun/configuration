@@ -65,9 +65,9 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_steal_tables.py" timestamp="1559696756369">
         <mark key="[" line="16" column="29" />
-        <mark key="]" line="56" column="11" />
-        <mark key="." line="56" column="11" />
-        <mark key="^" line="56" column="11" />
+        <mark key="]" line="55" column="11" />
+        <mark key="." line="55" column="11" />
+        <mark key="^" line="55" column="11" />
       </file>
       <file name="/fragment.kt" timestamp="1558332603714">
         <mark key="[" line="0" column="0" />
@@ -100,7 +100,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterApiController.kt" timestamp="1559637278758">
         <mark key="[" line="330" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/models/__init__.py" timestamp="1559696488472" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/models/__init__.py" timestamp="1559697833328" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/kkp/controller/KkpProductControllerTests.kt" timestamp="1557725520724">
         <mark key="[" line="25" column="21" />
       </file>
@@ -119,8 +119,11 @@
       <file name="$USER_HOME$/Develop/foodin/foodin_api/core/src/main/kotlin/app/foodin/domain/food/Food.kt" timestamp="1551605114275">
         <mark key="[" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" timestamp="1559639530317">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" timestamp="1559697981414">
         <mark key="'" line="163" column="18" />
+        <mark key="[" line="334" column="13" />
+        <mark key="]" line="334" column="14" />
+        <mark key="." line="334" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/bundle/service/impl/BundleServiceImplTest2.kt" timestamp="1551071757798">
         <mark key="[" line="2" column="28" />
@@ -157,12 +160,12 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1559696750059">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1559697932330">
         <mark key="'" line="54" column="0" />
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="72" column="24" />
-        <mark key="^" line="72" column="24" />
-        <mark key="." line="72" column="24" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="23" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1559646874204">
         <mark key="[" line="3" column="22" />
@@ -340,10 +343,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -351,7 +354,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIExpc3Q8TG9hbkFwcD4gZmluZEFsbEJ5Q3VzdE5tQW5kQ3VzdENlbGxQaG9uZShTdHJpbmcgY3VzdE5tLCBTdHJpbmcgY3VzdENlbGxQaG9uZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICdtYXhfYWN0aXZlX3J1bnMnOiAxCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>SELECT &quot; +
                 &quot;customer_key, cust_nm, cust_cell_phone, loan_prod_cd &quot; +
                 &quot; FROM loan_app &quot; +
@@ -361,33 +367,28 @@
                 // index 가 없지만 100개 안에서 필터링을 할것 이기 때문에
                 &quot; AND membership_service_agree_yn = 1&quot;</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGtyLmNvLmxlbmRpdC5kb21haW4uZW51bXMuUm9sZUNvZGUK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBtdXRhYmxlTGlzdC5jbGVhcigpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGZ1biB0dHQoKSB7CiAgICAgICAgZ3JvdXBzLmNsZWFyKCkKICAgIH0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>return loanList.map {
            
         }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Ly8gVE9ETzogY29kZSDqsJzshKAKICAgIGZ1biBmaW5kQWxsQnlDdXN0b21lcktleShjdXN0b21lcktleTogU3RyaW5nKTpMaXN0PFVzZXI+IHsKICAgICAgICB2YWwgdXNlckxpc3QgPSB1c2VyUmVwb3NpdG9yeS5maW5kQWxsQnlDdXN0b21lcktleShjdXN0b21lcktleSkKICAgICAgICBpZiAodXNlckxpc3QuaXNOb3RFbXB0eSgpKSByZXR1cm4gdXNlckxpc3QKCiAgICAgICAgdmFsIGxvYW5MaXN0ID0gbG9hbkFwcFJlcG9zaXRvcnkuZmluZEFsbEJ5Q3VzdG9tZXJLZXlBbmRVc2VySWRJc051bGwoY3VzdG9tZXJLZXkpCgogICAgICAgIHJldHVybiBsb2FuTGlzdC5tYXAgewogICAgICAgICAgICBVc2VyKGVtYWlsID0gaXQuY3VzdEVtYWlsLCBuYW1lID0gaXQuY3VzdE5tLCBjZWxsUGhvbmUgPSBpdC5jdXN0Q2VsbFBob25lLCBjdXN0b21lcktleSA9IGl0LmN1c3RvbWVyS2V5LAogICAgICAgICAgICAgICAgY29ycFluID0gaXQuY3VzdE9jY0NkID09IENvbU9jY0NvZGUuQ09NX09DQ18wMwogICAgICAgICAgICApCiAgICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">dmFsIHJlc3VsdHMgPSBvYmplY3RSZXN1bHQucmVzdWx0TGlzdCBhcyBMaXN0PEFycmF5PEFueT4+CiAgICAgICAgcmVzdWx0cy5mb3JFYWNoIHsKICAgICAgICAgICAgcHJpbnRsbihpdCkKICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="9" type="4">
-        <text>.filter {
-            UserStatusCode.onService(it.statusCode)
-        }.</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
