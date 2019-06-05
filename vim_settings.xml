@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/operators/python_operator.py" timestamp="1559627541009" />
       <file name="/a.dummy" timestamp="1557467358098">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/CSCustomerService.kt" timestamp="1559021637372">
-        <mark key="[" line="100" column="47" />
-        <mark key="]" line="100" column="45" />
-        <mark key="." line="100" column="45" />
-        <mark key="^" line="100" column="45" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/foodin/foodin_api/entity/src/main/kotlin/app/foodin/entity/user/UserRepository.kt" timestamp="1551590713651">
         <mark key="[" line="17" column="10" />
@@ -27,40 +24,63 @@
       <file name="/JSON Fragment (UserSignUpRequestTest.kt:303).json" timestamp="1552384531552">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_v3.py" timestamp="1559650777046">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="20" column="49" />
+        <mark key="." line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v2.py" timestamp="1559635776446">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/common/misc/vo/Period.kt" timestamp="1556088828308">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_monthly_mart.py" timestamp="1559638773170">
+        <mark key="[" line="166" column="17" />
+        <mark key="]" line="166" column="17" />
+        <mark key="." line="166" column="17" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/slack_notifier.py" timestamp="1559647763977" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_summary.py" timestamp="1559696491982">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="102" column="57" />
+        <mark key="^" line="46" column="16" />
+        <mark key="." line="102" column="57" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/event/LoanAppUpdate.kt" timestamp="1556850241447">
         <mark key="[" line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_table_incremental.py" timestamp="1559696619119">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+        <mark key="^" line="24" column="4" />
+      </file>
       <file name="$USER_HOME$/Develop/workspace/spring-jpa-mongo/src/main/kotlin/io/rutesun/mongo/ComponentService.kt" timestamp="1558000494962">
         <mark key="[" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/component/entity/Component.kt" timestamp="1559039141374">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_steal_tables.py" timestamp="1559696756369">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="56" column="11" />
+        <mark key="." line="56" column="11" />
+        <mark key="^" line="56" column="11" />
       </file>
       <file name="/fragment.kt" timestamp="1558332603714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/component/ComponentAdminApiContoller.kt" timestamp="1559039265198">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1556431989268">
-        <mark key="[" line="7" column="3" />
-      </file>
       <file name="$USER_HOME$/Develop/workspace/hibernate-persistence-context/src/main/resources/application.yml" timestamp="1556611989603">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/cscenter/service/CSCustomerServiceImplTest.kt" timestamp="1558427467307">
-        <mark key="[" line="10" column="65" />
-        <mark key="]" line="44" column="8" />
-        <mark key="^" line="50" column="22" />
-        <mark key="." line="44" column="8" />
+      <file name="/dump_hourly_v3.py" timestamp="1559647147271" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v3.py" timestamp="1559638822441">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="17" column="50" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/app/confirmedStatus/LoanAppConfirmedStatusApiController.kt" timestamp="1556863280363">
         <mark key="[" line="10" column="0" />
@@ -68,34 +88,27 @@
       <file name="/foodin_master.food_category [@test]" timestamp="1551601159457">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1559695944260">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/bundle/service/impl/BundleServiceImplTest.kt" timestamp="1556803277974">
         <mark key="[" line="205" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterApiController.kt" timestamp="1559637278758">
         <mark key="[" line="330" column="31" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/models/__init__.py" timestamp="1559696488472" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/kkp/controller/KkpProductControllerTests.kt" timestamp="1557725520724">
         <mark key="[" line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/OutboundCampaignService.kt" timestamp="1559124126353">
-        <mark key="[" line="76" column="23" />
-        <mark key="]" line="76" column="23" />
-        <mark key="." line="76" column="23" />
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/airflow.cfg" timestamp="1559619218220">
+        <mark key="[" line="98" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/settings.gradle" timestamp="1552303405437">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/app/LoanAppRepository.java" timestamp="1558403265291">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="71" column="87" />
-        <mark key="^" line="62" column="17" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/common/user/UserTest.kt" timestamp="1558658594917">
-        <mark key="[" line="7" column="57" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/AdminMenuServiceTest.kt" timestamp="1551061505554">
         <mark key="[" line="31" column="14" />
@@ -103,23 +116,20 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/RoleCode.java" timestamp="1559039283045">
         <mark key="[" line="40" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/User.kt" timestamp="1558920829597">
-        <mark key="[" line="95" column="26" />
-        <mark key="]" line="95" column="26" />
-        <mark key="." line="95" column="26" />
-        <mark key="^" line="95" column="26" />
-      </file>
       <file name="$USER_HOME$/Develop/foodin/foodin_api/core/src/main/kotlin/app/foodin/domain/food/Food.kt" timestamp="1551605114275">
         <mark key="[" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-nice/src/main/java/kr/co/lendit/nice/telegram/web/CustomerKeyController.kt" timestamp="1559549519723">
-        <mark key="[" line="146" column="47" />
-        <mark key="]" line="143" column="47" />
-        <mark key="^" line="143" column="47" />
-        <mark key="." line="143" column="47" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" timestamp="1559639530317">
+        <mark key="'" line="163" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/bundle/service/impl/BundleServiceImplTest2.kt" timestamp="1551071757798">
         <mark key="[" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_tables.py" timestamp="1559696760869">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="88" column="54" />
+        <mark key="^" line="88" column="54" />
+        <mark key="." line="88" column="54" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-production.yml" timestamp="1559528605152">
         <mark key="[" line="101" column="35" />
@@ -133,12 +143,34 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/kkp/controller/KkpTestControllerTests.kt" timestamp="1557725507405">
         <mark key="[" line="26" column="21" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_tables.py" timestamp="1559650483042">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+      </file>
       <file name="$USER_HOME$/Develop/workspace/hibernate-persistence-context/src/test/kotlin/io/rutesun/context/TestConfiguration.kt" timestamp="1556612207743">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/RoleCode.java" timestamp="1559039278035">
-        <mark key="[" line="42" column="32" />
-        <mark key="." line="7" column="44" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/go.py" timestamp="1559620754984">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1559696750059">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="72" column="24" />
+        <mark key="^" line="72" column="24" />
+        <mark key="." line="72" column="24" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1559646874204">
+        <mark key="[" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/example1.py" timestamp="1559619787121">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1556779686381">
         <mark key="[" line="0" column="0" />
@@ -152,24 +184,22 @@
       <file name="/JSON Fragment (UserSignUpRequestTest.kt:1319).json" timestamp="1552385725541">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/MarketingCampaignService.kt" timestamp="1559293275629">
-        <mark key="[" line="75" column="94" />
-        <mark key="]" line="99" column="16" />
-        <mark key="^" line="99" column="16" />
-        <mark key="." line="99" column="16" />
-      </file>
       <file name="/dummy.sql" timestamp="1551601160266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559549775473">
+      <file name="/Dummy.txt" timestamp="1559696769503">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/operators/mysql_operator.py" timestamp="1559643434098" />
       <file name="$USER_HOME$/Develop/workspace/spring-event/build.gradle" timestamp="1556430752225">
         <mark key="[" line="42" column="66" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/invest/bundle/itemoperation/ItemOperationServiceImpl.kt" timestamp="1551835318436">
         <mark key="[" line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/db_manager.py" timestamp="1559636327211" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/content/Content.kt" timestamp="1557994884282">
         <mark key="[" line="31" column="0" />
       </file>
@@ -179,29 +209,41 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/domain/CSSummary.kt" timestamp="1557906670280">
         <mark key="[" line="28" column="35" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/dump.py" timestamp="1558686789594">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/dto/CSCenterDTO.kt" timestamp="1559637285766">
         <mark key="[" line="340" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/UserServiceImpl.kt" timestamp="1558925818753">
-        <mark key="[" line="230" column="31" />
-        <mark key="]" line="230" column="31" />
-        <mark key="." line="230" column="31" />
-        <mark key="^" line="230" column="31" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1556431989268">
+        <mark key="[" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/test_slack.py" timestamp="1559696070883" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_mart.py" timestamp="1559653347923">
+        <mark key="^" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/.envrc" timestamp="1559619611676">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/kkp/controller/KkpUserControllerTests.kt" timestamp="1557725502177">
         <mark key="[" line="31" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/partner/UbicusRegisterCampaign.kt" timestamp="1559123862136">
-        <mark key="[" line="99" column="52" />
-        <mark key="]" line="99" column="52" />
-        <mark key="." line="99" column="52" />
-        <mark key="^" line="99" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190513140515__alter_user_name_at_loan_app_comment.sql" timestamp="1557723936668">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/domain/outbound/CampaignItemDetail.kt" timestamp="1556594473659">
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_incremental.py" timestamp="1559650225925">
+        <mark key="[" line="26" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1559653205995">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1558920075127">
         <mark key="[" line="0" column="0" />
@@ -298,10 +340,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>warn</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>warn</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -348,7 +390,7 @@
         }.</text>
       </register>
       <register name=":" type="4">
-        <text>174</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -360,53 +402,24 @@
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
-        <entry encoding="base64">XDxjYlw+</entry>
-        <entry encoding="base64">XDxwYXJhbVw+</entry>
-        <entry>submit</entry>
-        <entry>shop</entry>
-        <entry>createOrder</entry>
-        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
-        <entry encoding="base64">XDxjcmVhdGVkQXRcPg==</entry>
-        <entry encoding="base64">XDxub3Rlc1w+</entry>
-        <entry>LoanPayCode</entry>
-        <entry>jpa</entry>
-        <entry>hiber</entry>
-        <entry encoding="base64">XDxhbmRcPg==</entry>
-        <entry encoding="base64">XDxnaXRpZ25vcmVcPg==</entry>
-        <entry>name</entry>
+        <entry>redis</entry>
+        <entry>dump</entry>
+        <entry>run</entry>
       </history-search>
       <history-cmd>
-        <entry>168</entry>
-        <entry>6 100 d</entry>
-        <entry>6 28 d</entry>
-        <entry>2, 200 d</entry>
-        <entry>35, 47 d</entry>
-        <entry>3, 500 d</entry>
-        <entry>3, 400 d</entry>
-        <entry>6, 500 ㅇ</entry>
-        <entry>6, 500 d</entry>
-        <entry>w</entry>
-        <entry>400</entry>
-        <entry>452</entry>
-        <entry>1, 120 d</entry>
-        <entry>wq</entry>
-        <entry>407</entry>
-        <entry>1</entry>
-        <entry>10</entry>
-        <entry encoding="base64">JzwsJz4yMjQ=</entry>
+        <entry>190</entry>
         <entry>110</entry>
-        <entry>174</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
