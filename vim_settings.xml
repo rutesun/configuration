@@ -133,6 +133,12 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/kkp/controller/KkpTestControllerTests.kt" timestamp="1557725507405">
         <mark key="[" line="26" column="21" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/company/domain/CompanyInfo.kt" timestamp="1559874594811">
+        <mark key="[" line="202" column="75" />
+        <mark key="]" line="202" column="51" />
+        <mark key="." line="202" column="51" />
+        <mark key="^" line="202" column="51" />
+      </file>
       <file name="$USER_HOME$/Develop/workspace/hibernate-persistence-context/src/test/kotlin/io/rutesun/context/TestConfiguration.kt" timestamp="1556612207743">
         <mark key="[" line="2" column="23" />
       </file>
@@ -161,7 +167,7 @@
       <file name="/dummy.sql" timestamp="1551601160266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559549775473">
+      <file name="/Dummy.txt" timestamp="1559874666696">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/workspace/spring-event/build.gradle" timestamp="1556430752225">
@@ -298,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>warn</text>
+        <text>40</text>
       </register>
       <register name="-" type="4">
-        <text>warn</text>
+        <text>40</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -348,7 +354,7 @@
         }.</text>
       </register>
       <register name=":" type="4">
-        <text>174</text>
+        <text>202</text>
       </register>
     </registers>
     <search>
@@ -377,8 +383,6 @@
         <entry>name</entry>
       </history-search>
       <history-cmd>
-        <entry>168</entry>
-        <entry>6 100 d</entry>
         <entry>6 28 d</entry>
         <entry>2, 200 d</entry>
         <entry>35, 47 d</entry>
@@ -397,6 +401,8 @@
         <entry encoding="base64">JzwsJz4yMjQ=</entry>
         <entry>110</entry>
         <entry>174</entry>
+        <entry>220</entry>
+        <entry>202</entry>
       </history-cmd>
       <history-expr />
       <history-input />
