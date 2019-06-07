@@ -82,11 +82,17 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/app/confirmedStatus/LoanAppConfirmedStatusApiController.kt" timestamp="1556863280363">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/xcom_test.py" timestamp="1559880407093">
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+        <mark key="^" line="32" column="20" />
+      </file>
       <file name="/foodin_master.food_category [@test]" timestamp="1551601159457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1559713769723">
-        <mark key="[" line="131" column="14" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1559880076683">
+        <mark key="[" line="83" column="24" />
         <mark key="]" line="131" column="16" />
         <mark key="." line="131" column="16" />
         <mark key="^" line="131" column="16" />
@@ -124,11 +130,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/bundle/service/impl/BundleServiceImplTest2.kt" timestamp="1551071757798">
         <mark key="[" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_tables.py" timestamp="1559867901052">
-        <mark key="[" line="129" column="16" />
-        <mark key="]" line="129" column="16" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_tables.py" timestamp="1559880285985">
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="59" column="55" />
         <mark key="^" line="111" column="1" />
-        <mark key="." line="129" column="16" />
+        <mark key="." line="59" column="55" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-production.yml" timestamp="1559528605152">
         <mark key="[" line="101" column="35" />
@@ -339,10 +345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>dump_table</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>dump_table</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
