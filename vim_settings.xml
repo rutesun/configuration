@@ -111,6 +111,9 @@
       <file name="$USER_HOME$/Develop/foodin/foodin_api/core/src/main/kotlin/app/foodin/domain/food/Food.kt" timestamp="1551605114275">
         <mark key="[" line="43" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" timestamp="1560137447904">
+        <mark key="'" line="155" column="67" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/bundle/service/impl/BundleServiceImplTest2.kt" timestamp="1551071757798">
         <mark key="[" line="2" column="28" />
       </file>
@@ -216,11 +219,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_incremental.py" timestamp="1559650225925">
         <mark key="[" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1560133396864">
-        <mark key="[" line="122" column="7" />
-        <mark key="]" line="122" column="7" />
-        <mark key="." line="122" column="7" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1560137345457">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
         <mark key="^" line="115" column="11" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1558920075127">
         <mark key="[" line="0" column="0" />
@@ -314,55 +317,60 @@
       <jump line="120" column="46" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterApiController.kt" />
       <jump line="108" column="79" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/CSCustomerService.kt" />
       <jump line="100" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/CSCustomerService.kt" />
+      <jump line="355" column="7" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" />
+      <jump line="151" column="72" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" />
+      <jump line="152" column="11" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" />
+      <jump line="154" column="57" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" />
+      <jump line="155" column="67" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hourly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgY29sdW1uX2xpc3RbJ2Jhbmtfc3RhdGVtZW50J10uYXBwZW5kKCgnc3VtbWFyeScsICInJyIpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>hourly</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>worker</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5teXNxbF9vcGVyYXRvciBpbXBvcnQgTXlTcWxPcGVyYXRvcgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHByaW50KHJvd1sndGFibGVfbmFtZSddLCByb3dbJ2NvbHVtbl9uYW1lJ10pCiAgICBmb3Igcm93IGluIGRhdGE6CiAgICAgICAgcHJpbnQocm93KQogICAgICAgIHByaW50KHJlc3VsdC5rZXlzKCkpCiAgICAgICAgaWYgcm93Wyd0YWJsZV9uYW1lJ10gbm90IGluIHJlc3VsdC5rZXlzKCk6CiAgICAgICAgICAgIHJlc3VsdFtyb3dbJ3RhYmxlX25hbWUnXV0gPSBbXQogICAgICAgIHJlc3VsdFtyb3dbJ3RhYmxlX25hbWUnXV0uYXBwZW5kKChyb3dbJ2NvbHVtbl9uYW1lJ10sIHJvd1snbmV3X3ZhbCddKSk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICMgY29sdW1uX2xpc3RbJ2Jhbmtfc3RhdGVtZW50J10uYXBwZW5kKCgnc3VtbWFyeScsICInJyIpKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHdpdGgoY2xvc2luZyhob29rLmdldF9jb25uKCkpKSBhcyBjb25uOgogICAgICAgIHdpdGggY29ubi5jdXJzb3IoKSBhcyBjdXJzb3I6CiAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKHF1ZXJ5KQogICAgICAgICAgICBkYXRhID0gY3Vyc29yLmZldGNoYWxsKCk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgY29sdW1uX2xpc3RbJ2N1c3RvbWVyJ10uYXBwZW5kKCgnbmFtZScsICInJyIpKQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ZGVmIG1ha2Vfc3RlYWx0aChfZGFnKToKICAgIGNyZWF0ZV9kYXRhYmFzZSA+PiBkdW1wX3N0ZWFsdGggPj4gbG9hZF9zdGVhbHRo</text>
+        <text encoding="base64">IHByaW50KHJvd1sndGFibGVfbmFtZSddLCByb3dbJ2NvbHVtbl9uYW1lJ10pCiAgICBmb3Igcm93IGluIGRhdGE6CiAgICAgICAgcHJpbnQocm93KQogICAgICAgIHByaW50KHJlc3VsdC5rZXlzKCkpCiAgICAgICAgaWYgcm93Wyd0YWJsZV9uYW1lJ10gbm90IGluIHJlc3VsdC5rZXlzKCk6CiAgICAgICAgICAgIHJlc3VsdFtyb3dbJ3RhYmxlX25hbWUnXV0gPSBbXQogICAgICAgIHJlc3VsdFtyb3dbJ3RhYmxlX25hbWUnXV0uYXBwZW5kKChyb3dbJ2NvbHVtbl9uYW1lJ10sIHJvd1snbmV3X3ZhbCddKSk=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGRhZ19kb25lID0gRHVtbXlPcGVyYXRvcigKICAgICAgICB0YXNrX2lkPSdkdW1wX2RvbmUnLAogICAgICAgIG9uX3N1Y2Nlc3NfY2FsbGJhY2s9c2xhY2tfbm90aWZ5X2NhbGxiYWNrLAogICAgICAgIG9uX2ZhaWx1cmVfY2FsbGJhY2s9c2xhY2tfbm90aWZ5X2NhbGxiYWNrLAogICAgICAgIGRhZz1kYWcKICAgICk=</text>
+        <text encoding="base64">IHdpdGgoY2xvc2luZyhob29rLmdldF9jb25uKCkpKSBhcyBjb25uOgogICAgICAgIHdpdGggY29ubi5jdXJzb3IoKSBhcyBjdXJzb3I6CiAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKHF1ZXJ5KQogICAgICAgICAgICBkYXRhID0gY3Vyc29yLmZldGNoYWxsKCk=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ZGVmIG1ha2Vfc3RlYWx0aChfZGFnKToKICAgIGNyZWF0ZV9kYXRhYmFzZSA+PiBkdW1wX3N0ZWFsdGggPj4gbG9hZF9zdGVhbHRo</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IGRhZ19kb25lID0gRHVtbXlPcGVyYXRvcigKICAgICAgICB0YXNrX2lkPSdkdW1wX2RvbmUnLAogICAgICAgIG9uX3N1Y2Nlc3NfY2FsbGJhY2s9c2xhY2tfbm90aWZ5X2NhbGxiYWNrLAogICAgICAgIG9uX2ZhaWx1cmVfY2FsbGJhY2s9c2xhY2tfbm90aWZ5X2NhbGxiYWNrLAogICAgICAgIGRhZz1kYWcKICAgICk=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">IGRhZ19pbmZvID0gRHVtbXlPcGVyYXRvcigKICAgICAgICB0YXNrX2lkPSdkYWdfaW5mbycsCiAgICAgICAgb25fc3VjY2Vzc19jYWxsYmFjaz1ub3RpZnlfZGFnX2luZm8KICAgICkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICdyZXRyeV9kZWxheSc6IHRpbWVkZWx0YShtaW51dGVzPTEpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICdyZXRyaWVzJzogMiwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGFnPWRhZ19zdWJkYWcsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGFnPWRhZ19zdWJkYWcsCg==</text>
+        <text encoding="base64">ICAgICdyZXRyaWVzJzogMiwK</text>
       </register>
       <register name=":" type="4">
         <text>214</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>worker</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>worker</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -371,6 +379,7 @@
         <entry>redis</entry>
         <entry>dump</entry>
         <entry>run</entry>
+        <entry>worker</entry>
       </history-search>
       <history-cmd>
         <entry>190</entry>
