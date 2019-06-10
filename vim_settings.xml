@@ -379,7 +379,7 @@ PRODUCTION_DB = 'lendit_production'</text>
         <text encoding="base64">ICB3aXRoIGNsb3NpbmcobXlzcWwuZ2V0X2Nvbm4oKSkgYXMgY29ubjoKICAgICAgICB3aXRoIGNvbm4gYXMgY3Vyc29yOgogICAgICAgICAgICBjdXJzb3IuZXhlY3V0ZShzcWwpCiAgICAgICAgICAgIGRhdGEgPSBjdXJzb3IuZmV0Y2hhbGwoKQ==</text>
       </register>
       <register name=":" type="4">
-        <text>112</text>
+        <text>74</text>
       </register>
     </registers>
     <search>
@@ -407,6 +407,7 @@ PRODUCTION_DB = 'lendit_production'</text>
         <entry>36</entry>
         <entry>302</entry>
         <entry>112</entry>
+        <entry>74</entry>
       </history-cmd>
       <history-expr />
       <history-input />
