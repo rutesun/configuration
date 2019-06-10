@@ -40,16 +40,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/event/LoanAppUpdate.kt" timestamp="1556850241447">
         <mark key="[" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_summary.py" timestamp="1560160107242">
-        <mark key="[" line="45" column="2" />
-        <mark key="]" line="45" column="2" />
-        <mark key="." line="45" column="2" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_table_incremental.py" timestamp="1559900673083">
-        <mark key="[" line="90" column="43" />
-        <mark key="]" line="7" column="58" />
-        <mark key="." line="26" column="13" />
-        <mark key="^" line="26" column="13" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_summary.py" timestamp="1560168535972">
+        <mark key="[" line="98" column="58" />
+        <mark key="]" line="98" column="58" />
+        <mark key="." line="98" column="58" />
+        <mark key="^" line="97" column="90" />
       </file>
       <file name="$USER_HOME$/Develop/workspace/spring-jpa-mongo/src/main/kotlin/io/rutesun/mongo/ComponentService.kt" timestamp="1558000494962">
         <mark key="[" line="7" column="22" />
@@ -68,16 +63,21 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/bin/tabulate" timestamp="1559903094933">
         <mark key="[" line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_lapp_data.py" timestamp="1560168307575">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/dags/xcom_test.py" timestamp="1559896498531">
         <mark key="[" line="31" column="28" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v3.py" timestamp="1560159733599">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="34" column="21" />
-        <mark key="^" line="34" column="21" />
-        <mark key="." line="34" column="21" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_market_snapshot_v3.py" timestamp="1560168373234">
+        <mark key="[" line="299" column="4" />
+        <mark key="]" line="299" column="4" />
+        <mark key="^" line="297" column="17" />
+        <mark key="." line="299" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/app/confirmedStatus/LoanAppConfirmedStatusApiController.kt" timestamp="1556863280363">
         <mark key="[" line="10" column="0" />
@@ -87,12 +87,6 @@
         <mark key="]" line="83" column="36" />
         <mark key="^" line="83" column="36" />
         <mark key="." line="83" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/xcom_test.py" timestamp="1559881435193">
-        <mark key="[" line="55" column="5" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="32" column="20" />
       </file>
       <file name="/foodin_master.food_category [@test]" timestamp="1551601159457">
         <mark key="[" line="0" column="0" />
@@ -114,12 +108,6 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/kkp/controller/KkpProductControllerTests.kt" timestamp="1557725520724">
         <mark key="[" line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/airflow.cfg" timestamp="1559897695908">
-        <mark key="[" line="354" column="37" />
-        <mark key="]" line="467" column="25" />
-        <mark key="." line="467" column="25" />
-        <mark key="^" line="467" column="25" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/settings.gradle" timestamp="1552303405437">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,12 +122,6 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/bundle/service/impl/BundleServiceImplTest2.kt" timestamp="1551071757798">
         <mark key="[" line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_tables.py" timestamp="1559900634812">
-        <mark key="[" line="73" column="22" />
-        <mark key="]" line="73" column="22" />
-        <mark key="." line="73" column="22" />
-        <mark key="^" line="73" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-production.yml" timestamp="1559528605152">
         <mark key="[" line="101" column="35" />
@@ -168,10 +150,11 @@
         <mark key="^" line="102" column="15" />
         <mark key="." line="38" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1560162328700">
-        <mark key="[" line="30" column="39" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1560167696203">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="4" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1556779686381">
         <mark key="[" line="0" column="0" />
@@ -188,7 +171,7 @@
       <file name="/dummy.sql" timestamp="1551601160266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560160140107">
+      <file name="/Dummy.txt" timestamp="1560168700104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -199,12 +182,14 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/invest/bundle/itemoperation/ItemOperationServiceImpl.kt" timestamp="1551835318436">
         <mark key="[" line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/db_manager.py" timestamp="1560166832465" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/content/Content.kt" timestamp="1557994884282">
         <mark key="[" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/repository/LoanSummaryRepository.kt" timestamp="1557906453937">
         <mark key="[" line="21" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/pandas/io/sql.py" timestamp="1560166670290" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/domain/CSSummary.kt" timestamp="1557906670280">
         <mark key="[" line="28" column="35" />
       </file>
@@ -214,6 +199,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/dto/CSCenterDTO.kt" timestamp="1559637285766">
         <mark key="[" line="340" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/hooks/dbapi_hook.py" timestamp="1560166648709" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1556431989268">
         <mark key="[" line="7" column="3" />
       </file>
@@ -225,7 +211,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/kkp/controller/KkpUserControllerTests.kt" timestamp="1557725502177">
         <mark key="[" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/hooks/mysql_hook.py" timestamp="1560159593023">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/hooks/mysql_hook.py" timestamp="1560166384180">
         <mark key="[" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190513140515__alter_user_name_at_loan_app_comment.sql" timestamp="1557723936668">
@@ -343,10 +329,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICB3aXRoIGNsb3NpbmcobXlzcWwuZ2V0X2Nvbm4oKSkgYXMgY29ubjoKICAgICAgICB3aXRoIGNvbm4gYXMgY3Vyc29yOgogICAgICAgICAgICBjdXJzb3IuZXhlY3V0ZShzcWwpCiAgICAgICAgICAgIGRhdGEgPSBjdXJzb3IuZmV0Y2hhbGwoKQ==</text>
+        <text>lendit_analytics</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>lendit_analytics</text>
       </register>
       <register name="/" type="4">
         <text>worker</text>
@@ -355,43 +341,45 @@
         <text encoding="base64">ICAgIDpwYXJhbSBlbmRfZGFnOgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICB3aXRoIGNsb3NpbmcobXlzcWwuZ2V0X2Nvbm4oKSkgYXMgY29ubjoKICAgICAgICB3aXRoIGNvbm4gYXMgY3Vyc29yOgogICAgICAgICAgICBjdXJzb3IuZXhlY3V0ZShzcWwpCiAgICAgICAgICAgIGRhdGEgPSBjdXJzb3IuZmV0Y2hhbGwoKQ==</text>
+        <text>info = get_conn_info(CONN_STAT_RW)
+    engine = create_engine(&quot;mysql+pymysql://{user}:{pw}@{host}/{db}?charset=utf8&quot;
+                           .format(user=info['user'],
+                                   pw=info['password'],
+                                   host=info['host'],
+                                   db=ANALYTICS_DB
+                                   ))</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBwcmludCgiXG5bZGFnX2luY19zdGFydF1cbiIpCiAgICBwcmludCgiXG5VcFN0cmVhbToge30iLmZvcm1hdChkYWdfaW5jX3N0YXJ0LmdldF9kaXJlY3RfcmVsYXRpdmVzKHVwc3RyZWFtPVRydWUpKSkKICAgIHByaW50KCJEb3duU3RyZWFtOiB7fVxuIi5mb3JtYXQoZGFnX2luY19zdGFydC5nZXRfZGlyZWN0X3JlbGF0aXZlcygpKSkKCiAgICBwcmludCgiXG5bZGFnX2luY19kb25lXVxuIikKICAgIHByaW50KCJcblVwU3RyZWFtOiB7fSIuZm9ybWF0KGRhZ19pbmNfZG9uZS5nZXRfZGlyZWN0X3JlbGF0aXZlcyh1cHN0cmVhbT1UcnVlKSkpCiAgICBwcmludCgiRG93blN0cmVhbToge31cbiIuZm9ybWF0KGRhZ19pbmNfZG9uZS5nZXRfZGlyZWN0X3JlbGF0aXZlcygpKSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRiID0gY29ubmVjdF9kYihQUk9EVUNUSU9OX0RCKQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICBwcmludCgpCiAgICAgICAgcHJpbnQocmVtb3ZlX3BlcnNvbmFsX2luZm9faW5jcmVtZW50YWwudXBzdHJlYW1fbGlzdCkK</text>
+        <text>engine = create_engine(&quot;mysql+pymysql://{user}:{pw}@{host}/{db}?charset=utf8&quot;
+                           .format(user=&quot;root&quot;,
+                                   pw=&quot;&quot;,
+                                   host=&quot;localhost&quot;,
+                                   db=&quot;lendit_analytics&quot;), encoding='utf-8')</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICBwcmludCgiXG5VcFN0cmVhbToge30iLmZvcm1hdChzdGFydF9kYWcuZ2V0X2RpcmVjdF9yZWxhdGl2ZXModXBzdHJlYW09VHJ1ZSkpKQogICAgICAgIHByaW50KCJEb3duU3RyZWFtOiB7fVxuIi5mb3JtYXQoc3RhcnRfZGFnLmdldF9kaXJlY3RfcmVsYXRpdmVzKCkpKQo=</text>
+        <text encoding="base64">d2l0aCBjbG9zaW5nKGRiKSBhcyBjb25uOgogICAgICAgIHdpdGggY29ubi5jdXJzb3IoKSBhcyBjdXJzb3I6CiAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKHF1ZXJ5KQogICAgICAgICAgICBkYXRhID0gY3Vyc29yLmZldGNoYWxsKCkKICAgICAgICAgICAgZGVzYyA9IGN1cnNvci5kZXNjcmlwdGlvbgogICAgICAgICAgICBmaWVsZF9uYW1lID0gW2ZpZWxkWzBdIGZvciBmaWVsZCBpbiBkZXNjXQogICAgICAgICAgICBkZiA9IHBkLkRhdGFGcmFtZShkYXRhKVtmaWVsZF9uYW1lXQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>print(&quot;\n====After=====\n&quot;)
-    print(&quot;\nUpStream: {}&quot;.format(dag_inc_start.get_direct_relatives(upstream=True)))
-    print(&quot;DownStream: {}\n&quot;.format(dag_inc_start.get_direct_relatives()))</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBjcmVhdGVfZW5naW5lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgY29sdW1uX2xpc3RbJ3VzZXInXS5hcHBlbmQoKCduYW1lJywgIicnIikpCg==</text>
+        <text encoding="base64">ICAgIGRiID0gY29ubmVjdF9kYihQUk9EVUNUSU9OX0RCKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>def revise_for_general_name():
-    revise = dict()
-    revise['user'] = ('name', '')</text>
+        <text>ANALYTICS_DB = 'lendit_analytics'
+PRODUCTION_DB = 'lendit_production'</text>
       </register>
-      <register name="8" type="4">
-        <text>if __name__ == '__main__':
-    import dags.modules.remove_personal_info as rp
-    from airflow.hooks.mysql_hook import MySqlHook
-
-    tt = rp.get_column_list('hourly_incremental')
-    make_statement(tt)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBtb2R1bGVzLmRiX21hbmFnZXIgaW1wb3J0IGNvbm5lY3RfZGIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICdsb2FuX2FwcF90ZXh0X2RhdGEnOiAoJ2NyZWF0ZWRfYXQnLCAxKSwK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICB3aXRoIGNsb3NpbmcobXlzcWwuZ2V0X2Nvbm4oKSkgYXMgY29ubjoKICAgICAgICB3aXRoIGNvbm4gYXMgY3Vyc29yOgogICAgICAgICAgICBjdXJzb3IuZXhlY3V0ZShzcWwpCiAgICAgICAgICAgIGRhdGEgPSBjdXJzb3IuZmV0Y2hhbGwoKQ==</text>
       </register>
       <register name=":" type="4">
-        <text>51</text>
+        <text>112</text>
       </register>
     </registers>
     <search>
@@ -416,6 +404,9 @@
         <entry>165</entry>
         <entry>214</entry>
         <entry>51</entry>
+        <entry>36</entry>
+        <entry>302</entry>
+        <entry>112</entry>
       </history-cmd>
       <history-expr />
       <history-input />
