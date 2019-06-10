@@ -178,6 +178,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/invest/bundle/itemoperation/ItemOperationServiceImpl.kt" timestamp="1551835318436">
         <mark key="[" line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190514083415__add_column_payment_master_scheduled_record.sql" timestamp="1560160513279" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/content/Content.kt" timestamp="1557994884282">
         <mark key="[" line="31" column="0" />
       </file>
