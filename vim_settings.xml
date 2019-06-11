@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/remove_personal_info.py" timestamp="1560225307564" />
       <file name="/a.dummy" timestamp="1557467358098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -23,8 +24,8 @@
       <file name="/JSON Fragment (UserSignUpRequestTest.kt:303).json" timestamp="1552384531552">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_v3.py" timestamp="1560221719844">
-        <mark key="[" line="73" column="7" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_v3.py" timestamp="1560225379239">
+        <mark key="[" line="141" column="64" />
         <mark key="]" line="303" column="22" />
         <mark key="." line="303" column="22" />
         <mark key="^" line="302" column="14" />
@@ -130,7 +131,7 @@
       <file name="$USER_HOME$/Develop/workspace/hibernate-persistence-context/src/test/kotlin/io/rutesun/context/TestConfiguration.kt" timestamp="1556612207743">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1560221730925">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1560225320658">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="83" column="47" />
         <mark key="]" line="38" column="25" />
@@ -159,7 +160,7 @@
       <file name="/dummy.sql" timestamp="1551601160266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560172838183">
+      <file name="/Dummy.txt" timestamp="1560225460588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -211,11 +212,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_incremental.py" timestamp="1559650225925">
         <mark key="[" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1560222539464">
-        <mark key="[" line="77" column="3" />
-        <mark key="]" line="77" column="3" />
-        <mark key="." line="77" column="3" />
-        <mark key="^" line="75" column="13" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1560225469888">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="66" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1558920075127">
         <mark key="[" line="0" column="0" />
@@ -317,10 +318,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlmIHR5cGUgPT0gImhvdXJseV9pbmNyZW1lbnRhbCI6CiAgICAgICAgZGIgPSBEQl9QUk9EVUNUSU9OCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGluY3JlbWVudGFsX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiaG91cmx5X25vcm1hbCI6CiAgICAgICAgZGIgPSBEQl9URU1QCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGhvdXJseV9kdW1wX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiZGFpbHkiOgogICAgICAgIGRiID0gREJfVEVNUAogICAgICAgIGNvbmRpdGlvbiA9ICcn</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>worker</text>
@@ -328,19 +329,28 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBlbmRfZGFnOgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGlmIHR5cGUgPT0gImhvdXJseV9pbmNyZW1lbnRhbCI6CiAgICAgICAgZGIgPSBEQl9QUk9EVUNUSU9OCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGluY3JlbWVudGFsX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiaG91cmx5X25vcm1hbCI6CiAgICAgICAgZGIgPSBEQl9URU1QCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGhvdXJseV9kdW1wX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiZGFpbHkiOgogICAgICAgIGRiID0gREJfVEVNUAogICAgICAgIGNvbmRpdGlvbiA9ICcn</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRiID0gREJfUFJPRFVDVElPTgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmRpdGlvbiA9ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGRiID0gREJfVEVNUAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGlmIHR5cGUgPT0gImhvdXJseV9pbmNyZW1lbnRhbCI6CiAgICAgICAgZGIgPSBEQl9QUk9EVUNUSU9OCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGluY3JlbWVudGFsX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiaG91cmx5X25vcm1hbCI6CiAgICAgICAgZGIgPSBEQl9URU1QCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGhvdXJseV9kdW1wX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiZGFpbHkiOgogICAgICAgIGRiID0gREJfVEVNUAogICAgICAgIGNvbmRpdGlvbiA9ICcn</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbmRpdGlvbiA9ICcnCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGRiID0gJ2xlbmRpdF9kZXZlbG9wbWVudCcK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGluZm8gPSBnZXRfY29ubl9pbmZvKCkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>info = get_conn_info(CONN_STAT_RW)
     engine = create_engine(&quot;mysql+pymysql://{user}:{pw}@{host}/{db}?charset=utf8&quot;
                            .format(user=info['user'],
@@ -349,21 +359,8 @@
                                    db=ANALYTICS_DB
                                    ))</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRiID0gY29ubmVjdF9kYihQUk9EVUNUSU9OX0RCKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>engine = create_engine(&quot;mysql+pymysql://{user}:{pw}@{host}/{db}?charset=utf8&quot;
-                           .format(user=&quot;root&quot;,
-                                   pw=&quot;&quot;,
-                                   host=&quot;localhost&quot;,
-                                   db=&quot;lendit_analytics&quot;), encoding='utf-8')</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">d2l0aCBjbG9zaW5nKGRiKSBhcyBjb25uOgogICAgICAgIHdpdGggY29ubi5jdXJzb3IoKSBhcyBjdXJzb3I6CiAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKHF1ZXJ5KQogICAgICAgICAgICBkYXRhID0gY3Vyc29yLmZldGNoYWxsKCkKICAgICAgICAgICAgZGVzYyA9IGN1cnNvci5kZXNjcmlwdGlvbgogICAgICAgICAgICBmaWVsZF9uYW1lID0gW2ZpZWxkWzBdIGZvciBmaWVsZCBpbiBkZXNjXQogICAgICAgICAgICBkZiA9IHBkLkRhdGFGcmFtZShkYXRhKVtmaWVsZF9uYW1lXQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBjcmVhdGVfZW5naW5lCg==</text>
+        <text encoding="base64">ICAgIGRiID0gY29ubmVjdF9kYihQUk9EVUNUSU9OX0RCKQo=</text>
       </register>
       <register name=":" type="4">
         <text>74</text>
