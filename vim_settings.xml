@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/airflow/hooks/http_hook.py" timestamp="1560251184158" />
       <file name="/a.dummy" timestamp="1557467358098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -12,7 +11,6 @@
       <file name="$USER_HOME$/Develop/foodin/foodin_api/entity/src/main/kotlin/app/foodin/entity/user/UserRepository.kt" timestamp="1551590713651">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/requests/models.py" timestamp="1560250592990" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/EntityCrud.kt" timestamp="1556799762305">
         <mark key="[" line="3" column="4" />
       </file>
@@ -25,7 +23,6 @@
       <file name="/JSON Fragment (UserSignUpRequestTest.kt:303).json" timestamp="1552384531552">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/airflow/utils/dates.py" timestamp="1560248137032" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_v3.py" timestamp="1560225379239">
         <mark key="[" line="141" column="64" />
         <mark key="]" line="303" column="22" />
@@ -49,6 +46,7 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="62" column="31" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/bin/wsdump.py" timestamp="1560295001560" />
       <file name="$USER_HOME$/Develop/workspace/spring-jpa-mongo/src/main/kotlin/io/rutesun/mongo/ComponentService.kt" timestamp="1558000494962">
         <mark key="[" line="7" column="22" />
       </file>
@@ -89,8 +87,10 @@
       <file name="/foodin_master.food_category [@test]" timestamp="1551601159457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1560245014014">
-        <mark key="[" line="168" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1560295031937">
+        <mark key="]" line="199" column="17" />
+        <mark key="^" line="199" column="17" />
+        <mark key="." line="199" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/bundle/service/impl/BundleServiceImplTest.kt" timestamp="1556803277974">
         <mark key="[" line="205" column="0" />
@@ -104,7 +104,6 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/settings.gradle" timestamp="1552303405437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/requests/sessions.py" timestamp="1560251142576" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/AdminMenuServiceTest.kt" timestamp="1551061505554">
         <mark key="[" line="31" column="14" />
       </file>
@@ -143,9 +142,9 @@
       <file name="$USER_HOME$/Develop/workspace/hibernate-persistence-context/src/test/kotlin/io/rutesun/context/TestConfiguration.kt" timestamp="1556612207743">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1560244982790">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v3.py" timestamp="1560295164221">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="83" column="47" />
+        <mark key="[" line="151" column="122" />
         <mark key="]" line="38" column="25" />
         <mark key="^" line="103" column="15" />
         <mark key="." line="38" column="25" />
@@ -171,12 +170,11 @@
       <file name="/dummy.sql" timestamp="1551601160266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560253411425">
+      <file name="/Dummy.txt" timestamp="1560295221600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/requests/cookies.py" timestamp="1560250491918" />
       <file name="$USER_HOME$/Develop/workspace/spring-event/build.gradle" timestamp="1556430752225">
         <mark key="[" line="42" column="66" />
       </file>
@@ -189,7 +187,6 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/repository/LoanSummaryRepository.kt" timestamp="1557906453937">
         <mark key="[" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/pip/_vendor/urllib3/connectionpool.py" timestamp="1560250985750" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/domain/CSSummary.kt" timestamp="1557906670280">
         <mark key="[" line="28" column="35" />
       </file>
@@ -213,7 +210,6 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/kkp/controller/KkpUserControllerTests.kt" timestamp="1557725502177">
         <mark key="[" line="31" column="21" />
       </file>
-      <file name="/daily_summary.py" timestamp="1560253361282" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/test.py" timestamp="1560222122000">
         <mark key="[" line="22" column="26" />
       </file>
