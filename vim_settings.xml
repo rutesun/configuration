@@ -43,11 +43,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/event/LoanAppUpdate.kt" timestamp="1556850241447">
         <mark key="[" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_summary.py" timestamp="1560251356426">
-        <mark key="[" line="50" column="69" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="116" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_summary.py" timestamp="1560253056567">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="62" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/workspace/spring-jpa-mongo/src/main/kotlin/io/rutesun/mongo/ComponentService.kt" timestamp="1558000494962">
         <mark key="[" line="7" column="22" />
@@ -171,7 +171,7 @@
       <file name="/dummy.sql" timestamp="1551601160266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560249380493">
+      <file name="/Dummy.txt" timestamp="1560253411425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -199,6 +199,9 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/dto/CSCenterDTO.kt" timestamp="1559637285766">
         <mark key="[" line="340" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/hooks/dbapi_hook.py" timestamp="1560252614539">
+        <mark key="[" line="96" column="19" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1556431989268">
         <mark key="[" line="7" column="3" />
       </file>
@@ -210,6 +213,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/kkp/controller/KkpUserControllerTests.kt" timestamp="1557725502177">
         <mark key="[" line="31" column="21" />
       </file>
+      <file name="/daily_summary.py" timestamp="1560253361282" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/test.py" timestamp="1560222122000">
         <mark key="[" line="22" column="26" />
       </file>
@@ -225,11 +229,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_incremental.py" timestamp="1559650225925">
         <mark key="[" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1560249260847">
-        <mark key="[" line="168" column="61" />
-        <mark key="]" line="86" column="15" />
-        <mark key="." line="86" column="15" />
-        <mark key="^" line="86" column="15" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1560253315439">
+        <mark key="[" line="160" column="4" />
+        <mark key="]" line="160" column="3" />
+        <mark key="." line="160" column="3" />
+        <mark key="^" line="160" column="3" />
       </file>
       <file name="/fragment.java" timestamp="1558920075127">
         <mark key="[" line="0" column="0" />
@@ -330,8 +334,8 @@
       <jump line="155" column="67" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>session</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>session</text>
@@ -342,33 +346,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBlbmRfZGFnOgo=</text>
       </register>
-      <register name="1" type="4">
-        <text># print('cookie', result.cookies)
-        # self.cookies = result.cookies</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRiID0gREJfUFJPRFVDVElPTgo=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRiID0gREJfVEVNUAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGlmIHR5cGUgPT0gImhvdXJseV9pbmNyZW1lbnRhbCI6CiAgICAgICAgZGIgPSBEQl9QUk9EVUNUSU9OCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGluY3JlbWVudGFsX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiaG91cmx5X25vcm1hbCI6CiAgICAgICAgZGIgPSBEQl9URU1QCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGhvdXJseV9kdW1wX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiZGFpbHkiOgogICAgICAgIGRiID0gREJfVEVNUAogICAgICAgIGNvbmRpdGlvbiA9ICcn</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZjMgPSBwZC5EYXRhRnJhbWUoZGF0YSlbZmllbGRfbmFtZXNdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZjIgPSBwZC5EYXRhRnJhbWUoZGF0YSlbZmllbGRfbmFtZXNdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmaWVsZF9uYW1lcyA9IFtpWzBdIGZvciBpIGluIGN1cnNvci5kZXNjcmlwdGlvbl0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhID0gY3Vyc29yLmZldGNoYWxsKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbmRpdGlvbiA9ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3IuZXhlY3V0ZShkYWlseV9pbnZlc3Rfc3VtbWFyeV9tdGRfcXVlcnkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRiID0gJ2xlbmRpdF9kZXZlbG9wbWVudCcK</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3IuZXhlY3V0ZShkYWlseV9pbnZlc3Rfc3VtbWFyeV9hY2N1bV9xdWVyeSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluZm8gPSBnZXRfY29ubl9pbmZvKCkK</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZF9uYW1lcyA9IFtpWzBdIGZvciBpIGluIGN1cnNvci5kZXNjcmlwdGlvbl0K</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
