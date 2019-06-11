@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/remove_personal_info.py" timestamp="1560225307564" />
       <file name="/a.dummy" timestamp="1557467358098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -138,10 +137,10 @@
         <mark key="^" line="103" column="15" />
         <mark key="." line="38" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1560167696203">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/constants.py" timestamp="1560239385880">
+        <mark key="[" line="34" column="47" />
+        <mark key="]" line="34" column="47" />
+        <mark key="." line="34" column="47" />
         <mark key="^" line="3" column="4" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1556779686381">
@@ -156,11 +155,10 @@
       <file name="/JSON Fragment (UserSignUpRequestTest.kt:1319).json" timestamp="1552385725541">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_daily_v2_22.py" timestamp="1560220964414" />
       <file name="/dummy.sql" timestamp="1551601160266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560225460588">
+      <file name="/Dummy.txt" timestamp="1560239405320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -212,11 +210,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_incremental.py" timestamp="1559650225925">
         <mark key="[" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1560225469888">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-        <mark key="^" line="66" column="1" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1560239372717">
+        <mark key="[" line="85" column="31" />
+        <mark key="]" line="85" column="35" />
+        <mark key="." line="85" column="35" />
+        <mark key="^" line="85" column="35" />
       </file>
       <file name="/fragment.java" timestamp="1558920075127">
         <mark key="[" line="0" column="0" />
@@ -318,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>worker</text>
