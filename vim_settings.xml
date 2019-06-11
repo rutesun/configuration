@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/airflow/hooks/http_hook.py" timestamp="1560251184158" />
       <file name="/a.dummy" timestamp="1557467358098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -11,6 +12,7 @@
       <file name="$USER_HOME$/Develop/foodin/foodin_api/entity/src/main/kotlin/app/foodin/entity/user/UserRepository.kt" timestamp="1551590713651">
         <mark key="[" line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/requests/models.py" timestamp="1560250592990" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/EntityCrud.kt" timestamp="1556799762305">
         <mark key="[" line="3" column="4" />
       </file>
@@ -23,6 +25,7 @@
       <file name="/JSON Fragment (UserSignUpRequestTest.kt:303).json" timestamp="1552384531552">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/airflow/utils/dates.py" timestamp="1560248137032" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_v3.py" timestamp="1560225379239">
         <mark key="[" line="141" column="64" />
         <mark key="]" line="303" column="22" />
@@ -39,6 +42,12 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/event/LoanAppUpdate.kt" timestamp="1556850241447">
         <mark key="[" line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/daily_summary.py" timestamp="1560251356426">
+        <mark key="[" line="50" column="69" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/workspace/spring-jpa-mongo/src/main/kotlin/io/rutesun/mongo/ComponentService.kt" timestamp="1558000494962">
         <mark key="[" line="7" column="22" />
@@ -95,11 +104,18 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/settings.gradle" timestamp="1552303405437">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/requests/sessions.py" timestamp="1560251142576" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/AdminMenuServiceTest.kt" timestamp="1551061505554">
         <mark key="[" line="31" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/RoleCode.java" timestamp="1559039283045">
         <mark key="[" line="40" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/lib/lendit_helper.py" timestamp="1560251218790">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="20" />
+        <mark key="^" line="30" column="23" />
+        <mark key="." line="28" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/foodin/foodin_api/core/src/main/kotlin/app/foodin/domain/food/Food.kt" timestamp="1551605114275">
         <mark key="[" line="43" column="30" />
@@ -155,11 +171,12 @@
       <file name="/dummy.sql" timestamp="1551601160266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560245992657">
+      <file name="/Dummy.txt" timestamp="1560249380493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/requests/cookies.py" timestamp="1560250491918" />
       <file name="$USER_HOME$/Develop/workspace/spring-event/build.gradle" timestamp="1556430752225">
         <mark key="[" line="42" column="66" />
       </file>
@@ -172,6 +189,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/repository/LoanSummaryRepository.kt" timestamp="1557906453937">
         <mark key="[" line="21" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/workspace/python/airflow/env/lib/python3.7/site-packages/pip/_vendor/urllib3/connectionpool.py" timestamp="1560250985750" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/domain/CSSummary.kt" timestamp="1557906670280">
         <mark key="[" line="28" column="35" />
       </file>
@@ -195,7 +213,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/test.py" timestamp="1560222122000">
         <mark key="[" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/hooks/mysql_hook.py" timestamp="1560166384180">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/env/lib/python3.7/site-packages/airflow/hooks/mysql_hook.py" timestamp="1560249464219">
         <mark key="[" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190513140515__alter_user_name_at_loan_app_comment.sql" timestamp="1557723936668">
@@ -207,11 +225,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/dump_hourly_incremental.py" timestamp="1559650225925">
         <mark key="[" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1560245426402">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/remove_personal_info.py" timestamp="1560249260847">
         <mark key="[" line="168" column="61" />
-        <mark key="]" line="168" column="61" />
-        <mark key="." line="168" column="61" />
-        <mark key="^" line="168" column="83" />
+        <mark key="]" line="86" column="15" />
+        <mark key="." line="86" column="15" />
+        <mark key="^" line="86" column="15" />
       </file>
       <file name="/fragment.java" timestamp="1558920075127">
         <mark key="[" line="0" column="0" />
@@ -313,10 +331,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>session</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>session</text>
       </register>
       <register name="/" type="4">
         <text>worker</text>
@@ -324,41 +342,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBlbmRfZGFnOgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRiID0gREJfUFJPRFVDVElPTgo=</text>
+      <register name="1" type="4">
+        <text># print('cookie', result.cookies)
+        # self.cookies = result.cookies</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRiID0gREJfVEVNUAo=</text>
+        <text encoding="base64">ICAgIGRiID0gREJfUFJPRFVDVElPTgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGlmIHR5cGUgPT0gImhvdXJseV9pbmNyZW1lbnRhbCI6CiAgICAgICAgZGIgPSBEQl9QUk9EVUNUSU9OCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGluY3JlbWVudGFsX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiaG91cmx5X25vcm1hbCI6CiAgICAgICAgZGIgPSBEQl9URU1QCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGhvdXJseV9kdW1wX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiZGFpbHkiOgogICAgICAgIGRiID0gREJfVEVNUAogICAgICAgIGNvbmRpdGlvbiA9ICcn</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmRpdGlvbiA9ICcnCg==</text>
+        <text encoding="base64">ICAgIGRiID0gREJfVEVNUAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRiID0gJ2xlbmRpdF9kZXZlbG9wbWVudCcK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGlmIHR5cGUgPT0gImhvdXJseV9pbmNyZW1lbnRhbCI6CiAgICAgICAgZGIgPSBEQl9QUk9EVUNUSU9OCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGluY3JlbWVudGFsX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiaG91cmx5X25vcm1hbCI6CiAgICAgICAgZGIgPSBEQl9URU1QCiAgICAgICAgY29uZGl0aW9uID0gJ2FuZCBhLnRhYmxlX25hbWUgaW4gKHt9KScuZm9ybWF0KGhvdXJseV9kdW1wX3RhYmxlc19zdHIoKSkKICAgIGVsaWYgdHlwZSA9PSAiZGFpbHkiOgogICAgICAgIGRiID0gREJfVEVNUAogICAgICAgIGNvbmRpdGlvbiA9ICcn</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluZm8gPSBnZXRfY29ubl9pbmZvKCkK</text>
+        <text encoding="base64">ICAgIGNvbmRpdGlvbiA9ICcnCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>info = get_conn_info(CONN_STAT_RW)
-    engine = create_engine(&quot;mysql+pymysql://{user}:{pw}@{host}/{db}?charset=utf8&quot;
-                           .format(user=info['user'],
-                                   pw=info['password'],
-                                   host=info['host'],
-                                   db=ANALYTICS_DB
-                                   ))</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRiID0gJ2xlbmRpdF9kZXZlbG9wbWVudCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRiID0gY29ubmVjdF9kYihQUk9EVUNUSU9OX0RCKQo=</text>
+        <text encoding="base64">ICAgIGluZm8gPSBnZXRfY29ubl9pbmZvKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>74</text>
+        <text>59</text>
       </register>
     </registers>
     <search>
@@ -387,6 +400,7 @@
         <entry>302</entry>
         <entry>112</entry>
         <entry>74</entry>
+        <entry>59</entry>
       </history-cmd>
       <history-expr />
       <history-input />
