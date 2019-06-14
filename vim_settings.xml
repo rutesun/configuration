@@ -92,11 +92,11 @@
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1560323333191">
-        <mark key="[" line="209" column="151" />
-        <mark key="]" line="199" column="17" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit-airflow/dags/modules/dump_manager.py" timestamp="1560503088011">
+        <mark key="[" line="211" column="23" />
+        <mark key="]" line="211" column="23" />
         <mark key="^" line="199" column="17" />
-        <mark key="." line="199" column="17" />
+        <mark key="." line="211" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/bundle/service/impl/BundleServiceImplTest.kt" timestamp="1556803277974">
         <mark key="[" line="205" column="0" />
@@ -176,7 +176,7 @@
       <file name="/dummy.sql" timestamp="1551601160266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560323340937">
+      <file name="/Dummy.txt" timestamp="1560503190492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -336,11 +336,11 @@
       <jump line="155" column="67" filename="$USER_HOME$/Develop/lenditKr/lendit-airflow/airflow.cfg" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24gPSBzZWxmLl9odHRwLmdldF9jb25uKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0tc2luZ2xlLXRyYW5zYWN0aW9uIA==</text>
       </register>
       <register name="-" type="4">
-        <text>_http</text>
+        <text encoding="base64">IC0tc2luZ2xlLXRyYW5zYWN0aW9uIA==</text>
       </register>
       <register name="/" type="4">
         <text>worker</text>
