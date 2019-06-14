@@ -2,9 +2,27 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Develop/foodin/foodin_api/core/src/main/kotlin/app/foodin/core/service/ReviewService.kt" timestamp="1560474480876" />
+      <file name="$USER_HOME$/Develop/foodin/foodin_api/entity/src/main/kotlin/app/foodin/entity/review/ReviewRepository.kt" timestamp="1560474387051" />
+      <file name="$USER_HOME$/Develop/foodin/foodin_api/api/src/test/kotlin/app/foodin/core/service/ReviewServiceTest.kt" timestamp="1560474562042">
+        <mark key="[" line="54" column="47" />
+      </file>
+      <file name="$USER_HOME$/Develop/foodin/foodin_api/core/src/main/kotlin/app/foodin/core/service/ReviewHandler.kt" timestamp="1560474402232">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>user</text>
+      </register>
+      <register name="-" type="4">
+        <text>user</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
