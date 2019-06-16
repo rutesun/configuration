@@ -3,9 +3,11 @@
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name=":" value="$NAME$ := $VALUE$" description="Variable declaration :=" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="VALUE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
