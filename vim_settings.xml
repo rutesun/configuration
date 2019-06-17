@@ -3,18 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1560498307950">
+      <file name="/Dummy.txt" timestamp="1560740809202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/foodin/foodin_api/entity/src/main/kotlin/app/foodin/entity/review/ReviewEntity.kt" timestamp="1560736608288">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/misc/domain/EntityWithUpdatedTime.kt" timestamp="1560737946576" />
-      <file name="$USER_HOME$/Develop/foodin/foodin_api/entity/src/main/kotlin/app/foodin/entity/review/ReviewRepository.kt" timestamp="1560736229822" />
-      <file name="/fragment.kt" timestamp="1560736231088">
+      <file name="$USER_HOME$/Develop/foodin/foodin_api/entity/src/main/kotlin/app/foodin/entity/review/ReviewRepository.kt" timestamp="1560741068592">
+        <mark key="[" line="37" column="63" />
+        <mark key="]" line="37" column="62" />
+        <mark key="^" line="37" column="62" />
+        <mark key="." line="37" column="62" />
+      </file>
+      <file name="/fragment.kt" timestamp="1560741109079">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/CSCustomerService.kt" timestamp="1560497639120">
         <mark key="[" line="130" column="13" />
@@ -30,18 +38,28 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/dto/CSCenterDTO.kt" timestamp="1560497689475" />
       <file name="$USER_HOME$/Develop/foodin/foodin_api/core/src/main/kotlin/app/foodin/core/service/ReviewService.kt" timestamp="1560735771381" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/PaymentAdminController.java" timestamp="1560477160005" />
-      <file name="$USER_HOME$/Develop/foodin/foodin_api/api/src/test/kotlin/app/foodin/core/service/ReviewServiceTest.kt" timestamp="1560736177745">
-        <mark key="[" line="89" column="22" />
-        <mark key="]" line="89" column="22" />
-        <mark key="." line="89" column="22" />
-        <mark key="^" line="89" column="22" />
+      <file name="$USER_HOME$/Develop/foodin/foodin_api/api/src/test/kotlin/app/foodin/core/service/ReviewServiceTest.kt" timestamp="1560740638248">
+        <mark key="[" line="85" column="29" />
+        <mark key="]" line="85" column="29" />
+        <mark key="." line="85" column="29" />
+        <mark key="^" line="85" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/foodin/foodin_api/entity/src/main/kotlin/app/foodin/entity/common/BaseEntity.kt" timestamp="1560736681281" />
+      <file name="$USER_HOME$/Develop/foodin/foodin_api/core/src/main/kotlin/app/foodin/domain/common/BaseDomain.kt" timestamp="1560739322823">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/Develop/foodin/foodin_api/entity/src/main/kotlin/app/foodin/entity/common/BaseEntity.kt" timestamp="1560740742778">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/foodin/foodin_api/entity/src/main/resources/entity-test.properties" timestamp="1560735607614">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/misc/domain/EntityWithCreatedTime.kt" timestamp="1560739253174" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/PaymentMasterServiceImpl.java" timestamp="1560480249393" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/async/AsyncServiceImpl.kt" timestamp="1560737916853" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterApiController.kt" timestamp="1560498227965">
@@ -59,27 +77,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVkVGltZSA9IFRpbWVzdGFtcChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVkVGltZSA9IFRpbWVzdGFtcChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVkVGltZSA9IFRpbWVzdGFtcChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB2YWx1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZCA9IHJldmlldy5pZAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXQodmFsdWUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5pZCA9IHJldmlldy5pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2F2ZWQpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.let {
-
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmV2aWV3KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgc2V0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgc2V0Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB1cGRhdGVkVGltZSA9IFRpbWVzdGFtcChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVkVGltZSA9IFRpbWVzdGFtcChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>!</text>
       </register>
     </registers>
     <search>
