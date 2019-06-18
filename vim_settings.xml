@@ -34,6 +34,7 @@
         <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/CSCenterEventHandler.kt" timestamp="1560758260600" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/MarketingCampaignService.kt" timestamp="1560839312767" />
       <file name="$USER_HOME$/Develop/foodin/foodin_api/api/src/main/resources/logback-slack.xml" timestamp="1560819275767">
         <mark key="[" line="63" column="25" />
         <mark key="]" line="63" column="25" />
