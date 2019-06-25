@@ -8,6 +8,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561459019696">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/Develop/foodin/foodin_api/api/src/main/resources/application.yml" timestamp="1560818849111">
         <mark key="[" line="75" column="28" />
         <mark key="]" line="75" column="28" />
@@ -34,7 +40,7 @@
         <mark key="]" line="130" column="13" />
         <mark key="." line="130" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/DoMonitor.kt" timestamp="1561455758244" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/DoMonitor.kt" timestamp="1561458610106" />
       <file name="$USER_HOME$/Develop/foodin/foodin_api/api/src/main/resources/logback.xml" timestamp="1560819175284">
         <mark key="[" line="21" column="54" />
         <mark key="]" line="54" column="0" />
@@ -91,38 +97,42 @@
       <jump line="466" column="38" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterApiController.kt" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>enum class Bar: Foo {
+
+}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>user_id</text>
+        <text>enum class Bar: Foo {
+
+}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IC8qKgogICAgICog67CY65Oc7IucIOyLpO2WieuQmOyWtOyVvOunjCDtlZjripQg7KeA7JeQIOuMgO2VnCDsl6zrtoAKICAgICAqIOuwsO2PrCDsi5wg67Cw7Y+sIOyLnOqwhOyXkCDsnZjtlZjsl6wg7Iuk7ZaJ65CY7KeAIOuqu+2VoCBiYXRjaOuTpOydmCDqsJzsiJjrpbwg7IKw7Lac7ZWgIOuVjAogICAgICog7ZW064u56rCS7J20IGZhbHNl7J24IOqyveyasOuKlCDsoJzsmbjtlZzri6QuCiAgICAgKi8KICAgIHZhbCBzaG91bGRSdW46IEJvb2xlYW4gPSB0cnVl</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDxsb2dnZXIgbGV2ZWw9IklORk8iIG5hbWU9IkFMQVJNX1NMQUNLIj4KICAgIDxhcHBlbmRlci1yZWYgcmVmPSJBU1lOQ19TTEFDSyIvPgogIDwvbG9nZ2VyPgoKICA8bG9nZ2VyIGxldmVsPSJJTkZPIiBuYW1lPSJJTkZPX1NMQUNLIj4KICAgIDxhcHBlbmRlci1yZWYgcmVmPSJBU1lOQ19TTEFDSyIvPgogICAgPGFwcGVuZGVyLXJlZiByZWY9ImRhaWx5Um9sbGluZ0ZpbGVBcHBlbmRlciIvPgogIDwvbG9nZ2VyPg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8L2FwcGVuZGVyPgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IDxsb2dnZXIgbGV2ZWw9IklORk8iIG5hbWU9IkFMQVJNX1NMQUNLIj4KICAgIDxhcHBlbmRlci1yZWYgcmVmPSJBU1lOQ19TTEFDSyIvPgogIDwvbG9nZ2VyPgoKICA8bG9nZ2VyIGxldmVsPSJJTkZPIiBuYW1lPSJJTkZPX1NMQUNLIj4KICAgIDxhcHBlbmRlci1yZWYgcmVmPSJBU1lOQ19TTEFDSyIvPgogICAgPGFwcGVuZGVyLXJlZiByZWY9ImRhaWx5Um9sbGluZ0ZpbGVBcHBlbmRlciIvPgogIDwvbG9nZ2VyPg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxhcHBlbmRlci1yZWYgcmVmPSJTTEFDS19ERVYiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8YXBwZW5kZXIgY2xhc3M9ImNoLnFvcy5sb2diYWNrLmNsYXNzaWMuQXN5bmNBcHBlbmRlciIgbmFtZT0iQVNZTkNfREVWX1NMQUNLIj4K</text>
+        <text encoding="base64">ICA8L2FwcGVuZGVyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxmaWx0ZXIgY2xhc3M9ImtyLmNvLmxlbmRpdC5maWx0ZXIuV2FybkZpbHRlciIvPgo=</text>
+        <text encoding="base64">ICAgIDxhcHBlbmRlci1yZWYgcmVmPSJTTEFDS19ERVYiLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8bG9nZ2VyIGxldmVsPSJERUJVRyIgbmFtZT0ia3IuY28ubGVuZGl0Ii8+Cg==</text>
+        <text encoding="base64">ICA8YXBwZW5kZXIgY2xhc3M9ImNoLnFvcy5sb2diYWNrLmNsYXNzaWMuQXN5bmNBcHBlbmRlciIgbmFtZT0iQVNZTkNfREVWX1NMQUNLIj4K</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>TaskState</text>
       </register>
     </registers>
     <search>
