@@ -19,11 +19,16 @@
         <mark key="." line="22" column="9" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.10.RELEASE/7a742dc18d6eeec24dfb52e948ee46ee4dd4c222/spring-data-jpa-1.11.10.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java" timestamp="1561526845657" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561530154465">
-        <mark key="'" line="124" column="44" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190626154334__task_state_record.sql" timestamp="1561532062533">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561532346040">
+        <mark key="'" line="129" column="44" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/UserDeposit.kt" timestamp="1561526575736">
         <mark key="[" line="28" column="7" />
@@ -31,11 +36,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserStatusCode.kt" timestamp="1561525678210" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-envers/5.2.12.Final/8e4574f9b2c30b8253199d3933246adda90cb98a/hibernate-envers-5.2.12.Final-sources.jar!/org/hibernate/envers/Audited.java" timestamp="1561517637992" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/EnumType.java" timestamp="1561520507237" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/PaymentAdminController.java" timestamp="1561529997888">
-        <mark key="[" line="94" column="18" />
-        <mark key="]" line="94" column="18" />
-        <mark key="^" line="94" column="18" />
-        <mark key="." line="94" column="18" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/PaymentAdminController.java" timestamp="1561532123659">
+        <mark key="[" line="104" column="59" />
+        <mark key="]" line="104" column="59" />
+        <mark key="^" line="104" column="59" />
+        <mark key="." line="104" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1561520667839">
         <mark key="[" line="99" column="6" />
@@ -55,38 +60,48 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHRhc2tTdGF0ZVJlY29yZFJlcG9zaXRvcnk6IFRhc2tTdGF0ZVJlY29yZFJlcG9zaXRvcnkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFJVTk5JTkcsCg==</text>
+      <register name="1" type="4">
+        <text>CREATE TABLE `task_state_record` (
+                                   `id` int(11) NOT NULL AUTO_INCREMENT,
+                                   `task` varchar(30) NOT NULL,
+                                   `state` varchar(50) NOT NULL,
+                                   `description` varchar(255) DEFAULT NULL,
+                                   `process_state` varchar(20) DEFAULT NULL,
+                                   `created_at` datetime DEFAULT CURRENT_TIMESTAMP,
+                                   `updated_at` datetime DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+                                   PRIMARY KEY (`id`),
+                                   UNIQUE KEY `task` (`task`,`state`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJVTk5JTkcsCg==</text>
+      <register name="&quot;" type="4">
+        <text>state</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAgIEBJZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlY29yZAo=</text>
+        <text encoding="base64">ICAgIFJVTk5JTkcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTdGF0ZVJlY29yZCh0YXNrID0gInBheW1lbnQiLCBzdGF0ZSA9ICkK</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJlcGVhdGFibGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlY29yZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgIEBTdGF0ZVJlY29yZCh0YXNrID0gInBheW1lbnQiLCBzdGF0ZSA9ICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJlc3VsdCA9IHBqcC5wcm9jZWVkKCkKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">QFJlcGVhdGFibGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkRW5kKHJlY29yZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkRW5kKHJlY29yZCwgZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJlc3VsdCA9IHBqcC5wcm9jZWVkKCkKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>START</text>
+        <text>state</text>
       </register>
     </registers>
     <search>
