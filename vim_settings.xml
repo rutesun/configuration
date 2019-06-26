@@ -9,26 +9,37 @@
         <mark key="." line="76" column="33" />
         <mark key="^" line="76" column="24" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateRecorder.kt" timestamp="1561541983743">
+        <mark key="[" line="41" column="47" />
+        <mark key="]" line="41" column="47" />
+        <mark key="." line="41" column="47" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanapp/document/LoanAppDocumentWatcher.kt" timestamp="1561513706559" />
       <file name="/a.dummy" timestamp="1561527602804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/common/monitor/TaskStateTest.kt" timestamp="1561520377746">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="22" column="9" />
-        <mark key="." line="22" column="9" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/common/monitor/TaskStateTest.kt" timestamp="1561539246466">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.10.RELEASE/7a742dc18d6eeec24dfb52e948ee46ee4dd4c222/spring-data-jpa-1.11.10.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java" timestamp="1561526845657" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190626154334__task_state_record.sql" timestamp="1561532062533">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecordAop.kt" timestamp="1561541444005" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateRecord.kt" timestamp="1561542496116">
+        <mark key="[" line="60" column="23" />
+        <mark key="]" line="60" column="23" />
+        <mark key="." line="60" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561532346040">
-        <mark key="'" line="129" column="44" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="8" />
-        <mark key="." line="27" column="8" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190626154334__task_state_record.sql" timestamp="1561539788937">
+        <mark key="[" line="12" column="70" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1561542611787">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561541437772">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/UserDeposit.kt" timestamp="1561526575736">
         <mark key="[" line="28" column="7" />
@@ -36,11 +47,17 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserStatusCode.kt" timestamp="1561525678210" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-envers/5.2.12.Final/8e4574f9b2c30b8253199d3933246adda90cb98a/hibernate-envers-5.2.12.Final-sources.jar!/org/hibernate/envers/Audited.java" timestamp="1561517637992" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/EnumType.java" timestamp="1561520507237" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/PaymentAdminController.java" timestamp="1561532123659">
-        <mark key="[" line="104" column="59" />
-        <mark key="]" line="104" column="59" />
-        <mark key="^" line="104" column="59" />
-        <mark key="." line="104" column="59" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/PaymentAdminController.java" timestamp="1561542632312">
+        <mark key="[" line="120" column="41" />
+        <mark key="]" line="120" column="41" />
+        <mark key="^" line="120" column="41" />
+        <mark key="." line="120" column="41" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskState.kt" timestamp="1561542028530">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1561520667839">
         <mark key="[" line="99" column="6" />
@@ -58,50 +75,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHRhc2tTdGF0ZVJlY29yZFJlcG9zaXRvcnk6IFRhc2tTdGF0ZVJlY29yZFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJzdGF0ZSIpCiAgICB2YXIgZnJvbVN0YXRlOiBTdHJpbmcsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>CREATE TABLE `task_state_record` (
-                                   `id` int(11) NOT NULL AUTO_INCREMENT,
-                                   `task` varchar(30) NOT NULL,
-                                   `state` varchar(50) NOT NULL,
-                                   `description` varchar(255) DEFAULT NULL,
-                                   `process_state` varchar(20) DEFAULT NULL,
-                                   `created_at` datetime DEFAULT CURRENT_TIMESTAMP,
-                                   `updated_at` datetime DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-                                   PRIMARY KEY (`id`),
-                                   UNIQUE KEY `task` (`task`,`state`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>state</text>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJVTk5JTkcsCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAgIGZ1biBmaW5kQnlUYXNrTmFtZSh0YXNrTmFtZTogU3RyaW5nKTogVGFza1N0YXRlUmVjb3JkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlY29yZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBTdGF0ZVJlY29yZCh0YXNrID0gInBheW1lbnQiLCBzdGF0ZSA9ICkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIC8vICAgIEBJZAovLyAgICBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5JREVOVElUWSkKLy8gICAgdmFsIGlkOiBMb25nID0gMEw=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFJlcGVhdGFibGUK</text>
+        <text encoding="base64">Ly8gICAgQEp2bUZpZWxkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">Ly8gICAgQEp2bUZpZWxkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJlc3VsdCA9IHBqcC5wcm9jZWVkKCkKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVjb3JkLmN1cnJlbnRTdGF0ZS5pc05vdEVtcHR5KCkpIHRoaXMuZnJvbVN0YXRlID0gcmVjb3JkLmN1cnJlbnRTdGF0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text />
       </register>
     </registers>
     <search>
