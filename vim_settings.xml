@@ -8,11 +8,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561511490808">
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561513728648">
+        <mark key="'" line="92" column="44" />
+        <mark key="[" line="99" column="10" />
+        <mark key="]" line="99" column="11" />
+        <mark key="." line="99" column="11" />
+        <mark key="^" line="99" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/foodin/foodin_api/api/src/main/resources/application.yml" timestamp="1560818849111">
         <mark key="[" line="75" column="28" />
@@ -31,7 +32,8 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/UserDeposit.kt" timestamp="1561511300473" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/UserDeposit.kt" timestamp="1561512810657" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanapp/document/LoanAppDocumentWatcher.kt" timestamp="1561513706559" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/CSCustomerService.kt" timestamp="1560497639120">
         <mark key="[" line="130" column="13" />
         <mark key="]" line="130" column="13" />
@@ -89,31 +91,19 @@
     </filemarks>
     <jumps>
       <jump line="466" column="38" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterApiController.kt" />
+      <jump line="74" column="44" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>val endAt = LocalDateTime.now()
-        val executionInfo = taskExecutionInfoRepository.findByCode(code)
-            ?: throw IllegalStateException(&quot;no such task execution info: $code&quot;)
-
-        executionInfo.lastEndAt = endAt
-        executionInfo.lastException = e?.message
-        taskExecutionInfoRepository.save(executionInfo)
-
-        var executionInfoHistory = TaskExecutionInfoHistory(
-            code = executionInfo.code,
-            runningTime = ChronoUnit.MILLIS.between(startAt, endAt),
-            exception = executionInfo.lastException,
-            startAt = startAt,
-            endAt = executionInfo.lastEndAt
-        )
-        /**
-         * for grayLog
-         */
-        executionInfoHistory = taskExecutionInfoHistoryRepository.save(executionInfoHistory)
-        MDC.put(&quot;task_execution_info_history_id&quot;, executionInfoHistory.id.toString())</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbm4K</text>
       </register>
       <register name="&quot;" type="4">
+        <text>RuntimeException</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhcnRBdCA9IExvY2FsRGF0ZVRpbWUubm93KCkK</text>
+      </register>
+      <register name="3" type="4">
         <text>val endAt = LocalDateTime.now()
         val executionInfo = taskExecutionInfoRepository.findByCode(code)
             ?: throw IllegalStateException(&quot;no such task execution info: $code&quot;)
@@ -135,10 +125,10 @@
         executionInfoHistory = taskExecutionInfoHistoryRepository.save(executionInfoHistory)
         MDC.put(&quot;task_execution_info_history_id&quot;, executionInfoHistory.id.toString())</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGFzayA9IGFubi50YXNrCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>val executionInfo = taskExecutionInfoRepository.findByCode(code)
             ?: throw IllegalArgumentException(&quot;no such execution info: $code&quot;)
         executionInfo.lastStartAt = startAt
@@ -147,26 +137,20 @@
         executionInfo.lastAlarmSent = false
         taskExecutionInfoRepository.save(executionInfo)</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcnVuU2VydmVyUHJvZmlsZSA9IHByb2ZpbGUsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcnVuU2VydmVySXAgPSBpcCwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBleGVjdXRpb25JbmZvLmxhc3RSdW5TZXJ2ZXIgPSAiJHByb2ZpbGUsJGlwIgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgdmFsIHByb2ZpbGUgPSB3aGVuIChlbnZpcm9ubWVudC5hY3RpdmVQcm9maWxlcy5zaXplKSB7CiAgICAgICAgICAgIDAgLT4gZW52aXJvbm1lbnQuZGVmYXVsdFByb2ZpbGVzLmpvaW5Ub1N0cmluZygiLCIpCiAgICAgICAgICAgIGVsc2UgLT4gZW52aXJvbm1lbnQuYWN0aXZlUHJvZmlsZXMuam9pblRvU3RyaW5nKCIsIikKICAgICAgICB9CiAgICAgICAgdmFsIGlwID0gdHJ5IHsKICAgICAgICAgICAgSW5ldEFkZHJlc3MuZ2V0TG9jYWxIb3N0KCkuZ2V0SG9zdEFkZHJlc3MoKQogICAgICAgIH0gY2F0Y2ggKGU6IFVua25vd25Ib3N0RXhjZXB0aW9uKSB7CiAgICAgICAgICAgICJVTktOT1dOIgogICAgICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IG1ldGhvZEZ1bGxOYW1lLnJlcGxhY2VGaXJzdCgia3JcXC5jb1xcLmxlbmRpdFxcLiIudG9SZWdleCgpLCAiIikK</text>
-      </register>
       <register name="-" type="4">
-        <text>code</text>
+        <text>RuntimeException</text>
       </register>
     </registers>
     <search>
