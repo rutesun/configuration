@@ -30,16 +30,15 @@
         <mark key="]" line="60" column="23" />
         <mark key="." line="60" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/MarketingCampaignService.kt" timestamp="1561596525229">
-        <mark key="[" line="69" column="101" />
-        <mark key="]" line="69" column="101" />
-        <mark key="^" line="75" column="98" />
-        <mark key="." line="69" column="101" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/MarketingCampaignService.kt" timestamp="1561611287950">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190626154334__task_state_record.sql" timestamp="1561539788937">
         <mark key="[" line="12" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561596552863">
+      <file name="/Dummy.txt" timestamp="1561611301757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561541437772">
@@ -88,34 +87,34 @@
         <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJzdGF0ZSIpCiAgICB2YXIgZnJvbVN0YXRlOiBTdHJpbmcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY3Vyc29yID0gMAo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ampaignListUID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgY3Vyc29yID0gMAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgYnVsa1NpemUgPSAyMDAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IHZhbCBtYXhTaXplID0gbGlzdC5zaXplCiAgICAgICAgdmFsIGJ1bGtTaXplID0gMjAwCiAgICAgICAgdmFyIGN1cnNvciA9IDAKCiAgICAgICAgZG8gewogICAgICAgICAgICB2YWwgc3ViTGlzdCA9IGxpc3Quc3ViTGlzdChjdXJzb3IsIG1pbihjdXJzb3IgKyBidWxrU2l6ZSwgbWF4U2l6ZSkpCiAgICAgICAgICAgIHZhbCBkdG9MaXN0ID0gbWFrZUNhbXBhaWduSXRlbUR0byhzdWJMaXN0KQoKICAgICAgICAgICAgbWFrZUFuZFJlZ2lzdGVyKG1DYW1wYWlnbiwgZHRvTGlzdCkKCiAgICAgICAgICAgIGN1cnNvciArPSBidWxrU2l6ZQogICAgICAgICAgICBsb2cuaW5mbygiW091dGJvdW5kXSAke21DYW1wYWlnbi5saXN0VUlEfTogKCR7bWluKGN1cnNvciArIDEsIG1heFNpemUpfSAvICRtYXhTaXplLCBza2lwcGVkOiAke3N1Ykxpc3Quc2l6ZSAtIGR0b0xpc3Quc2l6ZX0pIOy6oO2OmOyduCDrk7HroZ0g7JmE66OMIikKICAgICAgICB9IHdoaWxlIChjdXJzb3IgPCBtYXhTaXplKQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbUNhbXBhaWduID0gY2FtcGFpZ25TZXJ2aWNlLmNyZWF0ZUNhbXBhaWduKENhbXBhaWduVHlwZS5NKQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbUNhbXBhaWduID0gY2FtcGFpZ25TZXJ2aWNlLmNyZWF0ZUNhbXBhaWduKENhbXBhaWduVHlwZS5NKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBmaW5kQnlUYXNrTmFtZSh0YXNrTmFtZTogU3RyaW5nKTogVGFza1N0YXRlUmVjb3JkCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBmaW5kQnlUYXNrTmFtZSh0YXNrTmFtZTogU3RyaW5nKTogVGFza1N0YXRlUmVjb3JkCg==</text>
       </register>
       <register name="-" type="4">
         <text>ampaignListUID</text>
