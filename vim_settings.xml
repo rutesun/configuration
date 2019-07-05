@@ -6,21 +6,21 @@
       <file name="/Dummy.txt" timestamp="1562133655661">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateService.kt" timestamp="1562305618056">
-        <mark key="[" line="32" column="43" />
-        <mark key="]" line="32" column="43" />
-        <mark key="^" line="32" column="43" />
-        <mark key="." line="32" column="43" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateService.kt" timestamp="1562310520702">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561541437772">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateRecorder.kt" timestamp="1562297079079">
-        <mark key="[" line="41" column="47" />
-        <mark key="]" line="41" column="47" />
-        <mark key="." line="41" column="47" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateRecorder.kt" timestamp="1562309784237">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/UserDeposit.kt" timestamp="1561526575736">
         <mark key="[" line="28" column="7" />
@@ -28,33 +28,39 @@
       <file name="/a.dummy" timestamp="1561595900789">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190705153510__alter_state_record.sql" timestamp="1562309789535">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/common/monitor/TaskStateTest.kt" timestamp="1561539246466">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="9" />
         <mark key="." line="21" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/PaymentAdminController.java" timestamp="1562299319533">
-        <mark key="[" line="99" column="69" />
-        <mark key="]" line="99" column="69" />
-        <mark key="^" line="99" column="69" />
-        <mark key="." line="99" column="69" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/PaymentAdminController.java" timestamp="1562309375595">
+        <mark key="[" line="128" column="58" />
+        <mark key="]" line="128" column="58" />
+        <mark key="^" line="97" column="121" />
+        <mark key="." line="128" column="58" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskState.kt" timestamp="1562305062185">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskState.kt" timestamp="1562308590188">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/payment/PaymentState.kt" timestamp="1562299322901">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/payment/PaymentState.kt" timestamp="1562308800529">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateRecord.kt" timestamp="1562306776124">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="47" column="35" />
-        <mark key="." line="47" column="35" />
-        <mark key="^" line="47" column="35" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateRecord.kt" timestamp="1562310503965">
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190626154334__task_state_record.sql" timestamp="1562133367602">
         <mark key="[" line="0" column="39" />
@@ -76,41 +82,41 @@
       <jump line="74" column="44" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJzdGF0ZSIpCiAgICB2YXIgZnJvbVN0YXRlOiBTdHJpbmcsCg==</text>
+      <register name="0" type="4">
+        <text>taskName: String, nextState: State</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJsYXN0X3N0YXJ0ZWRfYXQiKSAKICAgIHZhciBsYXN0U3RhcnRlZEF0OiBMb2NhbERhdGVUaW1lPyA9IG51bGwK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJsYXN0X3N0YXJ0ZWRfYXQiKSAKICAgIHZhciBsYXN0U3RhcnRlZEF0OiBMb2NhbERhdGVUaW1lPyA9IG51bGwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgCiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZC5zdGF0ZSA9IGFubi5uZXh0U3RhZGR0ZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFubi5maW5hbCkgewo=</text>
+        <text encoding="base64">ICAgIGZ1bgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHdoZW4gKGUuaXNOdWxsKCkpIHsKICAgICAgICAgICAgICAgIHRydWUgLT4gcmVjb3JkISEudHJhbnNpdChhbm4ubmV4dFN0YXRlKQogICAgICAgICAgICAgICAgZmFsc2UgLT4gcmVjb3JkISEuZmFpbCgpCiAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRhc2tSZWNvcmRIaXN0b3J5UmVwbzogVGFza1N0YXRlUmVjb3JkSGlzdG9yeVJlcG9zaXRvcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRhc2tSZWNvcmRSZXBvOiBUYXNrU3RhdGVSZWNvcmRSZXBvc2l0b3J5LAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">cHJpdmF0ZSBmdW4gcmVjb3JkU3RhcnQoYW5uOiBUYXNrU3RhdGUpOiBUYXNrU3RhdGVSZWNvcmQ/IHsKICAgICAgICB0cnkgewogICAgICAgICAgICB2YXIgcmVjb3JkID0gVGFza1N0YXRlUmVjb3JkLmluaXQoYW5uKQoKICAgICAgICAgICAgcmV0dXJuIHRhc2tSZWNvcmRSZXBvLnNhdmUocmVjb3JkKS5hbHNvIHsKICAgICAgICAgICAgICAgIHRhc2tSZWNvcmRIaXN0b3J5UmVwby5zYXZlKFRhc2tTdGF0ZVJlY29yZEhpc3Rvcnkuc3RhcnQocmVjb3JkKSkKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKGU6IFJ1bnRpbWVFeGNlcHRpb24pIHsKICAgICAgICAgICAgbG9nLndhcm4oIiR7ZS5tZXNzYWdlfSIsIGUpCiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gcmVjb3JkRW5kKGFubjogVGFza1N0YXRlLCByZWNvcmQ6IFRhc2tTdGF0ZVJlY29yZD8sIGU6IEV4Y2VwdGlvbj8gPSBudWxsKTogVGFza1N0YXRlUmVjb3JkPyB7CiAgICAgICAgaWYgKHJlY29yZC5pc051bGwoKSkgcmV0dXJuIG51bGwKICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gdGFza1JlY29yZFJlcG8uc2F2ZSh3aGVuIChlLmlzTnVsbCgpKSB7CiAgICAgICAgICAgICAgICB0cnVlIC0+IHJlY29yZCEhLnRyYW5zaXQoYW5uLm5leHRTdGF0ZSkKICAgICAgICAgICAgICAgIGZhbHNlIC0+IHJlY29yZCEhLmZhaWwoKQogICAgICAgICAgICB9KS5hbHNvIHsKICAgICAgICAgICAgICAgIHRhc2tSZWNvcmRIaXN0b3J5UmVwby5zYXZlKFRhc2tTdGF0ZVJlY29yZEhpc3RvcnkuZmluaXNoKHJlY29yZCkpCiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChlOiBSdW50aW1lRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIGxvZy53YXJuKCIke2UubWVzc2FnZX0iLCBlKQogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbAogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZWNvcmQgPSB0YXNrUmVjb3JkUmVwby5zYXZlKFRhc2tTdGF0ZVJlY29yZC5pbml0KGFubikpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbCBJTklUOiBTdGF0ZSA9ICJJTklUIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>ann</text>
       </register>
     </registers>
     <search>
