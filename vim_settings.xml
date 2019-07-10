@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1562564092628">
+      <file name="/Dummy.txt" timestamp="1562736035570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateService.kt" timestamp="1562320202674">
@@ -16,6 +16,18 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/dto/outbound/CreateCampaignItemDto.kt" timestamp="1562735799374">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/domain/outbound/CampaignItem.kt" timestamp="1562735913451">
+        <mark key="[" line="57" column="113" />
+        <mark key="]" line="57" column="113" />
+        <mark key="^" line="57" column="113" />
+        <mark key="." line="57" column="113" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateRecorder.kt" timestamp="1562313295620">
         <mark key="[" line="35" column="12" />
@@ -38,17 +50,17 @@
         <mark key="]" line="21" column="9" />
         <mark key="." line="21" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/PaymentAdminController.java" timestamp="1562652356205">
-        <mark key="[" line="137" column="20" />
-        <mark key="]" line="137" column="20" />
-        <mark key="^" line="138" column="76" />
-        <mark key="." line="137" column="20" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskState.kt" timestamp="1562315485902">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterAdminApiController.kt" timestamp="1562735228516">
+        <mark key="[" line="81" column="2" />
+        <mark key="]" line="81" column="2" />
+        <mark key="." line="81" column="2" />
+        <mark key="^" line="81" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/partner/dto/UbicusApiDto.kt" timestamp="1562730789077">
         <mark key="[" line="25" column="13" />
@@ -68,6 +80,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190626154334__task_state_record.sql" timestamp="1562133367602">
         <mark key="[" line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/MarketingCampaignService.kt" timestamp="1562735786736">
+        <mark key="[" line="111" column="12" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1561614796638">
         <mark key="[" line="0" column="0" />
       </file>
@@ -79,6 +96,9 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/cscenter/domain/outbound/CampaignListTest.kt" timestamp="1561614799059">
         <mark key="[" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190710141909__alter_campaign_item_prod_cd.sql" timestamp="1562735964410">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="466" column="38" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterApiController.kt" />
@@ -88,35 +108,65 @@
       <register name="0" type="4">
         <text>taskName: String, nextState: State</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKDEgPT0gMSkgdGhyb3cgUnVudGltZUV4Y2VwdGlvbigpCg==</text>
+      <register name="1" type="4">
+        <text>@PostMapping(value = [&quot;/campaign/{campaignListUID}/items/fromFile&quot;])
+    fun registerMarketingCampaignItems(
+        @PathVariable campaignListUID: String,
+        @RequestParam(&quot;file&quot;) file: MultipartFile) {
+
+        val campaign = campaignService.getCampaignList(campaignListUID) ?: throw NotFoundException()
+        val tempFile = File.createTempFile(&quot;m_campaign&quot;, file.originalFilename)
+        streamEncodeConverter(file.inputStream, tempFile.outputStream())
+        try {
+            marketingCampaignService.registerFromFile(campaign = campaign, file = tempFile)
+        } catch (e: RuntimeException) {
+            throw e
+        } finally {
+            tempFile.deleteOnExit()
+        }
+    }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>생성</text>
+        <text>@PostMapping(value = [&quot;/campaign/{campaignListUID}/items/fromFile&quot;])
+    fun registerMarketingCampaignItems(
+        @PathVariable campaignListUID: String,
+        @RequestParam(&quot;file&quot;) file: MultipartFile) {
+
+        val campaign = campaignService.getCampaignList(campaignListUID) ?: throw NotFoundException()
+        val tempFile = File.createTempFile(&quot;m_campaign&quot;, file.originalFilename)
+        streamEncodeConverter(file.inputStream, tempFile.outputStream())
+        try {
+            marketingCampaignService.registerFromFile(campaign = campaign, file = tempFile)
+        } catch (e: RuntimeException) {
+            throw e
+        } finally {
+            tempFile.deleteOnExit()
+        }
+    }</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IEBUcmFuc2FjdGlvbmFsCiAgICBmdW4gcmVnaXN0ZXJGcm9tRmlsZShjYW1wYWlnbjogQ2FtcGFpZ25MaXN0LCBmaWxlOiBGaWxlKSB7CiAgICAgICAgdmFsIG1DYW1wYWlnbiA9IGNhbXBhaWduU2VydmljZS5jcmVhdGVDYW1wYWlnbihDYW1wYWlnblR5cGUuTSkKICAgICAgICByZWdpc3RlckNhbXBhaWduU2VydmljZS5yZWdpc3RlckNhbXBhaWduKG1DYW1wYWlnbikKCiAgICAgICAgdmFsIGxpc3QgPSBNYXJrZXRpbmdDYW1wYWlnbkZpbGVQYXJzZXIoZmlsZSkucGFyc2UoKQogICAgICAgIGRvQnVsayhjYW1wYWlnbiwgbGlzdCkKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKDEgPT0gMSkgdGhyb3cgUnVudGltZUV4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgdGFza19zdGF0ZV9yZWNvcmQgY2hhbmdlIGxhc3RfZmluaXNoZWRfYXQgbGFzdF90YXNrX2ZpbmlzaGVkX2F0IGRhdGV0aW1lIG51bGwgY29tbWVudCAn7YOc7Iqk7YGsIOudvOydtO2UhOyCrOydtO2BtOydtCDrp4jsp4Drp4nsnLzroZwg64Gd64KcIOyLnOq4sCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgdGFza19zdGF0ZV9yZWNvcmQgY2hhbmdlIGxhc3Rfc3RhcnRlZF9hdCBsYXN0X3Rhc2tfc3RhcnRlZF9hdCBkYXRldGltZSBudWxsIGNvbW1lbnQgJ+2DnOyKpO2BrCDrnbzsnbTtlITsgqzsnbTtgbTsnbQg66eI7KeA66eJ7Jy866GcIOyLpO2WieuQnCDsi5zquLAnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJsYXN0X3N0YXJ0ZWRfYXQiKSAKICAgIHZhciBsYXN0U3RhcnRlZEF0OiBMb2NhbERhdGVUaW1lPyA9IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>생성</text>
