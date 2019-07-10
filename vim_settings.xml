@@ -3,75 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1562737530611">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateService.kt" timestamp="1562320202674">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/dto/outbound/CSCampaignDTO.kt" timestamp="1562737289679">
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="36" column="32" />
-        <mark key="^" line="36" column="32" />
-        <mark key="." line="36" column="32" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561541437772">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/logback-production.xml" timestamp="1562752725552" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/dto/outbound/CreateCampaignItemDto.kt" timestamp="1562735799374">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="40" />
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/domain/outbound/CampaignItem.kt" timestamp="1562735913451">
-        <mark key="[" line="57" column="113" />
-        <mark key="]" line="57" column="113" />
-        <mark key="^" line="57" column="113" />
-        <mark key="." line="57" column="113" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateRecorder.kt" timestamp="1562313295620">
         <mark key="[" line="35" column="12" />
         <mark key="]" line="35" column="12" />
         <mark key="." line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/UserDeposit.kt" timestamp="1561526575736">
-        <mark key="[" line="28" column="7" />
-      </file>
       <file name="/a.dummy" timestamp="1562563953114">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190705153510__alter_state_record.sql" timestamp="1562315120816">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/payment/PaymentService.java" timestamp="1562753177880" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/common/monitor/TaskStateTest.kt" timestamp="1561539246466">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="9" />
         <mark key="." line="21" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskState.kt" timestamp="1562315485902">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/logback-development.xml" timestamp="1562752737055">
+        <mark key="[" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterAdminApiController.kt" timestamp="1562735228516">
-        <mark key="[" line="81" column="2" />
-        <mark key="]" line="81" column="2" />
-        <mark key="." line="81" column="2" />
-        <mark key="^" line="81" column="2" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/partner/dto/UbicusApiDto.kt" timestamp="1562730789077">
-        <mark key="[" line="25" column="13" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/event/listener/LoanAppUpdateEventHandler.kt" timestamp="1562736870851" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/payment/PaymentState.kt" timestamp="1562570583723">
         <mark key="[" line="8" column="98" />
         <mark key="]" line="8" column="40" />
@@ -92,7 +47,73 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1561614796638">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190710141909__alter_campaign_item_prod_cd.sql" timestamp="1562735964410">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562753560405">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateService.kt" timestamp="1562320202674">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/dto/outbound/CSCampaignDTO.kt" timestamp="1562737289679">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="32" />
+        <mark key="^" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" timestamp="1561541437772">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/domain/outbound/CampaignItem.kt" timestamp="1562735913451">
+        <mark key="[" line="57" column="113" />
+        <mark key="]" line="57" column="113" />
+        <mark key="^" line="57" column="113" />
+        <mark key="." line="57" column="113" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/UserDeposit.kt" timestamp="1561526575736">
+        <mark key="[" line="28" column="7" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/payment/PaymentServiceImpl.java" timestamp="1562753230430" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190705153510__alter_state_record.sql" timestamp="1562315120816">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/logback-production2.xml" timestamp="1562752417675">
+        <mark key="[" line="214" column="24" />
+        <mark key="]" line="214" column="24" />
+        <mark key="^" line="223" column="22" />
+        <mark key="." line="214" column="24" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskState.kt" timestamp="1562315485902">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/PaymentAdminController.java" timestamp="1562753174729">
+        <mark key="[" line="96" column="8" />
+        <mark key="]" line="51" column="63" />
+        <mark key="." line="51" column="63" />
+        <mark key="^" line="51" column="71" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterAdminApiController.kt" timestamp="1562735228516">
+        <mark key="[" line="81" column="2" />
+        <mark key="]" line="81" column="2" />
+        <mark key="." line="81" column="2" />
+        <mark key="^" line="81" column="2" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/partner/dto/UbicusApiDto.kt" timestamp="1562730789077">
+        <mark key="[" line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1562752908658" />
+      <file name="/fragment.java" timestamp="1562752758574">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/service/OutboundCampaignService.kt" timestamp="1561615304811">
@@ -103,37 +124,22 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/cscenter/domain/outbound/CampaignListTest.kt" timestamp="1561614799059">
         <mark key="[" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190710141909__alter_campaign_item_prod_cd.sql" timestamp="1562735964410">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="466" column="38" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterApiController.kt" />
       <jump line="74" column="44" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>taskName: String, nextState: State</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIHN0YXRpYyBMb2dnZXIgTE9HR0VSX0lORk8gPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcigiSU5GT19TTEFDSyIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>@PostMapping(value = [&quot;/campaign/{campaignListUID}/items/fromFile&quot;])
-    fun registerMarketingCampaignItems(
-        @PathVariable campaignListUID: String,
-        @RequestParam(&quot;file&quot;) file: MultipartFile) {
-
-        val campaign = campaignService.getCampaignList(campaignListUID) ?: throw NotFoundException()
-        val tempFile = File.createTempFile(&quot;m_campaign&quot;, file.originalFilename)
-        streamEncodeConverter(file.inputStream, tempFile.outputStream())
-        try {
-            marketingCampaignService.registerFromFile(campaign = campaign, file = tempFile)
-        } catch (e: RuntimeException) {
-            throw e
-        } finally {
-            tempFile.deleteOnExit()
-        }
-    }</text>
+        <text encoding="base64">U3RyaW5nIGZpcnN0RGF5T2ZNb250aCA9IERhdGVUaW1lVXRpbC5nZXRGaXJzdERheU9mTW9udGgocmV0dXJuRHQpOwogICAgICAgIEFjY291bnRWYWxpZGF0aW9uVmFsdWVzIGFjY291bnRWYWxpZGF0aW9uVmFsdWVzID0gYWNjb3VudFZhbGlkYXRpb25WYWx1ZXNTZXJ2aWNlLmdldEFjY291bnRWYWxpZGF0aW9uVmFsdWVzKGZpcnN0RGF5T2ZNb250aCk7CiAgICAgICAgSW5jb21lT3V0Y29tZUFjY291bnQgaW5jb21lT3V0Y29tZUFjY291bnQgPQogICAgICAgICAgICBhY2NvdW50VmFsaWRhdGlvblZhbHVlcy5nZXRJbmNvbWVPdXRjb21lQWNjb3VudExpc3QoKS5zdHJlYW0oKS5maWx0ZXIoaXQgLT4gaXQuZ2V0UmV0dXJuRHQoKS5lcXVhbHMocmV0dXJuRHQpKS5maW5kRmlyc3QoKS5vckVsc2UobnVsbCk7CiAgICAgICAgaWYgKGluY29tZU91dGNvbWVBY2NvdW50ICE9IG51bGwpIHsKICAgICAgICAgICAgQmlnRGVjaW1hbCBvcmlnaW5EaWZmID0gaW5jb21lT3V0Y29tZUFjY291bnQuZ2V0QW1vcnRpemVkUmVjb3JkT3JpZ2luKCkuc3VidHJhY3QoaW5jb21lT3V0Y29tZUFjY291bnQuZ2V0UGF5bWVudE9yaWdpbigpKS5zdWJ0cmFjdChpbmNvbWVPdXRjb21lQWNjb3VudC5nZXRQYXltZW50VHJhZGVQdXJjaGFzZU1uZCgpKTsKICAgICAgICAgICAgTE9HR0VSX0lORk8uaW5mbygiKDYvNikg7IOB7ZmYIOybkOq4iCAtIOyngOq4ieybkOq4iCDssKjsnbQgOiB7fSAiCiAgICAgICAgICAgICAgICAgICAgKyAiKOyDge2ZmOybkOq4iDoge30sIOyngOq4ieybkOq4iDoge30sIO2VoOyduOydtOydteyLpO2YhOq4iDoge30iLAogICAgICAgICAgICAgICAgUm91bmRVdGlsLk1ha2U2UG9pbnQob3JpZ2luRGlmZiksCiAgICAgICAgICAgICAgICBSb3VuZFV0aWwuTWFrZTZQb2ludChpbmNvbWVPdXRjb21lQWNjb3VudC5nZXRBbW9ydGl6ZWRSZWNvcmRPcmlnaW4oKSksCiAgICAgICAgICAgICAgICBSb3VuZFV0aWwuTWFrZTZQb2ludChpbmNvbWVPdXRjb21lQWNjb3VudC5nZXRQYXltZW50T3JpZ2luKCkpLAogICAgICAgICAgICAgICAgUm91bmRVdGlsLk1ha2U2UG9pbnQoaW5jb21lT3V0Y29tZUFjY291bnQuZ2V0UGF5bWVudFRyYWRlUHVyY2hhc2VNbmQoKSkKICAgICAgICAgICAgKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMT0dHRVJfSU5GTy5pbmZvKCLqsoDspp3sl5Ag7Iuk7Yyo7ZaI7Iq164uI64ukISA6IHt9IiwgcmV0dXJuRHQpOwogICAgICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
+        <text>b</text>
+      </register>
+      <register name="2" type="4">
         <text>@PostMapping(value = [&quot;/campaign/{campaignListUID}/items/fromFile&quot;])
     fun registerMarketingCampaignItems(
         @PathVariable campaignListUID: String,
@@ -151,20 +157,17 @@
         }
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IEBUcmFuc2FjdGlvbmFsCiAgICBmdW4gcmVnaXN0ZXJGcm9tRmlsZShjYW1wYWlnbjogQ2FtcGFpZ25MaXN0LCBmaWxlOiBGaWxlKSB7CiAgICAgICAgdmFsIG1DYW1wYWlnbiA9IGNhbXBhaWduU2VydmljZS5jcmVhdGVDYW1wYWlnbihDYW1wYWlnblR5cGUuTSkKICAgICAgICByZWdpc3RlckNhbXBhaWduU2VydmljZS5yZWdpc3RlckNhbXBhaWduKG1DYW1wYWlnbikKCiAgICAgICAgdmFsIGxpc3QgPSBNYXJrZXRpbmdDYW1wYWlnbkZpbGVQYXJzZXIoZmlsZSkucGFyc2UoKQogICAgICAgIGRvQnVsayhjYW1wYWlnbiwgbGlzdCkKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKDEgPT0gMSkgdGhyb3cgUnVudGltZUV4Y2VwdGlvbigpCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKDEgPT0gMSkgdGhyb3cgUnVudGltZUV4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -176,7 +179,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>생성</text>
+        <text>b</text>
       </register>
     </registers>
     <search>
