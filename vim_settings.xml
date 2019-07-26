@@ -121,11 +121,11 @@
         <mark key="." line="141" column="42" />
         <mark key="^" line="141" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1564131098496">
-        <mark key="[" line="55" column="9" />
-        <mark key="]" line="54" column="9" />
-        <mark key="^" line="54" column="9" />
-        <mark key="." line="54" column="9" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1564131972315">
+        <mark key="[" line="58" column="7" />
+        <mark key="]" line="20" column="51" />
+        <mark key="^" line="20" column="51" />
+        <mark key="." line="20" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterAdminApiController.kt" timestamp="1564031840311">
         <mark key="[" line="90" column="81" />
@@ -164,8 +164,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIFJFQ0VJVkVfMDcoIu2OmOusuOu2gOyerCIpLAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJFQ0VJVkVfMDcoIu2OmOusuOu2gOyerCIpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>RESULT</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIFJFQ0VJVkVfMDcoIu2OmOusuOu2gOyerCIpLAo=</text>
@@ -192,7 +192,7 @@
         <text encoding="base64">ICAgIGZ1biBgcmVnaXN0ZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>REGISTER</text>
+        <text>RESULT</text>
       </register>
     </registers>
     <search>
