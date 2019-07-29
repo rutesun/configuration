@@ -35,11 +35,14 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/management/domain/DelayManageMaster.java" timestamp="1564352646854" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/OverdueHistoryService.java" timestamp="1564356455375" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/ResidentRegistrationIssueHistory.kt" timestamp="1564362448377">
-        <mark key="[" line="50" column="18" />
-        <mark key="]" line="50" column="18" />
-        <mark key="^" line="50" column="18" />
-        <mark key="." line="50" column="18" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/ResidentRegistrationIssueHistory.kt" timestamp="1564365622711">
+        <mark key="[" line="77" column="24" />
+        <mark key="]" line="77" column="24" />
+        <mark key="^" line="77" column="10" />
+        <mark key="." line="77" column="24" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/invest/util/StringUtil.java" timestamp="1564365456077">
+        <mark key="[" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/payment/PaymentState.kt" timestamp="1562570583723">
         <mark key="[" line="8" column="98" />
@@ -64,8 +67,16 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190710141909__alter_campaign_item_prod_cd.sql" timestamp="1562735964410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564360954537">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/CollectionVisitHistory.kt" timestamp="1564365171997">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564365659089">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/TaskStateService.kt" timestamp="1562320202674">
         <mark key="[" line="27" column="0" />
@@ -94,7 +105,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/UserDeposit.kt" timestamp="1561526575736">
         <mark key="[" line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190725192423__collection_phase2_schema.sql" timestamp="1564361257846">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190725192423__collection_phase2_schema.sql" timestamp="1564364347525">
         <mark key="[" line="30" column="13" />
         <mark key="]" line="30" column="13" />
         <mark key="." line="30" column="13" />
@@ -174,7 +185,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnJlZ2lzdGVyQWRtaW5JZCA9IHJlZ2lzdGVyVXNlci5pZAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">7Je0656MIOyDge2DnCDstpTqsIAgJiDso7zshJ0g7LaU6rCA</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmFkZHJDaGFuZ2VkID0gZmFsc2UK</text>
@@ -201,7 +212,7 @@
         <text encoding="base64">ICAgIGBhZGRyX2NoYW5nZWRgICAgICAgIHRpbnlpbnQoMSkgICAgICAgICAgIERFRkFVTFQgTlVMTCBDT01NRU5UICfso7zshowg67OA6rK9IOyXrOu2gCcsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">7Je0656MIOyDge2DnCDstpTqsIAgJiDso7zshJ0g7LaU6rCA</text>
       </register>
     </registers>
     <search>
