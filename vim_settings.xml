@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/OverdueStatusCode.java" timestamp="1564474509802" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1564474510790">
-        <mark key="[" line="12" column="110" />
-        <mark key="]" line="12" column="113" />
-        <mark key="." line="12" column="113" />
-        <mark key="^" line="12" column="113" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/OverdueStatusCode.java" timestamp="1564475489651" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1564475423776">
+        <mark key="[" line="12" column="175" />
+        <mark key="]" line="12" column="175" />
+        <mark key="." line="12" column="175" />
+        <mark key="^" line="12" column="175" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/OverdueHistoryService.java" timestamp="1564474551338" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/RegisteredMailService.kt" timestamp="1564472682225">
@@ -100,9 +100,7 @@
     }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fun test() {
-        BigInteger
-    }</text>
+        <text>true</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgdmFsIHJlbWFpbkFtdDogSW50Cg==</text>
@@ -129,7 +127,7 @@
         <text encoding="base64">ICAgICAgICBBdHRyaWJ1dGVPdmVycmlkZShuYW1lID0gImFkZHJTdHJpbmciLCBjb2x1bW4gPSBDb2x1bW4obmFtZSA9ICJhZGRyIikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>true</text>
       </register>
     </registers>
     <search>
