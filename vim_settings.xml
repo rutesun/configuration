@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserHome.kt" timestamp="1564476416441" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/OverdueHistoryServiceImpl.java" timestamp="1564479578209" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/OverdueStatusCode.java" timestamp="1564475489651" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1564477350740">
-        <mark key="[" line="34" column="68" />
-        <mark key="]" line="31" column="67" />
-        <mark key="." line="31" column="67" />
-        <mark key="^" line="31" column="67" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1564482150267">
+        <mark key="[" line="28" column="71" />
+        <mark key="]" line="28" column="71" />
+        <mark key="." line="28" column="71" />
+        <mark key="^" line="28" column="71" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.java" timestamp="1564479480502" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/OverdueHistoryService.java" timestamp="1564474551338" />
@@ -28,7 +28,7 @@
         <mark key="[" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueServiceTest.kt" timestamp="1564480189254">
-        <mark key="[" line="52" column="41" />
+        <mark key="[" line="53" column="41" />
         <mark key="]" line="67" column="46" />
         <mark key="." line="67" column="46" />
         <mark key="^" line="67" column="46" />
@@ -112,37 +112,37 @@
         <text encoding="base64">ICAgIFNUQVRVU18wMSgi7J6F6riI6rOE7ZqN7ZiR7J2YIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FuTWFzdGVySWQgPSBsb2FuTWFzdGVyLmlkCg==</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VyU2VydmljZTogVXNlclNlcnZpY2UsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>val</text>
+        <text>Long</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxvYW5NYXN0ZXJJZDogSW50ID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FuTWFzdGVySWQgPSBsb2FuTWFzdGVyLmlkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9ARGF0YUpwYVRlc3QK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxvYW5NYXN0ZXJJZDogSW50ID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChPcmRlckRldGFpbEJsdWVQcmludDo6Y2xhc3MuamF2YSkK</text>
+        <text encoding="base64">Ly9ARGF0YUpwYVRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChVc2VyQmx1ZVByaW50OjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChPcmRlckRldGFpbEJsdWVQcmludDo6Y2xhc3MuamF2YSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChCdW5kbGVJdGVtTWFwcGluZ0JsdWVQcmludDo6Y2xhc3MuamF2YSkK</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChVc2VyQmx1ZVByaW50OjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChCdW5kbGVCbHVlUHJpbnQ6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChCdW5kbGVJdGVtTWFwcGluZ0JsdWVQcmludDo6Y2xhc3MuamF2YSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChJdGVtQmx1ZVByaW50OjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChCdW5kbGVCbHVlUHJpbnQ6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwYXJlQW1vcnRpemVkU2NoZWR1bGVkKCkK</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChJdGVtQmx1ZVByaW50OjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>Long</text>
       </register>
     </registers>
     <search>
