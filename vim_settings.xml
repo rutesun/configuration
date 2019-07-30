@@ -6,19 +6,19 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserHome.kt" timestamp="1564476416441" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/OverdueHistoryServiceImpl.java" timestamp="1564479578209" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/OverdueStatusCode.java" timestamp="1564475489651" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1564482150267">
-        <mark key="[" line="28" column="71" />
-        <mark key="]" line="28" column="71" />
-        <mark key="." line="28" column="71" />
-        <mark key="^" line="28" column="71" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1564486562113">
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="56" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.java" timestamp="1564479480502" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.java" timestamp="1564486500752" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/OverdueHistoryService.java" timestamp="1564474551338" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/generated/_Collections.kt" timestamp="1564476874541" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/RegisteredMailService.kt" timestamp="1564472682225">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/ResidentRegistrationIssueHistory.kt" timestamp="1564369169849">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/ResidentRegistrationIssueHistory.kt" timestamp="1564486386003">
         <mark key="[" line="64" column="37" />
         <mark key="]" line="64" column="41" />
         <mark key="." line="64" column="41" />
@@ -27,63 +27,30 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/invest/util/StringUtil.java" timestamp="1564365456077">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueServiceTest.kt" timestamp="1564480189254">
-        <mark key="[" line="53" column="41" />
-        <mark key="]" line="67" column="46" />
-        <mark key="." line="67" column="46" />
-        <mark key="^" line="67" column="46" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueServiceTest.kt" timestamp="1564485378080">
+        <mark key="[" line="68" column="111" />
+        <mark key="]" line="68" column="111" />
+        <mark key="." line="68" column="111" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/overduehistory/OverdueHistoryForm.java" timestamp="1564479677694" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.10.RELEASE/7a742dc18d6eeec24dfb52e948ee46ee4dd4c222/spring-data-jpa-1.11.10.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" timestamp="1564474307613" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1564474151449">
-        <mark key="[" line="6" column="88" />
-        <mark key="]" line="6" column="88" />
-        <mark key="^" line="6" column="88" />
-        <mark key="." line="6" column="88" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/CollectionVisitHistory.kt" timestamp="1564378712705">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="58" column="18" />
-        <mark key="." line="58" column="18" />
-        <mark key="^" line="58" column="18" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/domain/outbound/CampaignItem.kt" timestamp="1564361082676">
-        <mark key="[" line="57" column="113" />
-        <mark key="]" line="57" column="113" />
-        <mark key="^" line="57" column="113" />
-        <mark key="." line="57" column="113" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/OverdueLoanOutsourcingService.kt" timestamp="1564472677444">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190725192423__collection_phase2_schema.sql" timestamp="1564379150776">
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="13" />
-        <mark key="." line="30" column="13" />
-        <mark key="^" line="30" column="13" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/EntityManager.java" timestamp="1564485862645" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/CollectionVisitService.kt" timestamp="1564472666485">
         <mark key="[" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/web/task/service/impl/LoanAutoServiceImplAmortizedMatchTests.java" timestamp="1564478949422" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.20/3a9a71152b278d5e36e7346554b4dbb03e565e30/kotlin-stdlib-1.3.20-sources.jar!/kotlin/Number.kt" timestamp="1564474162632" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/Address.kt" timestamp="1564369390331">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/Address.kt" timestamp="1564485289894">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="8" />
         <mark key="." line="9" column="8" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanOutsourcing.kt" timestamp="1564379372652">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1564379119636">
-        <mark key="[" line="91" column="12" />
-        <mark key="]" line="94" column="13" />
-        <mark key="^" line="94" column="22" />
-        <mark key="." line="94" column="13" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/build.gradle" timestamp="1564486696730">
+        <mark key="'" line="89" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1564477319807">
         <mark key="[" line="22" column="49" />
@@ -91,12 +58,6 @@
         <mark key="." line="22" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/bundle/service/impl/BundleServiceImplTest.kt" timestamp="1564479354097" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/OverduLoanOutsourcingService.kt" timestamp="1564472552272">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-      </file>
       <file name="/fragment.java" timestamp="1564477707441">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,55 +67,74 @@
       <jump line="466" column="38" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterApiController.kt" />
       <jump line="74" column="44" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/monitor/StateRecord.kt" />
       <jump line="61" column="91" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/RegisteredMailHistory.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/build.gradle" />
+      <jump line="75" column="17" filename="$USER_HOME$/Develop/lenditKr/lendit/build.gradle" />
+      <jump line="89" column="63" filename="$USER_HOME$/Develop/lenditKr/lendit/build.gradle" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFNUQVRVU18wMSgi7J6F6riI6rOE7ZqN7ZiR7J2YIiksCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB1c2VyU2VydmljZTogVXNlclNlcnZpY2UsCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>Long</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FuTWFzdGVySWQgPSBsb2FuTWFzdGVyLmlkCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxvYW5NYXN0ZXJJZDogSW50ID0gMAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly9ARGF0YUpwYVRlc3QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChPcmRlckRldGFpbEJsdWVQcmludDo6Y2xhc3MuamF2YSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChVc2VyQmx1ZVByaW50OjpjbGFzcy5qYXZhKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChCdW5kbGVJdGVtTWFwcGluZ0JsdWVQcmludDo6Y2xhc3MuamF2YSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChCdW5kbGVCbHVlUHJpbnQ6OmNsYXNzLmphdmEpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChJdGVtQmx1ZVByaW50OjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICBmdW4gdXBkYXRlVmlzaXRSZXN1bHQoaGlzdG9yeUlkOiBMb25nLCBjb25maXJtZXJJZDogSW50LCBhZGRyZXNzOiBTdHJpbmcpIHsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>applicant</text>
+      </register>
+      <register name="/" type="4">
+        <text>jpa</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgYXBwbGljYW50ID0gdXNlclNlcnZpY2UuZ2V0KGNvbmZpcm1lcklkKSA/OiB0aHJvdyBOb3RGb3VuZEV4Y2VwdGlvbigpCiAgICAgICAgdmFsIGhpc3RvcnkgPSBlbS5maW5kKFJlc2lkZW50UmVnaXN0cmF0aW9uSXNzdWVIaXN0b3J5OjpjbGFzcy5qYXZhLCBoaXN0b3J5SWQpID86IHRocm93IE5vdEZvdW5kRXhjZXB0aW9uKCkK</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICBmdW4gdXBkYXRlVmlzaXRSZXN1bHQoaGlzdG9yeUlkOiBMb25nLCBjb25maXJtZXJJZDogSW50LCBhZGRyZXNzOiBTdHJpbmcpIHsKICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlciA9IFVzZXIoaWQgPSAxKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHVzZXJJZCA9IDEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCB1c2VyU2VydmljZTogVXNlclNlcnZpY2UsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2FuTWFzdGVySWQgPSBsb2FuTWFzdGVyLmlkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxvYW5NYXN0ZXJJZDogSW50ID0gMAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly9ARGF0YUpwYVRlc3QK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZWdpc3RlckJsdWVwcmludChPcmRlckRldGFpbEJsdWVQcmludDo6Y2xhc3MuamF2YSkK</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>jpa</last-search>
+      <last-offset />
+      <last-pattern>jpa</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>hibernate</entry>
+        <entry>jpa</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
