@@ -41,13 +41,13 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/coupon/CouponAdminApiController.kt" timestamp="1564559917590">
         <mark key="[" line="69" column="101" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/ResidentRegistrationIssueController.kt" timestamp="1564559970193">
-        <mark key="[" line="39" column="84" />
-        <mark key="]" line="39" column="84" />
-        <mark key="." line="39" column="84" />
-        <mark key="^" line="35" column="84" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/ResidentRegistrationIssueController.kt" timestamp="1564566197927">
+        <mark key="[" line="82" column="77" />
+        <mark key="]" line="82" column="77" />
+        <mark key="." line="82" column="77" />
+        <mark key="^" line="82" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564565192607">
+      <file name="/Dummy.txt" timestamp="1564566174924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -70,11 +70,11 @@
         <mark key="^" line="40" column="21" />
         <mark key="." line="40" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1564565400215">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="10" column="56" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1564566147093">
+        <mark key="[" line="10" column="70" />
+        <mark key="]" line="10" column="70" />
         <mark key="^" line="10" column="14" />
-        <mark key="." line="10" column="56" />
+        <mark key="." line="10" column="70" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/Address.kt" timestamp="1564485289894">
         <mark key="[" line="9" column="8" />
@@ -108,10 +108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toMutableList</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>toMutableList</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
