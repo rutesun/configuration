@@ -47,7 +47,7 @@
         <mark key="." line="39" column="84" />
         <mark key="^" line="35" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564559093949">
+      <file name="/Dummy.txt" timestamp="1564565192607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -69,6 +69,12 @@
         <mark key="]" line="40" column="21" />
         <mark key="^" line="40" column="21" />
         <mark key="." line="40" column="21" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1564565400215">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="56" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/Address.kt" timestamp="1564485289894">
         <mark key="[" line="9" column="8" />
@@ -102,10 +108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ResidentRegistrationIssueHistory</text>
+        <text>toMutableList</text>
       </register>
       <register name="-" type="4">
-        <text>ResidentRegistrationIssueHistory</text>
+        <text>toMutableList</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
@@ -113,35 +119,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gcmVnaXN0cmF0aW9uSXNzdWVTZXJ2aWNlLmNyZWF0ZShsb2FuTWFzdGVySWQgPSBsb2FuTWFzdGVySWQsIGxvYW5Vc2VySWQgPSBsb2FuVXNlcklkLCBhcHBsaWNhbnRVc2VySWQgPSBhZG1pblVzZXIudXNlci5pZCkKICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLm9rKHJlc3VsdCkKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1wdHlMaXN0KCkK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiAgICBAUmVxdWVzdE1hcHBpbmcobWV0aG9kID0gWw==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGphdmFzc2lzdC5Ob3RGb3VuZEV4Y2VwdGlvbgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>fun save() {
         residentRegistrationIssueUseCase.save()
         residentRegistrationIssueService.create(loanMasterId = loanMaster.id, loanUserId = user.id, applicantUserId = user.id)
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFkZHJlc3NDaGFuZ2VkID0gcmVzaWRlbnRIaXN0b3J5LmFkZHJDaGFuZ2VkCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmQgPSByZXNpZGVudFJlZ2lzdHJhdGlvbklzc3VlU2VydmljZS5jcmVhdGUobG9hbk1hc3RlcklkID0gbG9hbk1hc3Rlci5pZCwgbG9hblVzZXJJZCA9IHVzZXIuaWQsIGFwcGxpY2FudFVzZXJJZCA9IHVzZXIuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZHJlc3NDaGFuZ2VkID0gcmVzaWRlbnRIaXN0b3J5LmFkZHJDaGFuZ2VkCg==</text>
       </register>
     </registers>
     <search>
