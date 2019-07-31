@@ -4,26 +4,28 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/OverdueStatusCode.java" timestamp="1564475489651" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1564545659254">
-        <mark key="[" line="53" column="6" />
-        <mark key="]" line="53" column="7" />
-        <mark key="." line="53" column="7" />
-        <mark key="^" line="42" column="36" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1564553708259">
+        <mark key="[" line="59" column="20" />
+        <mark key="]" line="59" column="20" />
+        <mark key="." line="59" column="20" />
+        <mark key="^" line="59" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.java" timestamp="1564536342196" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.java" timestamp="1564553193367">
+        <mark key="[" line="176" column="5" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/RegisteredMailService.kt" timestamp="1564472682225">
         <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/overduehistory/OverdueHistoryForm.java" timestamp="1564479677694" />
-      <file name="/fragment.kt" timestamp="1564545708930">
+      <file name="/fragment.kt" timestamp="1564552220771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/Query.java" timestamp="1564545465112" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1564545719940">
-        <mark key="[" line="23" column="71" />
-        <mark key="]" line="80" column="21" />
-        <mark key="^" line="80" column="21" />
-        <mark key="." line="80" column="21" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1564553110091">
+        <mark key="[" line="83" column="28" />
+        <mark key="]" line="82" column="28" />
+        <mark key="^" line="82" column="28" />
+        <mark key="." line="82" column="28" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.20/3a9a71152b278d5e36e7346554b4dbb03e565e30/kotlin-stdlib-1.3.20-sources.jar!/kotlin/Number.kt" timestamp="1564474162632" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/Address.kt" timestamp="1564485289894">
@@ -43,17 +45,17 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190731105433__alter_collection_phase2.sql" timestamp="1564538109930">
         <mark key="[" line="1" column="63" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1564545520113">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="10" column="33" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="33" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1564553458625">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="12" />
+        <mark key="^" line="37" column="12" />
+        <mark key="." line="37" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/OverdueHistoryService.java" timestamp="1564474551338" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/generated/_Collections.kt" timestamp="1564476874541" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/UserSearchServiceImpl.kt" timestamp="1564492843398" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/ResidentRegistrationIssueHistory.kt" timestamp="1564538152817">
-        <mark key="[" line="61" column="72" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/ResidentRegistrationIssueHistory.kt" timestamp="1564552736910">
+        <mark key="[" line="59" column="104" />
         <mark key="]" line="53" column="33" />
         <mark key="." line="53" column="33" />
         <mark key="^" line="53" column="33" />
@@ -61,10 +63,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/invest/util/StringUtil.java" timestamp="1564365456077">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueServiceTest.kt" timestamp="1564544737596">
-        <mark key="]" line="68" column="17" />
-        <mark key="." line="68" column="17" />
-        <mark key="^" line="68" column="17" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueServiceTest.kt" timestamp="1564552894625">
+        <mark key="[" line="84" column="83" />
+        <mark key="]" line="84" column="36" />
+        <mark key="." line="84" column="36" />
+        <mark key="^" line="84" column="36" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.10.RELEASE/7a742dc18d6eeec24dfb52e948ee46ee4dd4c222/spring-data-jpa-1.11.10.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" timestamp="1564474307613" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/TypedQuery.java" timestamp="1564540168141" />
@@ -95,11 +98,11 @@
       <jump line="89" column="63" filename="$USER_HOME$/Develop/lenditKr/lendit/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>forEach</text>
       </register>
       <register name="-" type="4">
-        <text>loanMasterId</text>
+        <text>forEach</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
