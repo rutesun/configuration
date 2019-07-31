@@ -15,11 +15,11 @@
         <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/overduehistory/OverdueHistoryForm.java" timestamp="1564479677694" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1564540260441">
-        <mark key="[" line="72" column="23" />
-        <mark key="]" line="72" column="23" />
-        <mark key="^" line="72" column="23" />
-        <mark key="." line="72" column="23" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1564542762305">
+        <mark key="[" line="79" column="33" />
+        <mark key="]" line="79" column="31" />
+        <mark key="^" line="79" column="31" />
+        <mark key="." line="79" column="31" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.20/3a9a71152b278d5e36e7346554b4dbb03e565e30/kotlin-stdlib-1.3.20-sources.jar!/kotlin/Number.kt" timestamp="1564474162632" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/Address.kt" timestamp="1564485289894">
@@ -32,11 +32,6 @@
         <mark key="'" line="89" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/app/LoanAppViewSecondarySpecification.kt" timestamp="1564492621669" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1564477319807">
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="22" column="50" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/bundle/service/impl/BundleServiceImplTest.kt" timestamp="1564479354097" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/model/LoanMasterBluePrint.java" timestamp="1564478940029" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserHome.kt" timestamp="1564476416441" />
@@ -44,7 +39,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190731105433__alter_collection_phase2.sql" timestamp="1564538109930">
         <mark key="[" line="1" column="63" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1564536423027">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1564542774838">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="33" />
         <mark key="^" line="10" column="33" />
@@ -62,10 +57,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/invest/util/StringUtil.java" timestamp="1564365456077">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueServiceTest.kt" timestamp="1564485378080">
-        <mark key="[" line="68" column="111" />
-        <mark key="]" line="68" column="111" />
-        <mark key="." line="68" column="111" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueServiceTest.kt" timestamp="1564543173421">
+        <mark key="[" line="68" column="51" />
+        <mark key="]" line="68" column="51" />
+        <mark key="." line="68" column="51" />
+        <mark key="^" line="68" column="51" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.10.RELEASE/7a742dc18d6eeec24dfb52e948ee46ee4dd4c222/spring-data-jpa-1.11.10.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" timestamp="1564474307613" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/TypedQuery.java" timestamp="1564540168141" />
@@ -97,12 +93,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>paramSetters.forEach {
-            it(query)
-        }</text>
+        <text>loanMasterId</text>
       </register>
       <register name="-" type="4">
-        <text>delinquencyStartDt</text>
+        <text>loanMasterId</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
