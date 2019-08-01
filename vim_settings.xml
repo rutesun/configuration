@@ -37,15 +37,31 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/invest/util/StringUtil.java" timestamp="1564365456077">
         <mark key="[" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueServiceTest.kt" timestamp="1564558042691">
+        <mark key="[" line="90" column="28" />
+        <mark key="]" line="90" column="28" />
+        <mark key="." line="90" column="28" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/coupon/CouponAdminApiController.kt" timestamp="1564559917590">
         <mark key="[" line="69" column="101" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/RoleCode.java" timestamp="1564637545737" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/ResidentRegistrationIssueController.kt" timestamp="1564654084996">
+        <mark key="[" line="82" column="77" />
+        <mark key="]" line="82" column="77" />
+        <mark key="." line="82" column="77" />
+        <mark key="^" line="82" column="77" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/CollectionVisitHistory.kt" timestamp="1564652225370">
         <mark key="[" line="60" column="26" />
         <mark key="]" line="59" column="29" />
         <mark key="." line="59" column="29" />
         <mark key="^" line="59" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564654352478">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/UserAddressService.kt" timestamp="1564640464411">
         <mark key="'" line="13" column="38" />
@@ -64,11 +80,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/customerkey/dto/CustomerKeyDTO.kt" timestamp="1564559605104">
         <mark key="[" line="42" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/CollectionVisitService.kt" timestamp="1564652505737">
-        <mark key="[" line="54" column="50" />
-        <mark key="]" line="54" column="50" />
-        <mark key="." line="54" column="50" />
-        <mark key="^" line="54" column="50" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/CollectionVisitService.kt" timestamp="1564654235695">
+        <mark key="[" line="65" column="56" />
+        <mark key="]" line="65" column="55" />
+        <mark key="." line="65" column="55" />
+        <mark key="^" line="65" column="55" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/Test.java" timestamp="1564648852928">
         <mark key="[" line="2" column="0" />
@@ -81,6 +97,12 @@
         <mark key="]" line="100" column="40" />
         <mark key="^" line="69" column="23" />
         <mark key="." line="100" column="40" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/CollectionVisitController.kt" timestamp="1564654254074">
+        <mark key="[" line="33" column="188" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="29" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/config/BeanConfig.kt" timestamp="1564645987204" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/Address.kt" timestamp="1564640797717">
@@ -101,6 +123,11 @@
         <mark key="[" line="4" column="41" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/kkp/controller/KkpUserControllerTests.kt" timestamp="1564645797560" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1564477319807">
+        <mark key="[" line="22" column="49" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/UserAddressService.kt" timestamp="1564641089243">
         <mark key="[" line="25" column="64" />
         <mark key="]" line="24" column="14" />
@@ -126,10 +153,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>applicantAdminId</text>
+        <text>Long</text>
       </register>
       <register name="-" type="4">
-        <text>applicantAdminId</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
@@ -138,31 +165,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gcmVnaXN0cmF0aW9uSXNzdWVTZXJ2aWNlLmNyZWF0ZShsb2FuTWFzdGVySWQgPSBsb2FuTWFzdGVySWQsIGxvYW5Vc2VySWQgPSBsb2FuVXNlcklkLCBhcHBsaWNhbnRVc2VySWQgPSBhZG1pblVzZXIudXNlci5pZCkKICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLm9rKHJlc3VsdCkKICAgIH0K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBAQXV0aGVudGljYXRpb25QcmluY2lwYWwgYWRtaW5Vc2VyOiBMZW5kaXRVc2VyRGV0YWlscywK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBAUmVxdWVzdE1hcHBpbmcoIi97aWR9L2NvbmZpcm0iLCBtZXRob2QgPSBbUmVxdWVzdE1ldGhvZC5QT1NUXSkKICAgIGZ1biBjb25maXJtQ3VycmVudEFkZHJlc3MoCiAgICAgICAgQEF1dGhlbnRpY2F0aW9uUHJpbmNpcGFsIGFkbWluVXNlcjogTGVuZGl0VXNlckRldGFpbHMsCiAgICAgICAgQFJlcXVlc3RQYXJhbSBpZDogTG9uZwogICAgKTogUmVzdFJlc3BvbnNlPENvbGxlY3Rpb25WaXNpdER0bz4gewogICAgICAgIHZhbCByZXN1bHQgPSBjb2xsZWN0aW9uVmlzaXRTZXJ2aWNlLmNvbmZpcm1Ob3RDaGFuZ2VkKGhpc3RvcnlJZCA9IGlkLCByZWdpc3RlckFkbWluSWQgPSBhZG1pblVzZXIudXNlci5pZCkKICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLm9rKHJlc3VsdCkKICAgIH0KCiAgICBAUmVxdWVzdE1hcHBpbmcoIi9jb2xsZWN0aW9uLXRlYW1zIiwgbWV0aG9kID0gW1JlcXVlc3RNZXRob2QuR0VUXSkKICAgIGZ1biBnZXRDb2xsZWN0aW9uVGVhbXMoKTogUmVzdFJlc3BvbnNlPExpc3Q8VXNlcj4+IHsKICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLm9rKGFkbWluVXNlclNlcnZpY2UuZ2V0VXNlcnNIYXNTcGVjaWZpY1JvbGVzKHNldE9mKFJvbGVDb2RlLlJPTEVfTE9BTl9DT0xMRUNUSU9OKSkpCiAgICB9</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXQucmVnaXN0ZXIgPSBhZG1pblVzZXJzW2l0LnJlZ2lzdGVyQWRtaW5JZF0K</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEuYXd0LnByaW50LlBhZ2VhYmxlCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aWYgKHNlYXJjaC5uYW1lLmlzTm90TnVsbCgpKSB7CiAgICAgICAgICAgIHEgKz0gIiBBTkQgdS5uYW1lIGxpa2UgOm5hbWUlIgogICAgICAgICAgICBwYXJhbVNldHRlcnMuYWRkIHsgcSAtPgogICAgICAgICAgICAgICAgcS5zZXRQYXJhbWV0ZXIoIm5hbWUiLCBzZWFyY2gubmFtZSkKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhYnN0cmFjdCBmdW4gY3JlYXRlKHVzZXI6IFVzZXIsIG92ZXJkdWVIaXN0b3J5OiBPdmVyZHVlSGlzdG9yeSwgaGlzdG9yeTogQW55KTogT3ZlcmR1ZUR0bwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICBjb21wYW5pb24gIG9iamVjdCB7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgT3ZlcmR1ZUR0byB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhYnN0cmFjdCBmdW4gY3JlYXRlKHVzZXI6IFVzZXIsIG92ZXJkdWVIaXN0b3J5OiBPdmVyZHVlSGlzdG9yeSwgaGlzdG9yeTogQW55KTogT3ZlcmR1ZUR0bwo=</text>
       </register>
     </registers>
     <search>
