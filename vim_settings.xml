@@ -63,7 +63,7 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/misc/repository/BaseGateway.kt" timestamp="1564707265555" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/misc/repository/BaseGateway.kt" timestamp="1564713676160" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/UserAddressService.kt" timestamp="1564640464411">
         <mark key="'" line="13" column="38" />
         <mark key="[" line="14" column="86" />
@@ -81,11 +81,11 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/customerkey/dto/CustomerKeyDTO.kt" timestamp="1564559605104">
         <mark key="[" line="42" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/CollectionVisitService.kt" timestamp="1564708902960">
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="13" />
-        <mark key="." line="42" column="13" />
-        <mark key="^" line="42" column="12" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/CollectionVisitService.kt" timestamp="1564714107790">
+        <mark key="[" line="31" column="76" />
+        <mark key="]" line="31" column="76" />
+        <mark key="^" line="31" column="76" />
+        <mark key="." line="31" column="76" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/Test.java" timestamp="1564648852928">
         <mark key="[" line="2" column="0" />
@@ -112,11 +112,10 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1564709490140">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="^" line="23" column="13" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1564713736282">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="28" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/AttributeOverride.java" timestamp="1564640674492" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/security/LenditUserDetailsService.java" timestamp="1564636869501" />
@@ -154,10 +153,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Number</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>Number</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
@@ -169,31 +168,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBkZWxldGUoaWQ6IE51bWJlcikgPSB1c2VjYXNlLmRlbGV0ZUJ5SWQoaWQpCiAgICBmdW4gZGVsZXRlQnlJZHMoaWRzOiBMaXN0PE51bWJlcj4pID0gdXNlY2FzZS5kZWxldGVBbGxCeUlkSW4oaWRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZ1biBkZWxldGUoaWQ6IE51bWJlcikgPSB1c2VjYXNlLmRlbGV0ZUJ5SWQoaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWZ0ZXJMaXN0KGxpc3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzZWFyY2goc2VhcmNoOiBTZWFyY2hhYmxlLCBwYWdlYWJsZTogUGFnZWFibGUpOiBMaXN0PENvbGxlY3Rpb25WaXNpdER0bz4gewo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCByZXBvc2l0b3J5OiBCYXNlUmVwb3NpdG9yeTxDb2xsZWN0aW9uVmlzaXREdG8+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>override fun findById(id: Number): CollectionVisitDto? {
-        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBmaW5kQWxsKGlkczogSXRlcmFibGU8TnVtYmVyPikgPSBoaXN0b3J5UmVwb3NpdG9yeS5maW5kQWxsKGlkcylkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>collectionVisitUseCase.deleteAllByIdIn(historyIds)
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
     </registers>
     <search>
