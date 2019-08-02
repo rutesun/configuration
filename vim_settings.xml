@@ -57,7 +57,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.0/29a1a95363d497e856c0a7d682e4f7973e334068/jackson-annotations-2.8.0-sources.jar!/com/fasterxml/jackson/annotation/JsonUnwrapped.java" timestamp="1564645368836" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserHome.kt" timestamp="1564640966745" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190802122630__adjust_index_order_detail.sql" timestamp="1564716441144" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUser.kt" timestamp="1564635420460" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/security/LenditUserDetails.kt" timestamp="1564636801629" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1564725813555">
@@ -97,7 +96,7 @@
         <mark key="." line="59" column="29" />
         <mark key="^" line="59" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564725657749">
+      <file name="/Dummy.txt" timestamp="1564726978465">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -166,7 +165,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZHJvcCBpbmRleCB1c2VyX2lkX2tleSBvbiBvcmRlcl9kZXRhaWw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ResidentRegistrationIssue</text>
@@ -178,31 +177,36 @@
         <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gcmVnaXN0cmF0aW9uSXNzdWVTZXJ2aWNlLmNyZWF0ZShsb2FuTWFzdGVySWQgPSBsb2FuTWFzdGVySWQsIGxvYW5Vc2VySWQgPSBsb2FuVXNlcklkLCBhcHBsaWNhbnRVc2VySWQgPSBhZG1pblVzZXIudXNlci5pZCkKICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLm9rKHJlc3VsdCkKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZHJvcCBpbmRleCB1c2VyX2lkX2tleSBvbiBvcmRlcl9kZXRhaWw7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBpc3N1ZUR0OiBMb2NhbERhdGU/ID0gbnVsbCwK</text>
+      <register name="3" type="4">
+        <text>drop index item_id_key on order_detail;
+
+drop index order_id_key on order_detail;
+
+create index trade_item_id_purchase_index
+  on order_detail (trade_item_id_purchase);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYW1lOiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYW1lOiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHZhbCBpc3N1ZUR0OiBMb2NhbERhdGU/ID0gbnVsbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGRlbGlucXVlbmN5U3RhcnREdDogTG9jYWxEYXRlPyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIHZhbCBuYW1lOiBTdHJpbmc/ID0gbnVsbCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGxvYW5NYXN0ZXJJZDogSW50PyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIHZhbCBuYW1lOiBTdHJpbmc/ID0gbnVsbCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGN1c3RvbWVyS2V5OiBDdXN0b21lcktleT8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgIHZhbCBpc3N1ZUR0OiBMb2NhbERhdGU/ID0gbnVsbCwK</text>
       </register>
     </registers>
     <search>
