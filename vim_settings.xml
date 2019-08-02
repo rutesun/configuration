@@ -8,12 +8,12 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1564739198599">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1564739930865">
         <mark key="'" line="102" column="29" />
-        <mark key="[" line="133" column="21" />
-        <mark key="]" line="133" column="34" />
-        <mark key="^" line="133" column="33" />
-        <mark key="." line="133" column="34" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="139" column="35" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/UploadedFileReferenceCode.java" timestamp="1564736226273" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/dto/OverdueDtoTest.kt" timestamp="1564645992944">
@@ -173,10 +173,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
