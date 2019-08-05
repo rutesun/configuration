@@ -75,11 +75,10 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/RegisteredMailHistory.kt" timestamp="1564966668774">
-        <mark key="[" line="66" column="23" />
-        <mark key="]" line="66" column="23" />
-        <mark key="^" line="78" column="102" />
-        <mark key="." line="66" column="23" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/RegisteredMailHistory.kt" timestamp="1564968099041">
+        <mark key="]" line="59" column="18" />
+        <mark key="^" line="59" column="18" />
+        <mark key="." line="59" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/Test.java" timestamp="1564648852928">
         <mark key="[" line="2" column="0" />
@@ -182,10 +181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PT0gTWFpbGluZ1N0YXR1cy5TRU5UICYm</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT0gTWFpbGluZ1N0YXR1cy5TRU5UICYm</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
