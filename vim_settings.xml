@@ -32,11 +32,10 @@
         <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/domain/LoanAppFinalEvaluationTests.kt" timestamp="1564983878008" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueBaseTest.kt" timestamp="1564988396101">
-        <mark key="[" line="53" column="24" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="51" column="16" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueBaseTest.kt" timestamp="1564990500118">
+        <mark key="[" line="80" column="34" />
+        <mark key="]" line="80" column="34" />
+        <mark key="." line="80" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/CollectionVisitService.kt" timestamp="1564983090105">
         <mark key="[" line="31" column="0" />
@@ -51,18 +50,23 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/SubjectOfRequestType.java" timestamp="1564981976609" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.3.11/fd2c8366aef31bf51460189526788acfbf7b2339/kotlin-test-common-1.3.11-sources.jar!/kotlin/test/Assertions.kt" timestamp="1564983715673" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/RegisteredMailServiceTest.kt" timestamp="1564988420022">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/RegisteredMailServiceTest.kt" timestamp="1564989907046">
         <mark key="'" line="41" column="25" />
-        <mark key="[" line="55" column="39" />
-        <mark key="]" line="55" column="39" />
-        <mark key="." line="55" column="39" />
-        <mark key="^" line="55" column="39" />
+        <mark key="[" line="57" column="64" />
+        <mark key="]" line="56" column="45" />
+        <mark key="." line="56" column="45" />
+        <mark key="^" line="56" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/AmortizedCost.kt" timestamp="1564986518376">
         <mark key="[" line="77" column="105" />
         <mark key="]" line="77" column="105" />
         <mark key="." line="77" column="105" />
         <mark key="^" line="77" column="128" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/CommonFunctionalService.kt" timestamp="1564981911425">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1564983056561">
         <mark key="[" line="0" column="0" />
@@ -84,43 +88,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gbW9kZWxGYWN0b3J5LmNyZWF0ZU1vZGVsKFVzZXI6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBvdmVyZHVlSGlzdG9yeTE6IE92ZXJkdWVIaXN0b3J5Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgYWRtaW5Vc2VyID0gbW9kZWxGYWN0b3J5LmNyZWF0ZU1vZGVsKFVzZXI6OmNsYXNzLmphdmEpCg==</text>
+      <register name="2" type="4">
+        <text>overdueHistory1.setLoanMasterId(loanMaster.id)
+        overdueHistory1.overdueExecuteDt = overdueExecuteDt.toString()
+        overdueHistory1.setEventDt(eventDt.toString())
+        overdueHistory1.loanScheduleNo = 1
+        overdueHistory1.overdueStatusCd = OverdueStatusCode.OVERDUE_STATUS_01</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWFpbFR5cGUgPSBDb2xsZWN0aW9uTWFpbFR5cGUuUkVNSU5ERVIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZHRvID0gcmVnaXN0ZXJlZE1haWxTZXJ2aWNlLmNyZWF0ZShsb2FuTWFzdGVySWQgPSBsb2FuTWFzdGVyLmlkLCBhZGRyU291cmNlVHlwZSA9IEFkZHJTb3VyY2VUeXBlLlJFU0lERU5DRSwgbWFpbFR5cGUgPSBtYWlsVHlwZSkK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgYWRtaW5Vc2VyID0gbW9kZWxGYWN0b3J5LmNyZWF0ZU1vZGVsKFVzZXI6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWFpbFR5cGUgPSBDb2xsZWN0aW9uTWFpbFR5cGUuUkVNSU5ERVIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgYWRkckJhc2UgPSAi7ISc7Jq47IucIOyiheuhnOq1rCDsooXroZztg4Dsm4wgMjHsuLUiCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZHRvID0gcmVnaXN0ZXJlZE1haWxTZXJ2aWNlLmNyZWF0ZShsb2FuTWFzdGVySWQgPSBsb2FuTWFzdGVyLmlkLCBhZGRyU291cmNlVHlwZSA9IEFkZHJTb3VyY2VUeXBlLlJFU0lERU5DRSwgbWFpbFR5cGUgPSBtYWlsVHlwZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgcmVnQWRkckJhc2UgID0gIuyEnOyauOyLnCDsooXroZzqtawg7Y6Y65+87YOA7JuMIDE47Li1Igo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgYWRkckJhc2UgPSAi7ISc7Jq47IucIOyiheuhnOq1rCDsooXroZztg4Dsm4wgMjHsuLUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgcmVnQWRkckJhc2UgID0gIuyEnOyauOyLnCDsooXroZzqtawg7Y6Y65+87YOA7JuMIDE47Li1Igo=</text>
       </register>
     </registers>
     <search>
