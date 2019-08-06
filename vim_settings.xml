@@ -33,17 +33,18 @@
         <mark key="^" line="27" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/revision/reader/UserDetailAuditReader.kt" timestamp="1565069215428" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1565076858411">
-        <mark key="[" line="68" column="56" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1565086937550">
+        <mark key="[" line="137" column="61" />
         <mark key="]" line="9" column="48" />
         <mark key="." line="9" column="48" />
         <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-envers/5.2.12.Final/8e4574f9b2c30b8253199d3933246adda90cb98a/hibernate-envers-5.2.12.Final-sources.jar!/org/hibernate/envers/Audited.java" timestamp="1565069270711" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1565003722263">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1565086864203">
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="16" />
+        <mark key="." line="63" column="16" />
+        <mark key="^" line="47" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/CollectionVisitController.kt" timestamp="1565082561947">
         <mark key="[" line="79" column="0" />
@@ -87,7 +88,7 @@
         <mark key="]" line="38" column="76" />
         <mark key="." line="38" column="76" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565084319106">
+      <file name="/Dummy.txt" timestamp="1565086967557">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -114,6 +115,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1565086896108">
+        <mark key="[" line="64" column="16" />
+        <mark key="]" line="64" column="16" />
+        <mark key="." line="64" column="16" />
+        <mark key="^" line="27" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/detail/UserDetail.kt" timestamp="1565069159046" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanOutsourcing.kt" timestamp="1565082220027">
@@ -165,10 +172,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>register</text>
+        <text>selectQuery</text>
       </register>
       <register name="-" type="4">
-        <text>register</text>
+        <text>selectQuery</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
@@ -177,46 +184,45 @@
         <text encoding="base64">ICAgICAgICB2YWwgZHRvID0gb3V0c291cmNpbmdTZXJ2aWNlLmNyZWF0ZShsb2FuTWFzdGVySWQgPSBsb2FuTWFzdGVyLmlkLCBvdXRzb3VyY2luZ0NvbXBhbnkgPSBDb2xsZWN0aW9uRGVsZWdhdGlvbkNvbXBhbnlDb2RlLkNPTExFQ1RJT05fTklDRV9DSSkKICAgICAgICBvdXRzb3VyY2luZ1NlcnZpY2UudXBkYXRlKGR0by5pZCwgcmVxdWVzdCA9IExvYW5PdXRzb3VyY2luZ1JlcXVlc3REdG8obG9hblN0YXR1cyA9IE91dHNvdXJjaW5nTG9hblN0YXR1cy5TVEFUVVNfMDIsIGNvbXBhbnkgPSBkdG8uY29tcGFueSwgbm90aWNlID0gbm90aWNlLCBzdGF0dXMgPSBkdG8uc3RhdHVzKSkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgcSA9IAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbG9hblVzZXJJZDogSW50Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>@RequestParam loanMasterId: Int,
         @RequestParam addrSourceType: AddrSourceType,
         @RequestParam mailType: CollectionMailType</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>class MailSendResult(
 
 
     )</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBAUmVxdWVzdFBhcmFtIGFkbWluVXNlcklkOiBJbnQsCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IEBSZXF1ZXN0UGFyYW0gYXBwbGljYW50QWRtaW5JZDogSW50LAogICAgICAgIEBSZXF1ZXN0UGFyYW0gbG9hbk1hc3RlcklkOiBJbnQsCiAgICAgICAgQFJlcXVlc3RQYXJhbSBsb2FuVXNlcklkOiBJbnQ=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgcGxhblRpbWVEZXRhaWw6IFN0cmluZywK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>@Test(expected = BusinessException::class)
     fun `04-1 해지 안하고 위탁 회사 변경`() {
         val dto = outsourcingService.create(loanMasterId = loanMaster.id, outsourcingCompany = CollectionDelegationCompanyCode.COLLECTION_NICE_CI)
         outsourcingService.update(dto.id, request = LoanOutsourcingRequestDto(loanStatus = dto.loanStatus, company = CollectionDelegationCompanyCode.COLLECTION_SHINHAN_CI, status = dto.status))
     }</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>@RequestParam loanMasterId: Int,
         @RequestParam loanUserId: Int,
         @RequestParam addrSourceType: AddrSourceType,
         @RequestParam planTimeDetail: String,
         @RequestParam visitorAdminId: Int,
         @DateTimeFormat(iso = DateTimeFormat.ISO.DATE) @RequestParam visitPlanDt: LocalDate</text>
-      </register>
-      <register name="9" type="4">
-        <text>@RequestParam visitStatus: CollectionVisitStatus,
-        @DateTimeFormat(iso = DateTimeFormat.ISO.DATE) @RequestParam visitDt: LocalDate</text>
       </register>
     </registers>
     <search>
