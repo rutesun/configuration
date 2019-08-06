@@ -95,12 +95,12 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190805221638__alter_collection_phase2-2.sql" timestamp="1565059603397">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190805221638__alter_collection_phase2-2.sql" timestamp="1565068242304">
         <mark key="'" line="7" column="20" />
-        <mark key="[" line="16" column="42" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="28" />
-        <mark key="^" line="9" column="25" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/CollectionVisitService.kt" timestamp="1565010975234">
         <mark key="[" line="51" column="28" />
@@ -196,10 +196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OUTSOURCING</text>
+        <text>datetime</text>
       </register>
       <register name="-" type="4">
-        <text>OUTSOURCING</text>
+        <text>datetime</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
