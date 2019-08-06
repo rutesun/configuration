@@ -65,7 +65,7 @@
         <mark key="]" line="38" column="76" />
         <mark key="." line="38" column="76" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565055749805">
+      <file name="/Dummy.txt" timestamp="1565063704273">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -137,17 +137,17 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanOutsourcing.kt" timestamp="1565060413775">
-        <mark key="[" line="34" column="59" />
-        <mark key="]" line="34" column="59" />
-        <mark key="^" line="67" column="51" />
-        <mark key="." line="34" column="59" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanOutsourcing.kt" timestamp="1565063902579">
+        <mark key="[" line="81" column="32" />
+        <mark key="]" line="81" column="32" />
+        <mark key="^" line="81" column="32" />
+        <mark key="." line="81" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1565007836638">
-        <mark key="[" line="103" column="16" />
-        <mark key="]" line="103" column="16" />
-        <mark key="." line="103" column="16" />
-        <mark key="^" line="103" column="16" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1565063878356">
+        <mark key="[" line="105" column="14" />
+        <mark key="]" line="105" column="14" />
+        <mark key="." line="105" column="14" />
+        <mark key="^" line="105" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/RegisterMailController.kt" timestamp="1565006020621">
         <mark key="[" line="58" column="37" />
@@ -175,7 +175,7 @@
         <mark key="." line="19" column="44" />
         <mark key="^" line="19" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1565021420518">
+      <file name="/fragment.java" timestamp="1565063704259">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -196,10 +196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>? = null</text>
+        <text>OUTSOURCING</text>
       </register>
       <register name="-" type="4">
-        <text>? = null</text>
+        <text>OUTSOURCING</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
