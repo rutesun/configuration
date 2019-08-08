@@ -15,7 +15,7 @@
         <mark key="." line="10" column="2" />
         <mark key="^" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueLoanOutsourcingTest.kt" timestamp="1565183763765">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueLoanOutsourcingTest.kt" timestamp="1565242480818">
         <mark key="[" line="36" column="8" />
         <mark key="]" line="36" column="8" />
         <mark key="^" line="34" column="24" />
@@ -39,6 +39,9 @@
         <mark key="]" line="45" column="40" />
         <mark key="^" line="45" column="40" />
         <mark key="." line="45" column="40" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1565242949494">
+        <mark key="[" line="137" column="72" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/UploadedFileService.java" timestamp="1565193900663">
         <mark key="[" line="43" column="36" />
@@ -82,7 +85,12 @@
         <mark key="." line="63" column="48" />
         <mark key="^" line="63" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565237153149">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueServiceTest.kt" timestamp="1565242512460">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="7" />
+        <mark key="." line="45" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1565243069345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -99,10 +107,10 @@
         <mark key="." line="94" column="28" />
         <mark key="^" line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueBaseTest.kt" timestamp="1565183747790">
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="23" />
-        <mark key="." line="57" column="23" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueBaseTest.kt" timestamp="1565241673582">
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="32" />
         <mark key="^" line="57" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1565194815477">
@@ -147,10 +155,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INVEST_COUNSEL</text>
+        <text encoding="base64">IHVzZXIgPSBtb2RlbEZhY3RvcnkuY3JlYXRlTW9kZWwoVXNlcjo6Y2xhc3MuamF2YSkKICAgICAgICB1c2VyLmN1c3RvbWVyS2V5ID0gIkNVU1QxMTExIgogICAgICAgIGVtLnBlcnNpc3QodXNlcikKICAgICAgICBlbS5mbHVzaCgpCgogICAgICAgIGxvYW5NYXN0ZXIgPSBtb2RlbEZhY3RvcnkuY3JlYXRlTW9kZWwoTG9hbk1hc3Rlcjo6Y2xhc3MuamF2YSkKICAgICAgICBsb2FuTWFzdGVyLnVzZXJJZCA9IHVzZXIuaWQKICAgICAgICBlbS5wZXJzaXN0KGxvYW5NYXN0ZXIpCiAgICAgICAgZW0uZmx1c2goKQoKICAgICAgICBvdmVyZHVlSGlzdG9yeSA9IE92ZXJkdWVIaXN0b3J5KCkKICAgICAgICBvdmVyZHVlSGlzdG9yeS5zZXRMb2FuTWFzdGVySWQobG9hbk1hc3Rlci5pZCkKICAgICAgICBvdmVyZHVlSGlzdG9yeS5vdmVyZHVlRXhlY3V0ZUR0ID0gTG9jYWxEYXRlLm5vdygpLnRvU3RyaW5nKCkKICAgICAgICBvdmVyZHVlSGlzdG9yeS5zZXRFdmVudER0KCIyMDE5LTA3LTMxIikKICAgICAgICBvdmVyZHVlSGlzdG9yeS5sb2FuU2NoZWR1bGVObyA9IDEKICAgICAgICBvdmVyZHVlSGlzdG9yeS5vdmVyZHVlU3RhdHVzQ2QgPSBPdmVyZHVlU3RhdHVzQ29kZS5PVkVSRFVFX1NUQVRVU18wMgoKICAgICAgICBlbS5wZXJzaXN0KG92ZXJkdWVIaXN0b3J5KQogICAgICAgIGVtLmZsdXNoKCkKCiAgICAgICAgbG9hblVzZXJIb21lID0gTG9hblVzZXJIb21lKHVzZXJJZCA9IHVzZXIuaWQudG9Mb25nKCksIHRlbCA9ICIwMTAtMDAwMC0wMDAwIiwKICAgICAgICAgICAgcmVnQWRkckJhc2UgPSAi7ISc7Jq47IucIOyiheuhnOq1rCDtjpjrn7ztg4Dsm4wgMTjsuLUiLAogICAgICAgICAgICBhZGRyQmFzZSA9ICLshJzsmrjsi5wg7KKF66Gc6rWsIOyiheuhnO2DgOybjCAyMey4tSIpCiAgICAgICAgZW0ucGVyc2lzdChsb2FuVXNlckhvbWUpCiAgICAgICAgZW0uZmx1c2goKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>INVEST_COUNSEL</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
@@ -158,16 +166,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIElOVkVTVF9DT1VOU0VMKCLtiKzsnpDsg4Hri7QiKSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBncm91cF9jZCA9ICdPQl9SRUNPUkQnCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHVzZXIgPSBtb2RlbEZhY3RvcnkuY3JlYXRlTW9kZWwoVXNlcjo6Y2xhc3MuamF2YSkKICAgICAgICB1c2VyLmN1c3RvbWVyS2V5ID0gIkNVU1QxMTExIgogICAgICAgIGVtLnBlcnNpc3QodXNlcikKICAgICAgICBlbS5mbHVzaCgpCgogICAgICAgIGxvYW5NYXN0ZXIgPSBtb2RlbEZhY3RvcnkuY3JlYXRlTW9kZWwoTG9hbk1hc3Rlcjo6Y2xhc3MuamF2YSkKICAgICAgICBsb2FuTWFzdGVyLnVzZXJJZCA9IHVzZXIuaWQKICAgICAgICBlbS5wZXJzaXN0KGxvYW5NYXN0ZXIpCiAgICAgICAgZW0uZmx1c2goKQoKICAgICAgICBvdmVyZHVlSGlzdG9yeSA9IE92ZXJkdWVIaXN0b3J5KCkKICAgICAgICBvdmVyZHVlSGlzdG9yeS5zZXRMb2FuTWFzdGVySWQobG9hbk1hc3Rlci5pZCkKICAgICAgICBvdmVyZHVlSGlzdG9yeS5vdmVyZHVlRXhlY3V0ZUR0ID0gTG9jYWxEYXRlLm5vdygpLnRvU3RyaW5nKCkKICAgICAgICBvdmVyZHVlSGlzdG9yeS5zZXRFdmVudER0KCIyMDE5LTA3LTMxIikKICAgICAgICBvdmVyZHVlSGlzdG9yeS5sb2FuU2NoZWR1bGVObyA9IDEKICAgICAgICBvdmVyZHVlSGlzdG9yeS5vdmVyZHVlU3RhdHVzQ2QgPSBPdmVyZHVlU3RhdHVzQ29kZS5PVkVSRFVFX1NUQVRVU18wMgoKICAgICAgICBlbS5wZXJzaXN0KG92ZXJkdWVIaXN0b3J5KQogICAgICAgIGVtLmZsdXNoKCkKCiAgICAgICAgbG9hblVzZXJIb21lID0gTG9hblVzZXJIb21lKHVzZXJJZCA9IHVzZXIuaWQudG9Mb25nKCksIHRlbCA9ICIwMTAtMDAwMC0wMDAwIiwKICAgICAgICAgICAgcmVnQWRkckJhc2UgPSAi7ISc7Jq47IucIOyiheuhnOq1rCDtjpjrn7ztg4Dsm4wgMTjsuLUiLAogICAgICAgICAgICBhZGRyQmFzZSA9ICLshJzsmrjsi5wg7KKF66Gc6rWsIOyiheuhnO2DgOybjCAyMey4tSIpCiAgICAgICAgZW0ucGVyc2lzdChsb2FuVXNlckhvbWUpCiAgICAgICAgZW0uZmx1c2goKQ==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IHByb3RlY3RlZCB2YWwgbW9kZWxGYWN0b3J5ID0gTW9kZWxGYWN0b3J5KCkuYXBwbHkgewogICAgICAgIHJlZ2lzdGVyQmx1ZXByaW50KExvYW5NYXN0ZXJCbHVlUHJpbnQ6OmNsYXNzLmphdmEpCiAgICAgICAgcmVnaXN0ZXJCbHVlcHJpbnQoVXNlckJsdWVQcmludDo6Y2xhc3MuamF2YSkKICAgIH0KCiAgICBsYXRlaW5pdCB2YXIgdXNlcjogVXNlcgogICAgbGF0ZWluaXQgdmFyIGxvYW5Vc2VySG9tZTogTG9hblVzZXJIb21lCiAgICBsYXRlaW5pdCB2YXIgbG9hbk1hc3RlcjogTG9hbk1hc3Rlcg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBncm91cF9jZCA9ICdPQl9SRUNPUkQnCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHZhciBtYWlsaW5nQ29zdDogSW50PyA9IG51bGwK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHZhciBtYWlsaW5nQ29zdDogSW50PyA9IG51bGwK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>@Test
     fun `04-1 비용 test`() {
         `when`(fileService.create(any(), any(), eq(adminUser.id))).thenReturn(
@@ -189,20 +206,11 @@
         assertEquals(2000, entity.amortizedCost!!.costAmt)
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIEBUcmFuc2FjdGlvbmFsCiAgICBwdWJsaWMgdm9pZCBkZWxldGVBbGxCeUFtb3J0aXplZENvc3RJZChJbnRlZ2VyIGFtb3J0aXplZENvc3RJZCkgewogICAgICAgIExpc3Q8VXBsb2FkZWRGaWxlPiBmaWxlcyA9IHRoaXMuZ2V0QWxsQnlBbW9ydGl6ZWRDb3N0SWRBbmRBdmFpbGFibGUoYW1vcnRpemVkQ29zdElkKTsKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBmaWxlID0gZm9sZGVyLm5ld0ZpbGUoZmlsZU5hbWUpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3RNb2Nrcwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGZpbGVTZXJ2aWNlOiBVcGxvYWRlZEZpbGVTZXJ2aWNlID0gbW9jaygpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBmaWxlID0gZm9sZGVyLm5ld0ZpbGUoZmlsZU5hbWUpCg==</text>
       </register>
     </registers>
     <search>
