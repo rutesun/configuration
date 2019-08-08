@@ -51,6 +51,7 @@
         <mark key="]" line="66" column="32" />
         <mark key="." line="66" column="32" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/RoleCode.kt" timestamp="1565223727523" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/CollectionVisitHistory.kt" timestamp="1565160188766">
         <mark key="[" line="69" column="18" />
         <mark key="]" line="69" column="18" />
@@ -60,6 +61,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserGroup.kt" timestamp="1565224069499">
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="36" column="16" />
+        <mark key="^" line="36" column="16" />
+        <mark key="." line="36" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/UploadedFileService.java" timestamp="1565193900663">
         <mark key="[" line="43" column="36" />
@@ -98,6 +105,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/GroupCode.kt" timestamp="1565223984933">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="17" column="4" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanOutsourcing.kt" timestamp="1565082220027">
         <mark key="[" line="61" column="64" />
         <mark key="]" line="61" column="65" />
@@ -120,10 +133,11 @@
         <mark key="^" line="150" column="75" />
         <mark key="." line="135" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190808084840__add_user_group_cd_column.sql" timestamp="1565222397229">
-        <mark key="[" line="57" column="14" />
-        <mark key="]" line="57" column="14" />
-        <mark key="." line="57" column="14" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190808084840__add_user_group_cd_column.sql" timestamp="1565224062437">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="16" />
+        <mark key="." line="56" column="16" />
+        <mark key="^" line="86" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/UploadedFile.java" timestamp="1565181805175">
         <mark key="[" line="80" column="49" />
@@ -159,24 +173,27 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CALLCENTER</text>
+        <text>INVEST_COUNSEL</text>
       </register>
       <register name="-" type="4">
-        <text>CALLCENTER</text>
+        <text>INVEST_COUNSEL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIElOVkVTVF9DT1VOU0VMKCLtiKzsnpDsg4Hri7QiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBtYWlsaW5nQ29zdDogSW50PyA9IG51bGwK</text>
+        <text encoding="base64">ICBncm91cF9jZCA9ICdPQl9SRUNPUkQnCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHZhciBtYWlsaW5nQ29zdDogSW50PyA9IG51bGwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBtYWlsaW5nQ29zdDogSW50PyA9IG51bGwK</text>
+      </register>
+      <register name="4" type="4">
         <text>@Test
     fun `04-1 비용 test`() {
         `when`(fileService.create(any(), any(), eq(adminUser.id))).thenReturn(
@@ -198,23 +215,20 @@
         assertEquals(2000, entity.amortizedCost!!.costAmt)
     }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIEBUcmFuc2FjdGlvbmFsCiAgICBwdWJsaWMgdm9pZCBkZWxldGVBbGxCeUFtb3J0aXplZENvc3RJZChJbnRlZ2VyIGFtb3J0aXplZENvc3RJZCkgewogICAgICAgIExpc3Q8VXBsb2FkZWRGaWxlPiBmaWxlcyA9IHRoaXMuZ2V0QWxsQnlBbW9ydGl6ZWRDb3N0SWRBbmRBdmFpbGFibGUoYW1vcnRpemVkQ29zdElkKTsKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIHZhbCBmaWxlID0gZm9sZGVyLm5ld0ZpbGUoZmlsZU5hbWUpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEBJbmplY3RNb2Nrcwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGZpbGVTZXJ2aWNlOiBVcGxvYWRlZEZpbGVTZXJ2aWNlID0gbW9jaygpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGVudGl0eSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
