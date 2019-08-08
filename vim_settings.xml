@@ -58,21 +58,16 @@
         <mark key="]" line="69" column="18" />
         <mark key="." line="69" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565248685468">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/OverdueLoanOutsourcingService.kt" timestamp="1565247452604">
         <mark key="[" line="73" column="70" />
         <mark key="]" line="73" column="68" />
         <mark key="." line="73" column="68" />
         <mark key="^" line="73" column="68" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190805221638__alter_collection_phase2-2.sql" timestamp="1565248187169">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190805221638__alter_collection_phase2-2.sql" timestamp="1565249683024">
+        <mark key="[" line="49" column="74" />
+        <mark key="]" line="49" column="81" />
+        <mark key="." line="49" column="81" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/common/loan/enums/ReturnStatusCodeTest.kt" timestamp="1565074375321">
         <mark key="[" line="8" column="0" />
@@ -102,6 +97,12 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/UserAddressService.kt" timestamp="1565249582847">
+        <mark key="[" line="11" column="74" />
+        <mark key="]" line="23" column="50" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1565154670512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -129,8 +130,8 @@
       <jump line="67" column="38" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/RegisteredMailService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PUT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlzLmFkZHJCYXNlLmlzTnVsbE9yRW1wdHkoKSkgcmV0dXJuIG51bGwK</text>
       </register>
       <register name="-" type="4">
         <text>PUT</text>
@@ -139,7 +140,7 @@
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRzb3VyY2luZ1NlcnZpY2UuY2hhbmdlT3V0c291cmNpbmdDb21wYW55KGR0by5pZCwgQ29sbGVjdGlvbkRlbGVnYXRpb25Db21wYW55Q29kZS5DT0xMRUNUSU9OX1NISU5IQU5fQ0kpCg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmFkZHJCYXNlLmlzTnVsbE9yRW1wdHkoKSkgcmV0dXJuIG51bGwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
