@@ -10,7 +10,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CommonOverdueRepository.kt" timestamp="1565579635457">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CommonOverdueRepository.kt" timestamp="1565586552344">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -57,8 +57,10 @@
         <mark key="." line="50" column="9" />
         <mark key="^" line="47" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565582608861">
+      <file name="/Dummy.txt" timestamp="1565586640581">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/invest/bundle/dto/BundleRelatedDTO.kt" timestamp="1565577152356">
         <mark key="[" line="33" column="47" />
@@ -82,7 +84,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1565582504837">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1565586575719">
         <mark key="[" line="66" column="44" />
         <mark key="]" line="61" column="32" />
         <mark key="." line="61" column="32" />
@@ -156,10 +158,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>No</text>
+        <text>customerKey</text>
       </register>
       <register name="-" type="4">
-        <text>No</text>
+        <text>customerKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
