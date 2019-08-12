@@ -22,11 +22,11 @@
         <mark key="." line="126" column="22" />
         <mark key="^" line="126" column="22" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1565572741714">
-        <mark key="[" line="60" column="7" />
-        <mark key="]" line="60" column="7" />
-        <mark key="." line="60" column="7" />
-        <mark key="^" line="60" column="7" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1565574656793">
+        <mark key="[" line="70" column="6" />
+        <mark key="]" line="70" column="7" />
+        <mark key="." line="70" column="7" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/CollectionVisitServiceTest.kt" timestamp="1565340986773">
         <mark key="[" line="52" column="38" />
@@ -63,11 +63,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/ResidentRegistrationIssueController.kt" timestamp="1565416417865">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/ResidentRegistrationIssueController.kt" timestamp="1565574972393">
         <mark key="[" line="50" column="9" />
         <mark key="]" line="50" column="9" />
         <mark key="." line="50" column="9" />
-        <mark key="^" line="75" column="99" />
+        <mark key="^" line="47" column="57" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/CollectionVisitHistory.kt" timestamp="1565340972006">
         <mark key="[" line="66" column="78" />
@@ -75,7 +75,7 @@
         <mark key="." line="66" column="78" />
         <mark key="^" line="72" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565416503634">
+      <file name="/Dummy.txt" timestamp="1565574991718">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/OverdueLoanOutsourcingService.kt" timestamp="1565332021231">
@@ -112,11 +112,11 @@
         <mark key="]" line="61" column="32" />
         <mark key="." line="61" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/CollectionVisitController.kt" timestamp="1565416394871">
-        <mark key="[" line="43" column="44" />
-        <mark key="]" line="43" column="44" />
-        <mark key="." line="43" column="44" />
-        <mark key="^" line="104" column="20" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/CollectionVisitController.kt" timestamp="1565574983707">
+        <mark key="[" line="44" column="55" />
+        <mark key="]" line="44" column="57" />
+        <mark key="." line="44" column="57" />
+        <mark key="^" line="44" column="57" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/GroupCode.kt" timestamp="1565571079302">
         <mark key="[" line="22" column="40" />
@@ -152,6 +152,7 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/invest/bundle/controller/BundleAdminController.kt" timestamp="1565572368080" />
+      <file name="/OverdueDto.kt" timestamp="1565574587830" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueWatcher.kt" timestamp="1565331761117">
         <mark key="[" line="25" column="61" />
         <mark key="]" line="25" column="61" />
@@ -192,10 +193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RequestBody</text>
+        <text>POST</text>
       </register>
       <register name="-" type="4">
-        <text>RequestBody</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
