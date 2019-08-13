@@ -47,7 +47,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/UserRepository.java" timestamp="1565683303383">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/UserRepository.java" timestamp="1565690381514">
         <mark key="[" line="44" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1565586575719">
@@ -188,12 +188,12 @@
         <mark key="^" line="105" column="41" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/user/AdminUserServiceTest.kt" timestamp="1565683431030">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/user/AdminUserServiceTest.kt" timestamp="1565690464250">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565686080145">
+      <file name="/Dummy.txt" timestamp="1565690638346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -237,10 +237,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1565682989271">
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="36" column="14" />
-        <mark key="." line="36" column="14" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1565690587080">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
         <mark key="^" line="36" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserGroupCode.kt" timestamp="1565680253951">
@@ -310,11 +310,11 @@
       <jump line="503" column="8" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/UserAdminApiController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGpwLnNpZ25hdHVyZS5uYW1lKQo=</text>
+      <register name="&quot;" type="4">
+        <text>email?.contains(&quot;lendit.co.kr&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>updateLoanUserAddress</text>
+        <text>email?.contains(&quot;lendit.co.kr&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
