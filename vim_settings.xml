@@ -18,6 +18,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/UserRepository.java" timestamp="1565680667473">
+        <mark key="[" line="44" column="33" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1565586575719">
         <mark key="[" line="66" column="44" />
         <mark key="]" line="61" column="32" />
@@ -41,13 +44,17 @@
         <mark key="." line="121" column="32" />
         <mark key="^" line="113" column="55" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/UserAdminApiController.java" timestamp="1565679073137">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/UserAdminApiController.java" timestamp="1565682146806">
         <mark key="'" line="503" column="8" />
-        <mark key="[" line="510" column="60" />
-        <mark key="]" line="510" column="60" />
-        <mark key="^" line="510" column="59" />
-        <mark key="." line="510" column="60" />
+        <mark key="[" line="504" column="61" />
+        <mark key="]" line="504" column="62" />
+        <mark key="^" line="506" column="85" />
+        <mark key="." line="504" column="62" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/User.kt" timestamp="1565680946061">
+        <mark key="[" line="120" column="105" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/generated/_Collections.kt" timestamp="1565681729079" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/LoanAppUpdateEventManagerTest.kt" timestamp="1565674324985">
         <mark key="[" line="15" column="35" />
       </file>
@@ -102,13 +109,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1565678329962">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="18" column="28" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1565682128864">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="14" />
+        <mark key="." line="36" column="14" />
+        <mark key="^" line="36" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserGroupCode.kt" timestamp="1565676842232">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserGroupCode.kt" timestamp="1565680253951">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
@@ -162,46 +169,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>groupCode</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>groupCode</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKG5ld0FkZHIuZGV0YWlsLCB0aGlzLmFkZHJlc3MuZGV0YWlsKQo=</text>
+        <text encoding="base64">ICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gImdyb3VwQ29kZSIpIFVzZXJHcm91cENvZGUgZ3JvdXBDb2RlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cE1hcFtyb2xlXT8ucnVuIHsgZ3JvdXBTZXQuYWRkQWxsKHRoaXMpIH0K</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ3JvdXBTZXQgPSBoYXNoU2V0T2Y8VXNlckdyb3VwPigpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZXR1cm4gd2hlbiAoYWN0aXZhdGUpIHsKICAgICAgICAgICAgdHJ1ZSAtPiB1c2Vycy5maWx0ZXIgeyBpc0FjdGl2YXRlKGl0KSB9CiAgICAgICAgICAgIGZhbHNlIC0+IHVzZXJzCiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKHJvbGUgaW4gcm9sZXMpIHsK</text>
+        <text encoding="base64">ICAgICAgICBsaXN0T2Y8SW50PigpLmlmRW1wdHkgeyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZnRlclRlc3QoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmaWx0ZXJUbyhBcnJheUxpc3Q8VD4oKSwgcHJlZGljYXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZnRlclRlc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWFjdGl2YXRlKSByZXR1cm4gdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBncm91cE1hcFtyb2xlXT8ucnVuIHsgZ3JvdXBTZXQuYWRkQWxsKHRoaXMpIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ3JvdXBTZXQgPSBoYXNoU2V0T2Y8VXNlckdyb3VwPigpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>private fun afterTest() {
-        orderDetailRepository.deleteAll()
-        paymentFormMongoRepository.deleteAll()
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
