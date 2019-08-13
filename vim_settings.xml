@@ -246,6 +246,7 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/invest/additionaltax/AdditionalTaxServiceIntegrationTests.kt" timestamp="1565672639850" />
     </filemarks>
     <jumps>
       <jump line="466" column="38" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cscenter/api/CSCenterApiController.kt" />
