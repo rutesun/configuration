@@ -11,13 +11,13 @@
         <mark key="^" line="28" column="35" />
         <mark key="." line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/config/WebConfig.java" timestamp="1565746314316">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/config/WebConfig.java" timestamp="1565747043098">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
         <mark key="^" line="175" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/misc/annotation/MaskingRequired.kt" timestamp="1565744241147">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/misc/annotation/MaskingRequired.kt" timestamp="1565747223618">
         <mark key="[" line="19" column="57" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/UserRepository.java" timestamp="1565690381514">
@@ -50,10 +50,10 @@
         <mark key="." line="86" column="30" />
         <mark key="^" line="86" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565746249988">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1565747307674">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1565743220598">
         <mark key="[" line="78" column="64" />
@@ -86,10 +86,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>field</text>
+        <text encoding="base64">PiBAZ2V0Ok1hc2tpbmdSZXF1aXJlZCDroZwg7IiY7KCVLCBIdHRwTWVzc2FnZUNvbnZlcnRlciDsl5AgTWFza2luZ1JlcXVpcmVkIOyymOumrCDroZzsp4Eg7LaU6rCA</text>
       </register>
       <register name="-" type="4">
-        <text>field</text>
+        <text encoding="base64">PiBAZ2V0Ok1hc2tpbmdSZXF1aXJlZCDroZwg7IiY7KCVLCBIdHRwTWVzc2FnZUNvbnZlcnRlciDsl5AgTWFza2luZ1JlcXVpcmVkIOyymOumrCDroZzsp4Eg7LaU6rCA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
