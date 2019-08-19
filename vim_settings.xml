@@ -101,7 +101,8 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1565581018908">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1566181583894">
+        <mark key="'" line="24" column="23" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="91" />
@@ -202,6 +203,9 @@
         <mark key="]" line="103" column="26" />
         <mark key="." line="103" column="26" />
         <mark key="^" line="103" column="26" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-development.yml" timestamp="1566181512174">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/CollectionVisitHistory.kt" timestamp="1565673602243">
         <mark key="[" line="92" column="43" />
@@ -348,6 +352,8 @@
       <jump line="91" column="42" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190808084840__add_user_group_cd_column.sql" />
       <jump line="503" column="8" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/UserAdminApiController.java" />
       <jump line="58" column="34" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/RegisteredMailService.kt" />
+      <jump line="24" column="23" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-development.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -357,7 +363,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0dXNcPg==</text>
+        <text>credentials</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2hlY2socmV0dXJuVmFsdWUuaXNOb3ROdWxsKCkpCg==</text>
@@ -394,9 +400,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0dXNcPg==</last-search>
+      <last-search>credentials</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0dXNcPg==</last-pattern>
+      <last-pattern>credentials</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxzdGF0dXNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -407,6 +413,9 @@
         <entry>hibernate</entry>
         <entry>jpa</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
+        <entry>secret</entry>
+        <entry>aws</entry>
+        <entry>credentials</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
