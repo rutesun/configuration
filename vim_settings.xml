@@ -54,6 +54,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/misc/annotation/MaskingRequired.kt" timestamp="1565770349712">
         <mark key="[" line="19" column="57" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/ChargeOffTypeCode.kt" timestamp="1566266044598" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1565582486964">
         <mark key="[" line="105" column="44" />
         <mark key="]" line="15" column="0" />
@@ -141,6 +142,7 @@
         <mark key="]" line="506" column="53" />
         <mark key="." line="506" column="53" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/ChargeOffHistoryServiceImpl.kt" timestamp="1566266098240" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/misc/util/KotlinExtensions.kt" timestamp="1565582564351">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="28" />
@@ -179,6 +181,7 @@
         <mark key="." line="52" column="38" />
         <mark key="^" line="52" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/ChargeOffHistory.kt" timestamp="1566266002939" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/GroupServiceImplTest.kt" timestamp="1565597935392">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="32" />
@@ -251,6 +254,7 @@
         <mark key="]" line="24" column="81" />
         <mark key="." line="24" column="81" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/ChargeOffHistoryForm.kt" timestamp="1566266101355" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/manager/NoticeUploadManagerTest.kt" timestamp="1565754471884">
         <mark key="[" line="2" column="29" />
       </file>
