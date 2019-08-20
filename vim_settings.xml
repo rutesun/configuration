@@ -95,7 +95,7 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="/OverdueLoanOutsourcing.kt" timestamp="1566270103055" />
+      <file name="/OverdueLoanOutsourcing.kt" timestamp="1566278280334" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/repository/UserGroupRepository.kt" timestamp="1565677110969">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="14" />
@@ -235,7 +235,7 @@
         <mark key="." line="86" column="30" />
         <mark key="^" line="86" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566270098153">
+      <file name="/Dummy.txt" timestamp="1566278333967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -303,10 +303,11 @@
         <mark key="." line="67" column="34" />
         <mark key="^" line="67" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanOutsourcing.kt" timestamp="1566270066033">
-        <mark key="[" line="111" column="6" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanOutsourcing.kt" timestamp="1566278307053">
+        <mark key="[" line="91" column="158" />
+        <mark key="]" line="91" column="43" />
+        <mark key="." line="91" column="43" />
+        <mark key="^" line="91" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1565572318441">
         <mark key="[" line="17" column="43" />
