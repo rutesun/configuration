@@ -4,10 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1566353175244">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="27" column="21" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/dto/OverdueDtoTest.kt" timestamp="1565577714358">
         <mark key="[" line="29" column="16" />
@@ -157,9 +156,9 @@
         <mark key="^" line="4" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1566353085935">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/CollectionVisitServiceTest.kt" timestamp="1565340986773">
         <mark key="[" line="52" column="38" />
@@ -215,7 +214,7 @@
         <mark key="." line="86" column="30" />
         <mark key="^" line="86" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566278333967">
+      <file name="/Dummy.txt" timestamp="1566353939029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -248,9 +247,9 @@
         <mark key="." line="49" column="81" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/CollectionVisitService.kt" timestamp="1566353132333">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/RegisterMailHistoryRepository.kt" timestamp="1565582498596">
         <mark key="[" line="66" column="44" />
