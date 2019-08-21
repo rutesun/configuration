@@ -8,6 +8,7 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.java" timestamp="1566366908960" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/dto/OverdueDtoTest.kt" timestamp="1565577714358">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="19" column="52" />
@@ -95,13 +96,6 @@
         <mark key="]" line="1" column="44" />
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1566181583894">
-        <mark key="'" line="24" column="23" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="91" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueDomain.kt" timestamp="1565683632573">
         <mark key="[" line="24" column="0" />
@@ -196,7 +190,7 @@
         <mark key="." line="96" column="26" />
         <mark key="^" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/CollectionVisitHistory.kt" timestamp="1565673602243">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/CollectionVisitHistory.kt" timestamp="1566366768927">
         <mark key="[" line="92" column="43" />
         <mark key="]" line="92" column="43" />
         <mark key="." line="92" column="43" />
