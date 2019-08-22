@@ -97,6 +97,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/sample.html" timestamp="1566469370298">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/CollectionMailController.kt" timestamp="1566441592276">
         <mark key="[" line="30" column="36" />
         <mark key="]" line="30" column="36" />
@@ -298,8 +303,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/index.js" timestamp="1566467381037">
-        <mark key="[" line="34" column="2" />
+      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/index.js" timestamp="1566469394709">
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1565582575502">
         <mark key="[" line="67" column="34" />
@@ -373,43 +379,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAibGljZW5zZSI6ICJJU0MiLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>BadRequestException</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text>credentials</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgb3ZlcmR1ZV9sb2FuX291dHNvdXJjaW5nCiAgbW9kaWZ5IGxvYW5fc3RhdHVzX2NkIHZhcmNoYXIoNTApIERFRkFVTFQgTlVMTCBDT01NRU5UICfsnITtg4HrkJwg7LGE6raM7J2YIOynhO2WiSDsg4Htg5wnOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gaGVhZGxlc3M6IGNocm9taXVtLmhlYWRsZXNzLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAibGljZW5zZSI6ICJJU0MiLAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAiYXV0aG9yIjogIiIsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKiBnZW5lcmF0ZWQgY29kZSBmb3Iga290bGluICAqLwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>await page.goto(
+        &quot;https://hyunseob.github.io/2019/05/09/google-io-2019-day-1/&quot;
+    );
+    await page.pdf({
+      path: &quot;Google IO 2019 Day 1 후기.pdf&quot;,
+      format: &quot;A4&quot;
+    });</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>margin: {
+        top: &quot;20px&quot;,
+        left: &quot;20px&quot;,
+        right: &quot;20px&quot;,
+        bottom: &quot;20px&quot;
+      }</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PGgxPuyLnOuwnCDsmZwg7JWI65CY64OQPC9oMT4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICA8cD7slYjrhZXtlZjshLjsmpQuIO2FjOyKpO2KuOyeheuLiOuLpC48L3A+CiAgPHA+7YWM7Iqk7Yq46rCAIOyemCDrkKDquYzsmpQ/PC9wPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">b3ZlcnJpZGUgZnVuIGFmdGVyU2VhcmNoKGxpc3Q6IFBhZ2U8UmVzaWRlbnRSZWdpc3RyYXRpb25Jc3N1ZUR0bz4pOiBQYWdlPFJlc2lkZW50UmVnaXN0cmF0aW9uSXNzdWVEdG8+IHsKICAgICAgICB2YWwgYWRtaW5JZHMgPSBsaXN0Lm1hcE5vdE51bGwgeyBpdC5hcHBsaWNhbnRBZG1pbklkIH0gKyBsaXN0Lm1hcE5vdE51bGwgeyBpdC5yZWdpc3RlckFkbWluSWQgfQogICAgICAgIHZhbCBhZG1pblVzZXJzID0gdXNlclNlcnZpY2UuZmluZEFsbFdpdGhBY3RpdmF0ZWRHcm91cEJ5SWRJbihhZG1pbklkcykuYXNzb2NpYXRlQnkoVXNlcjo6aWQpCgogICAgICAgIHJldHVybiBsaXN0Lm9uRWFjaCB7CiAgICAgICAgICAgIGl0LnJlZ2lzdGVyID0gYWRtaW5Vc2Vyc1tpdC5yZWdpc3RlckFkbWluSWRdCiAgICAgICAgICAgIGl0LmFwcGxpY2FudCA9IGFkbWluVXNlcnNbaXQuYXBwbGljYW50QWRtaW5JZF0KICAgICAgICB9CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAibGljZW5zZSI6ICJJU0MiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
