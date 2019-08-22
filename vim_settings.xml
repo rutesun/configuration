@@ -97,8 +97,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/sample.html" timestamp="1566469370298">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/sample.html" timestamp="1566472982290">
+        <mark key="[" line="9" column="28" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -303,9 +303,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/index.js" timestamp="1566469394709">
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/index.js" timestamp="1566473254214">
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="20" />
+        <mark key="." line="33" column="20" />
+        <mark key="^" line="33" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1565582575502">
         <mark key="[" line="67" column="34" />
@@ -379,10 +381,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhoYW5kbGViYXJzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>template</text>
       </register>
       <register name="/" type="4">
         <text>credentials</text>
@@ -391,12 +393,15 @@
         <text encoding="base64">ICAgICAgLy8gaGVhZGxlc3M6IGNocm9taXVtLmhlYWRsZXNzLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhoYW5kbGViYXJzKQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>await page.goto(
         &quot;https://hyunseob.github.io/2019/05/09/google-io-2019-day-1/&quot;
     );
@@ -405,10 +410,10 @@
       format: &quot;A4&quot;
     });</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>margin: {
         top: &quot;20px&quot;,
         left: &quot;20px&quot;,
@@ -416,17 +421,14 @@
         bottom: &quot;20px&quot;
       }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PGgxPuyLnOuwnCDsmZwg7JWI65CY64OQPC9oMT4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICA8cD7slYjrhZXtlZjshLjsmpQuIO2FjOyKpO2KuOyeheuLiOuLpC48L3A+CiAgPHA+7YWM7Iqk7Yq46rCAIOyemCDrkKDquYzsmpQ/PC9wPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAibGljZW5zZSI6ICJJU0MiLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
