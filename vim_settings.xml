@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/RevivalHistoryServiceImpl.java" timestamp="1566452396261" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/revision/enums/OverdueLoanOutsourcingModCode.java" timestamp="1566454558757" />
       <file name="/a.dummy" timestamp="1566442647128">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,6 +30,13 @@
         <mark key="]" line="22" column="5" />
         <mark key="^" line="28" column="35" />
         <mark key="." line="22" column="5" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190822112554__collection_review.sql" timestamp="1566454793486">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="73" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="o" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueLoanOutsourcingTest.kt" timestamp="1565660123737">
         <mark key="[" line="86" column="144" />
@@ -288,17 +296,17 @@
         <mark key="." line="67" column="34" />
         <mark key="^" line="67" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanOutsourcing.kt" timestamp="1566278307053">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanOutsourcing.kt" timestamp="1566454701596">
         <mark key="[" line="91" column="158" />
         <mark key="]" line="91" column="43" />
         <mark key="." line="91" column="43" />
         <mark key="^" line="91" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1566451677302">
-        <mark key="[" line="107" column="4" />
-        <mark key="]" line="107" column="6" />
-        <mark key="." line="107" column="6" />
-        <mark key="^" line="107" column="6" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1566454662109">
+        <mark key="[" line="108" column="17" />
+        <mark key="]" line="108" column="17" />
+        <mark key="." line="108" column="17" />
+        <mark key="^" line="108" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutSourcingUsecaseTest.kt" timestamp="1565021434413">
         <mark key="[" line="5" column="0" />
@@ -353,17 +361,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-development.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>STATUS_05</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWx0ZXIgdGFibGUgb3ZlcmR1ZV9sb2FuX291dHNvdXJjaW5nCiAgbW9kaWZ5IGxvYW5fc3RhdHVzX2NkIHZhcmNoYXIoNTApIERFRkFVTFQgTlVMTCBDT01NRU5UICfsnITtg4HrkJwg7LGE6raM7J2YIOynhO2WiSDsg4Htg5wnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>STATUS_05</text>
+        <text>change</text>
       </register>
       <register name="/" type="4">
         <text>credentials</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlY2socmV0dXJuVmFsdWUuaXNOb3ROdWxsKCkpCg==</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgb3ZlcmR1ZV9sb2FuX291dHNvdXJjaW5nCiAgbW9kaWZ5IGxvYW5fc3RhdHVzX2NkIHZhcmNoYXIoNTApIERFRkFVTFQgTlVMTCBDT01NRU5UICfsnITtg4HrkJwg7LGE6raM7J2YIOynhO2WiSDsg4Htg5wnOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8qKiBnZW5lcmF0ZWQgY29kZSBmb3Iga290bGluICAqLwo=</text>
