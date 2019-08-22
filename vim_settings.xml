@@ -246,7 +246,7 @@
         <mark key="." line="86" column="30" />
         <mark key="^" line="86" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566461148438">
+      <file name="/Dummy.txt" timestamp="1566479009034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -262,10 +262,11 @@
         <mark key="]" line="29" column="15" />
         <mark key="." line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/LoanUserAddressService.kt" timestamp="1566477478074">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="26" column="81" />
-        <mark key="." line="26" column="81" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/LoanUserAddressService.kt" timestamp="1566478666480">
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="42" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserOcc.kt" timestamp="1565665954402">
         <mark key="[" line="67" column="57" />
@@ -380,11 +381,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-development.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQgPSB7dGl0bGU6ICLrgpjripQg7YOA7J207YuA7J207JW8IiwgYm9keTogIuuCmOuKlCDrs7jrrLjsnbTsp4AuIn07Cg==</text>
+      <register name="&quot;" type="4">
+        <text>as LoanUserOcc</text>
       </register>
       <register name="-" type="4">
-        <text>key1</text>
+        <text>as LoanUserOcc</text>
       </register>
       <register name="/" type="4">
         <text>credentials</text>
@@ -393,31 +394,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvdXJjZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQgPSB7dGl0bGU6ICLrgpjripQg7YOA7J207YuA7J207JW8IiwgYm9keTogIuuCmOuKlCDrs7jrrLjsnbTsp4AuIn07Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLnBlcnNpc3QocmVjb3JkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gaGVhZGxlc3M6IGNocm9taXVtLmhlYWRsZXNzLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGVudGl0eU1hbmFnZXI6IEVudGl0eU1hbmFnZXIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGh0bWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQgPSB7dGl0bGU6ICLrgpjripQg7YOA7J207YuA7J207JW8IiwgYm9keTogIuuCmOuKlCDrs7jrrLjsnbTsp4AuIn07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gaGVhZGxlc3M6IGNocm9taXVtLmhlYWRsZXNzLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGF3YWl0IHBhZ2UudGl0bGUoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGh0bWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvdXJjZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IGF3YWl0IHBhZ2UudGl0bGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
