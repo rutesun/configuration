@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/config/RedisHttpSession.kt" timestamp="1566540776197" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1566477387241">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="83" column="0" />
@@ -25,13 +26,6 @@
         <mark key="]" line="22" column="5" />
         <mark key="^" line="28" column="35" />
         <mark key="." line="22" column="5" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190822112554__collection_review.sql" timestamp="1566454793486">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="73" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="o" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueLoanOutsourcingTest.kt" timestamp="1565660123737">
         <mark key="[" line="86" column="144" />
@@ -80,6 +74,7 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" timestamp="1566540792925" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1566444560215">
         <mark key="[" line="95" column="32" />
         <mark key="]" line="90" column="49" />
@@ -121,6 +116,7 @@
         <mark key="^" line="21" column="14" />
         <mark key="." line="21" column="14" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/SessionRepository.java" timestamp="1566540732560" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190813082755__collection_phase2_schema-2.sql" timestamp="1565674014681">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="1" column="44" />
@@ -166,6 +162,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java" timestamp="1566540479789" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CommonOverdueRepository.kt" timestamp="1566270210966">
         <mark key="[" line="25" column="42" />
         <mark key="]" line="26" column="0" />
