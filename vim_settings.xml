@@ -172,11 +172,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/file/FileAdminApiController.kt" timestamp="1565317189409">
-        <mark key="[" line="70" column="22" />
-        <mark key="]" line="126" column="22" />
-        <mark key="." line="126" column="22" />
-        <mark key="^" line="126" column="22" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/file/FileAdminApiController.kt" timestamp="1566528934284">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="17" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="71" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/AutoNoticeable.kt" timestamp="1565753846083">
         <mark key="[" line="4" column="43" />
@@ -249,7 +249,7 @@
         <mark key="." line="86" column="30" />
         <mark key="^" line="86" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566521024596">
+      <file name="/Dummy.txt" timestamp="1566528546383">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -386,44 +386,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-development.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>npm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="-" type="4">
-        <text>npm</text>
+        <text>, &quot;/{fileId}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>credentials</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvdXJjZSk7Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLnBlcnNpc3QocmVjb3JkKQo=</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGVudGl0eU1hbmFnZXI6IEVudGl0eU1hbmFnZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLnBlcnNpc3QocmVjb3JkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGVudGl0eU1hbmFnZXI6IEVudGl0eU1hbmFnZXIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQgPSB7dGl0bGU6ICLrgpjripQg7YOA7J207YuA7J207JW8IiwgYm9keTogIuuCmOuKlCDrs7jrrLjsnbTsp4AuIn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gaGVhZGxlc3M6IGNocm9taXVtLmhlYWRsZXNzLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQgPSB7dGl0bGU6ICLrgpjripQg7YOA7J207YuA7J207JW8IiwgYm9keTogIuuCmOuKlCDrs7jrrLjsnbTsp4AuIn07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGh0bWwpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gaGVhZGxlc3M6IGNocm9taXVtLmhlYWRsZXNzLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGh0bWwpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGF3YWl0IHBhZ2UudGl0bGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
