@@ -198,6 +198,9 @@
       <file name="$USER_HOME$/Develop/workspace/.gitignore" timestamp="1566521319004">
         <mark key="[" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-production.yml" timestamp="1566535135390">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/GroupServiceImplTest.kt" timestamp="1565597935392">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="32" />
@@ -384,6 +387,7 @@
       <jump line="58" column="34" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/RegisteredMailService.kt" />
       <jump line="24" column="23" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-development.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-production.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -393,7 +397,7 @@
         <text>, &quot;/{fileId}&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>credentials</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
@@ -430,9 +434,9 @@
       </register>
     </registers>
     <search>
-      <last-search>credentials</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>credentials</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxzdGF0dXNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -446,6 +450,7 @@
         <entry>secret</entry>
         <entry>aws</entry>
         <entry>credentials</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
