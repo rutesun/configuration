@@ -92,10 +92,11 @@
         <mark key="." line="106" column="34" />
         <mark key="^" line="106" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/package.json" timestamp="1566467551887">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/package.json" timestamp="1566520843596">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/sample.html" timestamp="1566475299547">
         <mark key="[" line="8" column="28" />
@@ -194,7 +195,9 @@
         <mark key="." line="52" column="38" />
         <mark key="^" line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/logback-development.xml" timestamp="1566471295912" />
+      <file name="$USER_HOME$/Develop/workspace/.gitignore" timestamp="1566521319004">
+        <mark key="[" line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/GroupServiceImplTest.kt" timestamp="1565597935392">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="32" />
@@ -246,7 +249,7 @@
         <mark key="." line="86" column="30" />
         <mark key="^" line="86" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566479009034">
+      <file name="/Dummy.txt" timestamp="1566521024596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -294,6 +297,7 @@
         <mark key="]" line="43" column="14" />
         <mark key="." line="43" column="14" />
       </file>
+      <file name="$USER_HOME$/.gitignore_global" timestamp="1566521063768" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserGroupCode.kt" timestamp="1565680253951">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -304,7 +308,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/index.js" timestamp="1566477326938">
+      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/index.js" timestamp="1566520669512">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -333,6 +337,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/workspace/spring-jpa/.gitignore" timestamp="1566521136603" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueWatcher.kt" timestamp="1565685645860">
         <mark key="[" line="30" column="62" />
         <mark key="]" line="30" column="62" />
@@ -382,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>as LoanUserOcc</text>
+        <text>npm</text>
       </register>
       <register name="-" type="4">
-        <text>as LoanUserOcc</text>
+        <text>npm</text>
       </register>
       <register name="/" type="4">
         <text>credentials</text>
