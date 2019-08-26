@@ -3,38 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/config/RedisHttpSession.kt" timestamp="1566540776197" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1566477387241">
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.4.RELEASE/6178c740c0c18c635628e73944715043f15d75fb/spring-security-core-4.2.4.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java" timestamp="1566554713696" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1565582486964">
-        <mark key="[" line="105" column="44" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" timestamp="1566540792925" />
-      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/package.json" timestamp="1566520843596">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/sample.html" timestamp="1566475299547">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/config/SecurityConfig.java" timestamp="1566555332679" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/SessionRepository.java" timestamp="1566540732560" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1566536707290">
-        <mark key="[" line="22" column="68" />
-        <mark key="]" line="22" column="69" />
-        <mark key="." line="22" column="69" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/interceptor/IdentityVerifiedInterceptor.kt" timestamp="1566554440078" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/manager/AutoNoticeManager.kt" timestamp="1565762727296">
         <mark key="[" line="30" column="39" />
         <mark key="]" line="31" column="0" />
@@ -45,7 +13,14 @@
         <mark key="]" line="506" column="53" />
         <mark key="." line="506" column="53" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java" timestamp="1566540479789" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/loanpayment/LoanPaymentGroupFormValidator.java" timestamp="1566780879520" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/loanpayment/LoanPaymentController.java" timestamp="1566780899128" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/4b714a5167580122e46ead3317ffcdcdbd67c5f0/validation-api-2.0.1.Final-sources.jar!/javax/validation/ConstraintValidator.java" timestamp="1566780218025" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1566477387241">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/file/FileAdminApiController.kt" timestamp="1566528934284">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="17" />
@@ -63,14 +38,15 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/.gitignore" timestamp="1566521319004">
-        <mark key="[" line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-production.yml" timestamp="1566536692721">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/global/GlobalModelAdviser.java" timestamp="1566555635977" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.4.RELEASE/6178c740c0c18c635628e73944715043f15d75fb/spring-security-core-4.2.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetailsService.java" timestamp="1566555577726" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/form/ValidBankAccountValidator.java" timestamp="1566780373052" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1565582486964">
+        <mark key="[" line="105" column="44" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1566528546383">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -96,17 +72,28 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/package.json" timestamp="1566520843596">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/sample.html" timestamp="1566475299547">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1565770336634">
         <mark key="[" line="46" column="48" />
         <mark key="]" line="43" column="14" />
         <mark key="." line="43" column="14" />
       </file>
-      <file name="$USER_HOME$/.gitignore_global" timestamp="1566521063768" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserGroupCode.kt" timestamp="1565680253951">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/validation/Validator.java" timestamp="1566780905484" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/common/loan/enums/ReturnStatusCodeTest.kt" timestamp="1565074375321">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -123,13 +110,18 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/security/LenditUserDetailsService.java" timestamp="1566555639597" />
-      <file name="$USER_HOME$/Develop/workspace/spring-jpa/.gitignore" timestamp="1566521136603" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1566536707290">
+        <mark key="[" line="22" column="68" />
+        <mark key="]" line="22" column="69" />
+        <mark key="." line="22" column="69" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/AmortizedCost.kt" timestamp="1566444616759">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/ChargeOffHistoryFormValidator.kt" timestamp="1566780859652" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/form/ValidBankAccount.java" timestamp="1566781164790" />
       <file name="/fragment.java" timestamp="1565754468702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
