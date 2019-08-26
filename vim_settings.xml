@@ -22,10 +22,11 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/User.kt" timestamp="1566804119874">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="6" column="44" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/User.kt" timestamp="1566810154254">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="20" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1565582486964">
         <mark key="[" line="105" column="44" />
@@ -33,12 +34,13 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sample/gs-multi-module/complete/application/src/main/java/hello/app/DemoApplication.java" timestamp="1566805754000" />
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/UserController.kt" timestamp="1566803682199">
-        <mark key="[" line="12" column="45" />
-        <mark key="]" line="12" column="45" />
-        <mark key="." line="12" column="45" />
-        <mark key="^" line="12" column="45" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/UserController.kt" timestamp="1566810290337">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="17" column="46" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/4b714a5167580122e46ead3317ffcdcdbd67c5f0/validation-api-2.0.1.Final-sources.jar!/javax/validation/Valid.java" timestamp="1566809977370" />
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/UserController.kt" timestamp="1566803455354">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="1" column="0" />
@@ -71,10 +73,11 @@
         <mark key="]" line="506" column="53" />
         <mark key="." line="506" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserControllerTest.kt" timestamp="1566804281311">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserControllerTest.kt" timestamp="1566809931060">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="25" column="74" />
       </file>
       <file name="$USER_HOME$/Develop/foodin/app/api/src/main/kotlin/kr/co/foodin/app/FoodinAppApplication.kt" timestamp="1566806034107" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/4b714a5167580122e46ead3317ffcdcdbd67c5f0/validation-api-2.0.1.Final-sources.jar!/javax/validation/ConstraintValidator.java" timestamp="1566782688592" />
@@ -175,11 +178,11 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/ChargeOffHistoryFormValidator.kt" timestamp="1566780859652" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/form/ValidBankAccount.java" timestamp="1566781164790" />
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/build.gradle" timestamp="1566804211062">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/build.gradle" timestamp="1566809511179">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1566806201836">
         <mark key="[" line="0" column="0" />
@@ -213,11 +216,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-production.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2Vzc2lvbiA9IGVudGl0eU1hbmFnZXIudW53cmFwKFNlc3Npb246OmNsYXNzLmphdmEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Valid</text>
       </register>
       <register name="-" type="4">
-        <text>base</text>
+        <text>Valid</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -226,25 +229,25 @@
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2Vzc2lvbiA9IGVudGl0eU1hbmFnZXIudW53cmFwKFNlc3Npb246OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihiaW5kaW5nUmVzdWx0LmZpZWxkRXJyb3IpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2Vzc2lvbiA9IGVudGl0eU1hbmFnZXIudW53cmFwKFNlc3Npb246OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2UgaW8ucnV0ZXN1bi5jb250ZXh0Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2UgaW8ucnV0ZXN1bi5jb250ZXh0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWpwYScK</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWpwYScK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
