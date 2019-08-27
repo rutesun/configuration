@@ -3,6 +3,66 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/settings.gradle" timestamp="1566804195681">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="/a.dummy" timestamp="1566886502366">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1566477387241">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/User.kt" timestamp="1566886820780">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/ExeceptionAdvice.kt" timestamp="1566887512983">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/GeneratedValue.java" timestamp="1566886716342" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1565582486964">
+        <mark key="[" line="105" column="44" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.4.RELEASE/fb31995f8ac9938e173388063ff0b8774449b116/spring-context-5.1.4.RELEASE-sources.jar!/org/springframework/validation/annotation/Validated.java" timestamp="1566887680872" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/UserController.kt" timestamp="1566888027103">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserServiceTest.kt" timestamp="1566887321769">
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/sample.html" timestamp="1566475299547">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/comment/uplus/UplusComment.kt" timestamp="1566886385327" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1566536707290">
+        <mark key="[" line="22" column="68" />
+        <mark key="]" line="22" column="69" />
+        <mark key="." line="22" column="69" />
+      </file>
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/ExceptionAdvice.kt" timestamp="1566887898597">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="16" column="99" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/manager/AutoNoticeManager.kt" timestamp="1565762727296">
         <mark key="[" line="30" column="39" />
         <mark key="]" line="31" column="0" />
@@ -13,84 +73,36 @@
         <mark key="]" line="506" column="53" />
         <mark key="." line="506" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/User.kt" timestamp="1566803457756">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="26" />
-      </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserControllerTest.kt" timestamp="1566871040948">
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserControllerTest.kt" timestamp="1566886944600">
         <mark key="[" line="29" column="32" />
         <mark key="]" line="29" column="32" />
         <mark key="." line="29" column="32" />
         <mark key="^" line="26" column="74" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/settings.gradle" timestamp="1566804195681">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-      </file>
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/resources/application.yml.kt" timestamp="1566878207970">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1566477387241">
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/file/FileAdminApiController.kt" timestamp="1566528934284">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="17" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="71" column="30" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/security/LenditUserDetails.kt" timestamp="1566554614272">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1566353085935">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/User.kt" timestamp="1566878785712">
-        <mark key="[" line="30" column="11" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="30" column="11" />
-        <mark key="^" line="30" column="11" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/CarController.kt" timestamp="1566886499131">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/workspace/hibernate-persistence-context/src/main/kotlin/io/rutesun/context/service/MovieService.kt" timestamp="1566804814061">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-command-runner/build.gradle" timestamp="1566805280310">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-      </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/Application.kt" timestamp="1566806043433">
-        <mark key="[" line="6" column="17" />
-        <mark key="^" line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1565582486964">
-        <mark key="[" line="105" column="44" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/Car.kt" timestamp="1566886550121" />
       <file name="/Dummy.txt" timestamp="1566806201841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/UserController.kt" timestamp="1566810290337">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="17" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/RegisteredMailHistory.kt" timestamp="1566441483241">
         <mark key="[" line="29" column="15" />
@@ -107,32 +119,24 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/UserController.kt" timestamp="1566803455354">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/RegisterMailHistoryRepository.kt" timestamp="1566441715141">
         <mark key="[" line="66" column="44" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/package.json" timestamp="1566520843596">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/sample.html" timestamp="1566475299547">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/UserRepository.kt" timestamp="1566886658882">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1565770336634">
         <mark key="[" line="46" column="48" />
         <mark key="]" line="43" column="14" />
         <mark key="." line="43" column="14" />
+      </file>
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/UserService.kt" timestamp="1566887154045">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserGroupCode.kt" timestamp="1565680253951">
         <mark key="[" line="4" column="18" />
@@ -144,35 +148,25 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/index.js" timestamp="1566520669512">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="35" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/ValidationError.kt" timestamp="1566887911184">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutSourcingUsecaseTest.kt" timestamp="1565021434413">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1566536707290">
-        <mark key="[" line="22" column="68" />
-        <mark key="]" line="22" column="69" />
-        <mark key="." line="22" column="69" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/AmortizedCost.kt" timestamp="1566444616759">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/build.gradle" timestamp="1566877155817">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="35" column="17" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/app/LoanAppDTO.kt" timestamp="1566884563308" />
-      <file name="/fragment.java" timestamp="1566806201836">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/4b714a5167580122e46ead3317ffcdcdbd67c5f0/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/Email.java" timestamp="1566886614550" />
+      <file name="/fragment.java" timestamp="1566887127148">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -209,11 +203,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application-production.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Min</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Min</text>
+        <text>getViolations</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -222,31 +216,55 @@
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzcHJpbmcuanBhLnNob3ctc3FsPXRydWUK</text>
+        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzcHJpbmcuZGF0YXNvdXJjZS51cmw9amRiYzpoMjptZW06dGVzdGRiCg==</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzcHJpbmcuanBhLmhpYmVybmF0ZS5kZGwtYXV0bz1jcmVhdGUK</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBzcHJpbmcuaDIuY29uc29sZS5wYXRoPS9oMgo=</text>
+      <register name="4" type="4">
+        <text>@ControllerAdvice
+internal class ErrorHandlingControllerAdvice {
+
+    @ExceptionHandler(ConstraintViolationException::class)
+    @ResponseStatus(HttpStatus.BAD_REQUEST)
+    @ResponseBody
+    fun onConstraintValidationException(e: ConstraintViolationException): ValidationErrorResponse {
+        val error = ValidationErrorResponse()
+        for (violation in e.getConstraintViolations()) {
+            error.getViolations().add(Violation(violation.getPropertyPath().toString(), violation.getMessage()))
+        }
+        return error
+    }
+
+    @ExceptionHandler(MethodArgumentNotValidException::class)
+    @ResponseStatus(HttpStatus.BAD_REQUEST)
+    @ResponseBody
+    fun onMethodArgumentNotValidException(e: MethodArgumentNotValidException): ValidationErrorResponse {
+        val error = ValidationErrorResponse()
+        for (fieldError in e.bindingResult.fieldErrors) {
+            error.getViolations().add(Violation(fieldError.field, fieldError.defaultMessage))
+        }
+        return error
+    }
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzcHJpbmcuaDIuY29uc29sZS5lbmFibGVkPXRydWUK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG9yZy5oaWJlcm5hdGUudHlwZS5kZXNjcmlwdG9yLnNxbC5CYXNpY0JpbmRlcjogVFJBQ0UK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IEBmaWVsZDpOb3RFbXB0eQogICAgdmFsIHBhc3N3b3JkOiBTdHJpbmc/ID0gbnVsbCw=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICBvcmcuaGliZXJuYXRlLlNRTDogREVCVUcK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTWluCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5ICdteXNxbDpteXNxbC1jb25uZWN0b3ItamF2YScK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTWF4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
