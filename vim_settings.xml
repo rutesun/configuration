@@ -3,20 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/loanpayment/LoanPaymentGroupFormValidator.java" timestamp="1566780879520" />
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/User.kt" timestamp="1566803457756">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/loanpayment/LoanPaymentController.java" timestamp="1566780899128" />
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/settings.gradle" timestamp="1566804195681">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/validation/SmartValidator.java" timestamp="1566801260149" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1566477387241">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="83" column="0" />
@@ -33,14 +30,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sample/gs-multi-module/complete/application/src/main/java/hello/app/DemoApplication.java" timestamp="1566805754000" />
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/UserController.kt" timestamp="1566810290337">
         <mark key="[" line="15" column="16" />
         <mark key="]" line="15" column="16" />
         <mark key="." line="15" column="16" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/4b714a5167580122e46ead3317ffcdcdbd67c5f0/validation-api-2.0.1.Final-sources.jar!/javax/validation/Valid.java" timestamp="1566809977370" />
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/UserController.kt" timestamp="1566803455354">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="1" column="0" />
@@ -73,14 +68,12 @@
         <mark key="]" line="506" column="53" />
         <mark key="." line="506" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserControllerTest.kt" timestamp="1566809931060">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="41" />
-        <mark key="." line="26" column="41" />
-        <mark key="^" line="25" column="74" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserControllerTest.kt" timestamp="1566871040948">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="26" column="74" />
       </file>
-      <file name="$USER_HOME$/Develop/foodin/app/api/src/main/kotlin/kr/co/foodin/app/FoodinAppApplication.kt" timestamp="1566806034107" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/4b714a5167580122e46ead3317ffcdcdbd67c5f0/validation-api-2.0.1.Final-sources.jar!/javax/validation/ConstraintValidator.java" timestamp="1566782688592" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/file/FileAdminApiController.kt" timestamp="1566528934284">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="17" />
@@ -98,14 +91,11 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/controller/ChargeOffHistoryController.kt" timestamp="1566801473608" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cis/cisOverdueInfo/CisOverdueInfoServiceImpl.kt" timestamp="1566783231020" />
       <file name="$USER_HOME$/Develop/workspace/hibernate-persistence-context/src/main/kotlin/io/rutesun/context/service/MovieService.kt" timestamp="1566804814061">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/validation/annotation/Validated.java" timestamp="1566791534006" />
       <file name="$USER_HOME$/Develop/workspace/spring-command-runner/build.gradle" timestamp="1566805280310">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="18" />
@@ -116,7 +106,6 @@
         <mark key="[" line="6" column="17" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/form/ValidBankAccountValidator.java" timestamp="1566780373052" />
       <file name="/Dummy.txt" timestamp="1566806201841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -127,7 +116,6 @@
         <mark key="]" line="29" column="15" />
         <mark key="." line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/ChargeOffHistoryForm.kt" timestamp="1566782804075" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190805221638__alter_collection_phase2-2.sql" timestamp="1565249683024">
         <mark key="[" line="49" column="74" />
         <mark key="]" line="49" column="81" />
@@ -153,7 +141,6 @@
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/validation/Validator.java" timestamp="1566780905484" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/common/loan/enums/ReturnStatusCodeTest.kt" timestamp="1565074375321">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -165,7 +152,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.4.RELEASE/3aa112cb50cfe9ec3fef924e585d7137a6bab52a/spring-test-5.1.4.RELEASE-sources.jar!/org/springframework/test/web/servlet/ResultMatcher.java" timestamp="1566804050550" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutSourcingUsecaseTest.kt" timestamp="1565021434413">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -176,8 +162,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/ChargeOffHistoryFormValidator.kt" timestamp="1566780859652" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/form/ValidBankAccount.java" timestamp="1566781164790" />
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/build.gradle" timestamp="1566809511179">
         <mark key="[" line="35" column="18" />
         <mark key="]" line="35" column="18" />
@@ -217,10 +201,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Valid</text>
+        <text>isOk</text>
       </register>
       <register name="-" type="4">
-        <text>Valid</text>
+        <text>isOk</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
