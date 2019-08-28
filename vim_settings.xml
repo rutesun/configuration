@@ -48,12 +48,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserServiceTest.kt" timestamp="1566953499062">
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserServiceTest.kt" timestamp="1566954793066">
         <mark key="'" line="54" column="4" />
-        <mark key="[" line="113" column="55" />
-        <mark key="]" line="113" column="55" />
-        <mark key="." line="113" column="55" />
-        <mark key="^" line="113" column="55" />
+        <mark key="[" line="75" column="12" />
+        <mark key="]" line="75" column="12" />
+        <mark key="." line="75" column="12" />
+        <mark key="^" line="75" column="67" />
       </file>
       <file name="$USER_HOME$/Develop/workspace/lambda-puppeteer/sample.html" timestamp="1566475299547">
         <mark key="[" line="8" column="28" />
@@ -73,7 +73,8 @@
         <mark key="^" line="29" column="36" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/2.1.2.RELEASE/242c3cb4b22a9663fe7e626220c3b20b7581162d/spring-boot-test-2.1.2.RELEASE-sources.jar!/org/springframework/boot/test/context/SpringBootTest.java" timestamp="1566903293433" />
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/service/UserService.kt" timestamp="1566907188464">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.4.RELEASE/fb31995f8ac9938e173388063ff0b8774449b116/spring-context-5.1.4.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/MethodValidationInterceptor.java" timestamp="1566954685218" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/service/UserService.kt" timestamp="1566954598132">
         <mark key="[" line="26" column="33" />
         <mark key="]" line="26" column="33" />
         <mark key="." line="26" column="33" />
@@ -118,10 +119,10 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/service/UserServiceWithValidator.kt" timestamp="1566907064003">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
+      <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/service/UserServiceWithValidator.kt" timestamp="1566954606022">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/CarController.kt" timestamp="1566886499131">
         <mark key="[" line="15" column="35" />
@@ -129,12 +130,13 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="43" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.4.RELEASE/fb31995f8ac9938e173388063ff0b8774449b116/spring-context-5.1.4.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/MethodValidationPostProcessor.java" timestamp="1566954723761" />
       <file name="$USER_HOME$/Develop/workspace/hibernate-persistence-context/src/main/kotlin/io/rutesun/context/service/MovieService.kt" timestamp="1566804814061">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566901491429">
+      <file name="/Dummy.txt" timestamp="1566954814426">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -246,11 +248,11 @@
       <jump line="52" column="4" filename="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserServiceTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>userService</text>
       </register>
       <register name="-" type="4">
-        <text>상</text>
+        <text>userService</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
