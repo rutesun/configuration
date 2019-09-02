@@ -322,10 +322,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1567396138245">
-        <mark key="[" line="77" column="123" />
-        <mark key="]" line="77" column="123" />
-        <mark key="." line="77" column="123" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1567397831375">
+        <mark key="[" line="78" column="40" />
+        <mark key="]" line="78" column="40" />
+        <mark key="." line="78" column="40" />
         <mark key="^" line="77" column="184" />
       </file>
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/UserService.kt" timestamp="1566887154045">
@@ -450,10 +450,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FETCH</text>
+        <text>label</text>
       </register>
       <register name="-" type="4">
-        <text>FETCH</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
