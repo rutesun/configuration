@@ -66,6 +66,12 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/dto/UserResponse.kt" timestamp="1567389713836">
+        <mark key="[" line="42" column="58" />
+        <mark key="]" line="42" column="58" />
+        <mark key="^" line="42" column="58" />
+        <mark key="." line="42" column="58" />
+      </file>
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserServiceWithValidatorTest.kt" timestamp="1566892112479">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="32" column="33" />
@@ -92,6 +98,15 @@
         <mark key="[" line="13" column="24" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/UserRepository.java" timestamp="1567390616885">
+        <mark key="[" line="65" column="46" />
+        <mark key="]" line="65" column="46" />
+        <mark key="." line="65" column="46" />
+        <mark key="^" line="65" column="29" />
+      </file>
+      <file name="/fragment.kt" timestamp="1567390166108">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/chargeOff/chargeoff/service/ChargeOffHistoryServiceImpl.kt" timestamp="1567053323383">
         <mark key="[" line="65" column="13" />
@@ -196,6 +211,7 @@
         <mark key="." line="26" column="34" />
         <mark key="^" line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/User.kt" timestamp="1567388393776" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cis/cisloaninfo/CisLoanInfoServiceImpl.kt" timestamp="1567043734016">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -305,10 +321,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1565770336634">
-        <mark key="[" line="46" column="48" />
-        <mark key="]" line="43" column="14" />
-        <mark key="." line="43" column="14" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1567390843808">
+        <mark key="[" line="81" column="17" />
+        <mark key="]" line="81" column="20" />
+        <mark key="." line="81" column="20" />
+        <mark key="^" line="81" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/main/kotlin/io/rutesun/validation/UserService.kt" timestamp="1566887154045">
         <mark key="[" line="13" column="32" />
@@ -431,11 +448,11 @@
       <jump line="52" column="4" filename="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserServiceTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      <register name="&quot;" type="4">
+        <text>FETCH</text>
       </register>
       <register name="-" type="4">
-        <text>getList</text>
+        <text>FETCH</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
