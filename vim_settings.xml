@@ -168,10 +168,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/ChargeOffHistoryServiceImplTests.kt" timestamp="1567488651188">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/ChargeOffHistoryServiceImplTests.kt" timestamp="1567491520470">
+        <mark key="[" line="32" column="69" />
+        <mark key="]" line="32" column="70" />
+        <mark key="." line="32" column="70" />
+        <mark key="^" line="29" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cis/cischargeoffinfo/CisChargeOffInfoServiceImpl.kt" timestamp="1567043646859">
         <mark key="[" line="16" column="0" />
@@ -280,6 +281,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="29" column="36" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-core-1.10.19-sources.jar!/org/mockito/InjectMocks.java" timestamp="1567491142865" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/controller/ChargeOffHistoryForm.kt" timestamp="1567043696306">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -463,11 +465,11 @@
       <jump line="52" column="4" filename="$USER_HOME$/Develop/workspace/spring-mvc-validate/src/test/kotlin/io/rutesun/validation/UserServiceTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
