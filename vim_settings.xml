@@ -235,7 +235,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1567403864166">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/dto/OverdueDto.kt" timestamp="1567472479842">
         <mark key="[" line="43" column="26" />
         <mark key="]" line="43" column="26" />
         <mark key="." line="43" column="26" />
@@ -302,6 +302,9 @@
         <mark key="]" line="23" column="42" />
         <mark key="." line="23" column="42" />
         <mark key="^" line="23" column="42" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1567471391239">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/RegisteredMailHistory.kt" timestamp="1566441483241">
         <mark key="[" line="29" column="15" />
