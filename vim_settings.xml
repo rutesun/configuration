@@ -378,11 +378,11 @@
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/chargeOff/service/ChargeOffHistoryService.kt" timestamp="1567474271963">
-        <mark key="[" line="26" column="61" />
-        <mark key="]" line="26" column="23" />
-        <mark key="^" line="26" column="23" />
-        <mark key="." line="26" column="23" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/chargeOff/service/ChargeOffHistoryService.kt" timestamp="1567480976545">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/chargeOff/chargeoff/domain/ChargeOffHistory.kt" timestamp="1567043407088">
         <mark key="[" line="0" column="24" />
@@ -407,7 +407,7 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/chargeOff/service/ChargeOffHistoryServiceImpl.kt" timestamp="1567478748821">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/chargeOff/service/ChargeOffHistoryServiceImpl.kt" timestamp="1567480956109">
         <mark key="[" line="62" column="33" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
