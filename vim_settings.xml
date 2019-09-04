@@ -13,6 +13,10 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="/a.dummy" timestamp="1567581985690">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/DefaultHistory.kt" timestamp="1567582213117" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1566477387241">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="83" column="0" />
@@ -144,8 +148,8 @@
         <mark key="]" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190904123233__alter-collection-table-3.sql" timestamp="1567568709484">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190904123233__alter-collection-table-3.sql" timestamp="1567582011896">
+        <mark key="[" line="7" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -193,6 +197,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1567567925798">
         <mark key="[" line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/CollectionMailHistory.kt" timestamp="1567582053993" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/ChargeOffHistoryServiceImplTests.kt" timestamp="1567494629971">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
