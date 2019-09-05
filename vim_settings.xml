@@ -56,32 +56,28 @@
         <mark key="^" line="407" column="44" />
         <mark key="." line="407" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567663312180">
+      <file name="/Dummy.txt" timestamp="1567669486069">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/repository/DefaultHistoryRepository.kt" timestamp="1567655004896">
         <mark key="[" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/account/interfaces/InvestFeeLossHistory.kt" timestamp="1567664116033" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/OverdueHistoryServiceImplActivateTests.kt" timestamp="1567666028384">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/OverdueHistoryServiceImplActivateTests.kt" timestamp="1567669345147">
+        <mark key="[" line="322" column="45" />
+        <mark key="]" line="322" column="45" />
+        <mark key="." line="322" column="45" />
         <mark key="^" line="102" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190904123233__alter-collection-table-3.sql" timestamp="1567663003251" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueBaseTest.kt" timestamp="1567664797597">
-        <mark key="[" line="64" column="143" />
-        <mark key="]" line="64" column="144" />
-        <mark key="^" line="55" column="143" />
-        <mark key="." line="64" column="144" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueBaseTest.kt" timestamp="1567668683890">
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="56" column="25" />
+        <mark key="^" line="56" column="37" />
+        <mark key="." line="56" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.kt" timestamp="1567664948091">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.kt" timestamp="1567670036403">
         <mark key="'" line="25" column="44" />
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="31" column="37" />
-        <mark key="^" line="31" column="37" />
-        <mark key="." line="31" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/default/DefaultHistoryServiceImpl.kt" timestamp="1567645633609">
         <mark key="[" line="0" column="33" />
@@ -93,12 +89,6 @@
         <mark key="[" line="18" column="15" />
       </file>
       <file name="/AmortizedCost.kt" timestamp="1567663303725" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/AmortizedCost.kt" timestamp="1567663338346">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="56" column="15" />
-        <mark key="." line="56" column="15" />
-        <mark key="^" line="56" column="15" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.kt" timestamp="1567660292106">
         <mark key="[" line="160" column="17" />
         <mark key="]" line="160" column="17" />
