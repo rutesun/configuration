@@ -6,6 +6,13 @@
       <file name="/a.dummy" timestamp="1567581985690">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/defaulthisotory/DefaultHistoryController.java" timestamp="1567646605597" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/bad/controller/DefaultHistoryController.kt" timestamp="1567646623660">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/service/OldChargeOffHistoryServiceImpl.kt" timestamp="1567477864063">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="24" column="68" />
@@ -30,16 +37,17 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/bad/repository/DefaultHistoryRepository.kt" timestamp="1567646519767">
+        <mark key="[" line="51" column="77" />
+        <mark key="]" line="51" column="77" />
+        <mark key="^" line="47" column="24" />
+        <mark key="." line="51" column="77" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/chargeOff/controller/ChargeOffHistoryApiController.kt" timestamp="1567488180053">
         <mark key="[" line="54" column="51" />
         <mark key="]" line="54" column="51" />
         <mark key="." line="54" column="51" />
         <mark key="^" line="54" column="51" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190904123233__alter-collection-table-3.sql" timestamp="1567582011896">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/task/service/impl/OverdueHistoryDailyBatchServiceImpl.java" timestamp="1567589487923">
         <mark key="[" line="99" column="30" />
@@ -107,10 +115,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>defaul</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>defaul</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
