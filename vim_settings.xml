@@ -11,6 +11,12 @@
       <file name="/a.dummy" timestamp="1567581985690">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CommonOverdueRepository.kt" timestamp="1567652051283">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="21" column="9" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/defaulthisotory/DefaultHistoryController.java" timestamp="1567646605597" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/bad/controller/DefaultHistoryController.kt" timestamp="1567646623660">
         <mark key="[" line="10" column="32" />
@@ -54,7 +60,21 @@
         <mark key="." line="54" column="51" />
         <mark key="^" line="54" column="51" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1567652094227">
+        <mark key="[" line="136" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1567652126933">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/DefaultHistoryService.java" timestamp="1567648611276" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/RegisterMailHistoryRepository.kt" timestamp="1567652103081">
+        <mark key="[" line="106" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/ResidentRegistrationIssueRepository.kt" timestamp="1567652109874">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/task/service/impl/OverdueHistoryDailyBatchServiceImpl.java" timestamp="1567589487923">
         <mark key="[" line="99" column="30" />
         <mark key="]" line="92" column="62" />
@@ -70,6 +90,9 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/default/DefaultHistoryServiceImpl.kt" timestamp="1567645633609">
         <mark key="[" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1567652008621">
+        <mark key="[" line="100" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1567567925798">
         <mark key="[" line="18" column="15" />
@@ -129,7 +152,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
@@ -141,33 +164,37 @@
         <text encoding="base64">YWx0ZXIgdGFibGUgY29sbGVjdGlvbl9tYWlsX2hpc3RvcnkgQ0hBTkdFIGNvbHVtbiB1cGRhdGVkX2F0IHVwZGF0ZWRfYXQgREFURVRJTUUgTk9UIE5VTEwgZGVmYXVsdCBDVVJSRU5UX1RJTUVTVEFNUCBPTiBVUERBVEUgQ1VSUkVOVF9USU1FU1RBTVA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text>private fun applyOrder(query: Query, sort: Sort): Query {
+    val iterator = sort.iterator()
+
+    query.
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IGVtUXVlcnkuCiAgICBwYWdpbmcuc29ydC5pdGVyYXRvcigpLmZvckVhY2ggewogICAgICAgIGVtUXVlcnkuCiAgICB9</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="4">
         <text>} catch (Exception ex) {
             log.error(&quot;reserveLoanEventSms error&quot;, ex);
         }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBmaWVsZDpNYXhMZW5ndGgodmFsdWUgPSAzMCwgbWVzc2FnZSA9ICIzMOyekOulvCDstIjqs7ztlaAg7IiYIOyXhuyKteuLiOuLpCIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBmaWVsZDpNYXhMZW5ndGgodmFsdWUgPSAzMCwgbWVzc2FnZSA9ICIzMOyekOulvCDstIjqs7ztlaAg7IiYIOyXhuyKteuLiOuLpCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>335</text>
