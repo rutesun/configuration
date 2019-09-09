@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySet.kt" timestamp="1568012165415">
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="12" />
-        <mark key="." line="36" column="12" />
-        <mark key="^" line="46" column="76" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySet.kt" timestamp="1568020724413">
+        <mark key="[" line="37" column="55" />
+        <mark key="]" line="37" column="55" />
+        <mark key="." line="37" column="55" />
+        <mark key="^" line="37" column="70" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568016724805">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="173" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568020693470">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="118" column="58" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/dto/DefaultDto.kt" timestamp="1568005590776">
         <mark key="[" line="7" column="0" />
@@ -50,6 +50,7 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/DefaultHistoryService.kt" timestamp="1568018331109" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/DefaultStepCode.kt" timestamp="1567757031909">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -100,6 +101,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/default/DefaultHistoryServiceImpl.kt" timestamp="1567645633609">
         <mark key="[" line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/RevivalHistoryService.java" timestamp="1568018322611" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1567652008621">
         <mark key="[" line="100" column="9" />
       </file>
@@ -109,12 +111,15 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190905172002__alter-unq-key.sql" timestamp="1567671821100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/disposal/DisposalServiceImpl.kt" timestamp="1568011946445" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistory.kt" timestamp="1568016401999">
-        <mark key="[" line="103" column="80" />
-        <mark key="]" line="103" column="81" />
-        <mark key="^" line="103" column="81" />
-        <mark key="." line="103" column="81" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/disposal/DisposalServiceImpl.kt" timestamp="1568018822213">
+        <mark key="[" line="145" column="51" />
+        <mark key="]" line="145" column="64" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistory.kt" timestamp="1568020657981">
+        <mark key="[" line="138" column="43" />
+        <mark key="]" line="138" column="43" />
+        <mark key="^" line="138" column="43" />
+        <mark key="." line="138" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/disposal/LoanDisposalAgreeEmailServiceImpl.kt" timestamp="1567673022390">
         <mark key="[" line="94" column="94" />
@@ -122,14 +127,15 @@
       <file name="/fragment.java" timestamp="1568016543173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.kt" timestamp="1568016928264">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.kt" timestamp="1568019752660">
+        <mark key="[" line="354" column="120" />
         <mark key="^" line="455" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/AmortizedMasterServiceImpl.java" timestamp="1568015828355" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySystemManager.kt" timestamp="1568016704278">
-        <mark key="[" line="64" column="8" />
-        <mark key="]" line="64" column="8" />
-        <mark key="." line="64" column="8" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySystemManager.kt" timestamp="1568019921950">
+        <mark key="[" line="65" column="10" />
+        <mark key="]" line="65" column="10" />
+        <mark key="." line="65" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -156,70 +162,47 @@
       <jump line="24" column="44" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dispose</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dispose</text>
+        <text encoding="base64">SWQg</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGlzcG9zYWwgPSBnZXREaXNwb2FsKCkhIQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gYW1vcnRpemVkTWFzdGVyU2VydmljZS5jaGVja0RlZmF1bHRIaXN0b3J5SXNWYWxpZChkZWZhdWx0SGlzdG9yeSkKICAgICAgICBpZiAoIXJlc3VsdCkgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGlzdG9yeVNldC5oYXNEaXNwb3NlZCgpKSB0aHJvdyBCdXNpbmVzc0V4Y2VwdGlvbigi7J2066+4IOuTseuhneuQnCDrp6TqsIEg7J2066Cl7J20IOyeiOyKteuLiOuLpC4gZGVmYXVsdEhpc3RvcnlJZD0ke2hpc3RvcnlTZXQuZ2V0RGlzcG9zYWwoKSEhLmlkfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9hbk1hc3RlciA9IGxvYW5NYXN0ZXJTZXJ2aWNlLmdldChsb2FuTWFzdGVySWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHggCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgLyoqCiAgICAgICAgICog7IOB6rCB67OA7KCcIOq4iOyVoeyXkCDrjIDtlZwgQW1vcnRpemVkU2NoZWR1bGVk6rO8IEFtb3J0aXplZEZvcm3rpbwg66eM65Ok7Ja07KSA64ukLgogICAgICAgICAqLw==</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-         * 활성화되어 있는 부도 내역이라면 비활성화 한다.
-         */
-        if (activatedYn) {
-            val result = deactivateDefaultHistory(defaultHistory.id)
-            if (!result) {
-                log.warn(&quot;deactivateDefaultHistory failed {}&quot;, defaultHistory.id)
-                return false
-            }
-        }
-
-        /**
-         * 매각회수금액실행 삭제시 관련 AmortizedScheduled, AmortizedForm 또한 삭제한다.
-         */
-        if (stepCode == DefaultStepCode.DEFAULT_STEP_02) {
-            amortizedMasterService.deleteDefaultHistory(defaultHistory)
-        }
-
-        /**
-         * 그리고 삭제한다.
-         */</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VPZmZIaXN0b3J5U2VydmljZS5zYXZlQW5kQWN0aXZhdGUoQ2hhcmdlT2ZmVHlwZUNvZGUuRElTUE9TQUwsIGRlZmF1bHRIaXN0b3J5LmxvYW5NYXN0ZXJJZCwgRGF0ZVRpbWVVdGlsLnBhcnNlRGF0ZShkZWZhdWx0SGlzdG9yeS5ldmVudER0KSwgY2hhcmdlT2ZmQW10KQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">d2hlbiB7CiAgICAgICAgICAgIHN0ZXBDb2RlID09IERlZmF1bHRTdGVwQ29kZS5ERUZBVUxUX1NURVBfMDIgJiYgYWN0aXZhdGVkWW4gLT4KICAgICAgICAgICAgICAgIHRocm93IEJ1c2luZXNzRXhjZXB0aW9uKCLtmZzshLHtmZTrkJwg67aA64+E7LGE6raMIOunpOqwgSDsnbTroKXsnYAg7IKt7KCc7ZWgIOyImCDsl4bsirXri4jri6QuIikKCiAgICAgICAgICAgIGFjdGl2YXRlZFluIC0+IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICAhYWN0aXZhdGVkWW4gLT4gewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-            log.warn()
-            return false
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gYW1vcnRpemVkTWFzdGVyU2VydmljZS5jaGVja0RlZmF1bHRIaXN0b3J5SXNWYWxpZChkZWZhdWx0SGlzdG9yeSkKICAgICAgICBpZiAoIXJlc3VsdCkgewogICAgICAgICAgICB0aHJvdyBCdXNpbmVzc0V4Y2VwdGlvbigiYWN0aXZhdGVEZWZhdWx0SGlzdG9yeSBmYWlsZWQgZm9yIG5vdCBwYXNzaW5nIGNoZWNrRGVmYXVsdEhpc3RvcnlJc1ZhbGlkICRkZWZhdWx0SGlzdG9yeSIpCiAgICAgICAgfQoKICAgICAgICB2YWwgbG9hbk1hc3RlcklkID0gZGVmYXVsdEhpc3RvcnkubG9hbk1hc3RlcklkCgogICAgICAgIC8qKgogICAgICAgICAqIOyDge2ZmOyKpOy8gOykhOydmCBub3RfcGFpZF9vcmlnaW4g7ZWE65Oc66W8IOyXheuNsOydtO2KuO2VnOuLpC4KICAgICAgICAgKi8KICAgICAgICB2YWwgYW1vcnRpemVkUmVjb3JkTGlzdEZvclJldml2YWxIaXN0b3J5ID0gYW1vcnRpemVkUmVjb3JkU2VydmljZS5maW5kQWxsQnlMb2FuTWFzdGVySWRBbmRBbW9ydGl6ZWREdEFuZEFtb3J0aXplZENkT3JkZXJCeUxvYW5TY2hlZHVsZU5vQXNjKGRlZmF1bHRIaXN0b3J5LmxvYW5NYXN0ZXJJZCwgZGVmYXVsdEhpc3RvcnkuZXZlbnREdCwgQW1vcnRpemVkQ29kZS5BTU9SVElaRURfMTEpCgogICAgICAgIGZvciAocmVjb3JkIGluIGFtb3J0aXplZFJlY29yZExpc3RGb3JSZXZpdmFsSGlzdG9yeSkgewogICAgICAgICAgICBsb2FuTWFzdGVyU2NoZWR1bGVTZXJ2aWNlLnVwZGF0ZVRlbmRlclBheW1lbnRBY3RpdmUobG9hbk1hc3RlcklkLCByZWNvcmQubG9hblNjaGVkdWxlTm8sIHJlY29yZC5hbW9ydGl6ZWRPcmlnaW4pCiAgICAgICAgfQoKICAgICAgICBwYXltZW50U2NoZWR1bGVkU2VydmljZS5jcmVhdGVQYXltZW50U2NoZWR1bGVkQWZ0ZXJEZWZhdWx0UGF5bWVudEJ5UmF0aW8oZGVmYXVsdEhpc3RvcnkpCgogICAgICAgIGxvYW5NYXN0ZXJTZXJ2aWNlLnVwZGF0ZUxvYW5NYXN0ZXJTdGF0dXNDZElmTmVlZGVkRnJvbVN5c3RlbShsb2FuTWFzdGVySWQsIGRlZmF1bHRIaXN0b3J5LmV2ZW50RHQpCgogICAgICAgIGxvYW5NYXN0ZXJTZXJ2aWNlLnVwZGF0ZUxvYW5NYXN0ZXJGb3JQMlBzaGFyaW5nKGxvYW5NYXN0ZXJTZXJ2aWNlLmdldChsb2FuTWFzdGVySWQpKQogICAgICAgIHZhbCBjaGFyZ2VPZmZBbXQgPSBsb2FuTWFzdGVyU2VydmljZS5nZXRSZW1haW5BbXRGb3JBY2NvdW50KGxvYW5NYXN0ZXJJZCkKICAgICAgICBjaGFyZ2VPZmZIaXN0b3J5U2VydmljZS5zYXZlQW5kQWN0aXZhdGUoQ2hhcmdlT2ZmVHlwZUNvZGUuRElTUE9TQUwsIGRlZmF1bHRIaXN0b3J5LmxvYW5NYXN0ZXJJZCwgRGF0ZVRpbWVVdGlsLnBhcnNlRGF0ZShkZWZhdWx0SGlzdG9yeS5ldmVudER0KSwgY2hhcmdlT2ZmQW10KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY2hhcmdlT2ZmQW10ID0gMAo=</text>
       </register>
       <register name=":" type="4">
-        <text>335</text>
+        <text>68</text>
       </register>
     </registers>
     <search>
@@ -246,6 +229,7 @@
         <entry>2</entry>
         <entry>591</entry>
         <entry>335</entry>
+        <entry>68</entry>
       </history-cmd>
       <history-expr />
       <history-input />
