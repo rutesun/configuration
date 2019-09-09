@@ -9,11 +9,11 @@
         <mark key="." line="36" column="12" />
         <mark key="^" line="46" column="76" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568012256473">
-        <mark key="[" line="86" column="19" />
-        <mark key="]" line="86" column="19" />
-        <mark key="." line="86" column="19" />
-        <mark key="^" line="86" column="19" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568016724805">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="173" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/dto/DefaultDto.kt" timestamp="1568005590776">
         <mark key="[" line="7" column="0" />
@@ -79,7 +79,7 @@
         <mark key="." line="131" column="253" />
         <mark key="^" line="131" column="253" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistoryManager.kt" timestamp="1568007765448">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistoryManager.kt" timestamp="1568016538345">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -110,7 +110,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/disposal/DisposalServiceImpl.kt" timestamp="1568011946445" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistory.kt" timestamp="1568011659986">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistory.kt" timestamp="1568016401999">
         <mark key="[" line="103" column="80" />
         <mark key="]" line="103" column="81" />
         <mark key="^" line="103" column="81" />
@@ -119,8 +119,17 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/disposal/LoanDisposalAgreeEmailServiceImpl.kt" timestamp="1567673022390">
         <mark key="[" line="94" column="94" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.kt" timestamp="1568012280720">
+      <file name="/fragment.java" timestamp="1568016543173">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.kt" timestamp="1568016695353">
         <mark key="^" line="455" column="53" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/AmortizedMasterServiceImpl.java" timestamp="1568015828355" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySystemManager.kt" timestamp="1568016704278">
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="8" />
+        <mark key="." line="64" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -148,10 +157,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>register</text>
+        <text>dispose</text>
       </register>
       <register name="-" type="4">
-        <text>register</text>
+        <text>dispose</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -160,31 +169,54 @@
         <text encoding="base64">ICAgICAgICB2YWwgZGlzcG9zYWwgPSBnZXREaXNwb2FsKCkhIQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICog7IOB6rCB67OA7KCcIOq4iOyVoeyXkCDrjIDtlZwgQW1vcnRpemVkU2NoZWR1bGVk6rO8IEFtb3J0aXplZEZvcm3rpbwg66eM65Ok7Ja07KSA64ukLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICog7IOB6rCB67OA7KCcIOq4iOyVoeyXkCDrjIDtlZwgQW1vcnRpemVkU2NoZWR1bGVk6rO8IEFtb3J0aXplZEZvcm3rpbwg66eM65Ok7Ja07KSA64ukLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCg==</text>
+      <register name="6" type="4">
+        <text>/**
+         * 활성화되어 있는 부도 내역이라면 비활성화 한다.
+         */
+        if (activatedYn) {
+            val result = deactivateDefaultHistory(defaultHistory.id)
+            if (!result) {
+                log.warn(&quot;deactivateDefaultHistory failed {}&quot;, defaultHistory.id)
+                return false
+            }
+        }
+
+        /**
+         * 매각회수금액실행 삭제시 관련 AmortizedScheduled, AmortizedForm 또한 삭제한다.
+         */
+        if (stepCode == DefaultStepCode.DEFAULT_STEP_02) {
+            amortizedMasterService.deleteDefaultHistory(defaultHistory)
+        }
+
+        /**
+         * 그리고 삭제한다.
+         */</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RlcENvZGUgPT0gRGVmYXVsdFN0ZXBDb2RlLkRFRkFVTFRfU1RFUF8wMikgewo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">d2hlbiB7CiAgICAgICAgICAgIHN0ZXBDb2RlID09IERlZmF1bHRTdGVwQ29kZS5ERUZBVUxUX1NURVBfMDIgJiYgYWN0aXZhdGVkWW4gLT4KICAgICAgICAgICAgICAgIHRocm93IEJ1c2luZXNzRXhjZXB0aW9uKCLtmZzshLHtmZTrkJwg67aA64+E7LGE6raMIOunpOqwgSDsnbTroKXsnYAg7IKt7KCc7ZWgIOyImCDsl4bsirXri4jri6QuIikKCiAgICAgICAgICAgIGFjdGl2YXRlZFluIC0+IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICAhYWN0aXZhdGVkWW4gLT4gewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>{
+            log.warn()
+            return false
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>335</text>
