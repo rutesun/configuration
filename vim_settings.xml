@@ -3,119 +3,43 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/dto/DefaultDto.kt" timestamp="1568005590776">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="25" column="92" />
-      </file>
-      <file name="/a.dummy" timestamp="1567581985690">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/defaulthisotory/DefaultHistoryController.java" timestamp="1568077747016">
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="33" column="13" />
-        <mark key="^" line="33" column="13" />
-        <mark key="." line="33" column="13" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/DefaultHistoryServiceImpl.kt" timestamp="1568094339864">
-        <mark key="[" line="31" column="148" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="29" column="130" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/DefaultStepCode.kt" timestamp="1567757031909">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="8" column="43" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/controller/DefaultHistoryApiController.kt" timestamp="1568095990277">
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="29" column="7" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="29" column="7" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/LoanMasterScheduleServiceImpl.java" timestamp="1567673096495">
-        <mark key="[" line="1578" column="0" />
-        <mark key="]" line="1578" column="0" />
-        <mark key="." line="1578" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/repository/DefaultHistoryRepository.kt" timestamp="1568078073405">
-        <mark key="[" line="25" column="55" />
-        <mark key="]" line="25" column="55" />
-        <mark key="." line="25" column="55" />
-        <mark key="^" line="25" column="55" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/OverdueHistoryServiceImplActivateTests.kt" timestamp="1568031865368">
-        <mark key="[" line="131" column="253" />
-        <mark key="]" line="131" column="253" />
-        <mark key="." line="131" column="253" />
-        <mark key="^" line="131" column="253" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistoryManager.kt" timestamp="1568016538345">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.kt" timestamp="1568032472736">
-        <mark key="'" line="25" column="44" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="42" column="16" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/DefaultHistoryServiceAdapter.kt" timestamp="1568095444532">
-        <mark key="[" line="40" column="107" />
-        <mark key="]" line="42" column="18" />
-        <mark key="^" line="42" column="18" />
-        <mark key="." line="42" column="18" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/CollectionMailController.kt" timestamp="1567747634105">
-        <mark key="[" line="103" column="17" />
-        <mark key="]" line="103" column="17" />
-        <mark key="^" line="103" column="17" />
-        <mark key="." line="103" column="17" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/RevivalHistoryService.java" timestamp="1568018322611" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplSaveTests.kt" timestamp="1568031901399">
-        <mark key="[" line="127" column="120" />
-        <mark key="]" line="139" column="12" />
-        <mark key="." line="139" column="12" />
-        <mark key="^" line="139" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/disposal/LoanDisposalAgreeEmailServiceImpl.kt" timestamp="1567673022390">
-        <mark key="[" line="94" column="94" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.kt" timestamp="1568094518692">
-        <mark key="[" line="119" column="4" />
-        <mark key="]" line="119" column="4" />
-        <mark key="^" line="115" column="11" />
-        <mark key="." line="119" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/AmortizedMasterServiceImpl.java" timestamp="1568015828355" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySystemManager.kt" timestamp="1568029367821" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySet.kt" timestamp="1568027923216">
         <mark key="[" line="37" column="55" />
         <mark key="]" line="37" column="55" />
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="70" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568079598363">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568100355540">
+        <mark key="[" line="271" column="72" />
+        <mark key="]" line="271" column="72" />
+        <mark key="." line="271" column="72" />
+        <mark key="^" line="255" column="2" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/dto/DefaultDto.kt" timestamp="1568099524925">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="22" column="92" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/OverdueHistoryServiceImpl.java" timestamp="1567731277890">
         <mark key="[" line="591" column="12" />
         <mark key="]" line="591" column="12" />
         <mark key="." line="591" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1567581985690">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CommonOverdueRepository.kt" timestamp="1567652051283">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="21" column="9" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/defaulthisotory/DefaultHistoryController.java" timestamp="1568077747016">
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="33" column="13" />
+        <mark key="^" line="33" column="13" />
+        <mark key="." line="33" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/InvestNoticeServiceImplSetSourceDtAutomaticallyTests.java" timestamp="1568031972334">
         <mark key="[" line="86" column="25" />
@@ -133,18 +57,32 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/sms/SMSEmailTests.kt" timestamp="1568033600068" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/DefaultHistoryService.kt" timestamp="1568094535220">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/defaulthisotory/DefaultHistoryForm.kt" timestamp="1568031142953" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/DefaultHistoryServiceImpl.kt" timestamp="1568094339864">
+        <mark key="[" line="31" column="148" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="29" column="130" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/DefaultStepCode.kt" timestamp="1567757031909">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/RoleCode.kt" timestamp="1568100221395" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplActivateTests.kt" timestamp="1568078121623">
         <mark key="[" line="107" column="20" />
         <mark key="]" line="107" column="20" />
         <mark key="." line="107" column="20" />
         <mark key="^" line="162" column="57" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/controller/DefaultHistoryApiController.kt" timestamp="1568100224715">
+        <mark key="[" line="59" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/nice/batch/NiceBatchServiceImpl.kt" timestamp="1567666130730">
         <mark key="[" line="380" column="44" />
@@ -152,9 +90,31 @@
         <mark key="^" line="380" column="44" />
         <mark key="." line="380" column="44" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/stereotype/Service.java" timestamp="1568077706743" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/LoanMasterScheduleServiceImpl.java" timestamp="1567673096495">
+        <mark key="[" line="1578" column="0" />
+        <mark key="]" line="1578" column="0" />
+        <mark key="." line="1578" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1568094136407">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/repository/DefaultHistoryRepository.kt" timestamp="1568078073405">
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="25" column="55" />
+        <mark key="." line="25" column="55" />
+        <mark key="^" line="25" column="55" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/OverdueHistoryServiceImplActivateTests.kt" timestamp="1568031865368">
+        <mark key="[" line="131" column="253" />
+        <mark key="]" line="131" column="253" />
+        <mark key="." line="131" column="253" />
+        <mark key="^" line="131" column="253" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/component/ComponentAdminApiController.kt" timestamp="1568100200698" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistoryManager.kt" timestamp="1568016538345">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/hy/HyLoanEventServiceImpl.kt" timestamp="1567673016975">
         <mark key="[" line="184" column="81" />
@@ -162,8 +122,27 @@
         <mark key="^" line="184" column="81" />
         <mark key="." line="184" column="81" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.kt" timestamp="1568032472736">
+        <mark key="'" line="25" column="44" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="42" column="16" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/DefaultHistoryServiceAdapter.kt" timestamp="1568095444532">
+        <mark key="[" line="40" column="107" />
+        <mark key="]" line="42" column="18" />
+        <mark key="^" line="42" column="18" />
+        <mark key="." line="42" column="18" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/task/service/impl/OverdueHistoryDailyBatchServiceImpl.java" timestamp="1568096018270">
         <mark key="[" line="36" column="14" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/controller/CollectionMailController.kt" timestamp="1567747634105">
+        <mark key="[" line="103" column="17" />
+        <mark key="]" line="103" column="17" />
+        <mark key="^" line="103" column="17" />
+        <mark key="." line="103" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/default/DefaultHistoryServiceImpl.kt" timestamp="1567645633609">
         <mark key="[" line="0" column="33" />
@@ -180,7 +159,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190905172002__alter-unq-key.sql" timestamp="1567671821100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/disposal/DisposalServiceImpl.kt" timestamp="1568096089424">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/disposal/DisposalServiceImpl.kt" timestamp="1568099166279">
         <mark key="[" line="10" column="90" />
         <mark key="]" line="10" column="91" />
         <mark key="^" line="10" column="91" />
@@ -192,8 +171,23 @@
         <mark key="^" line="154" column="48" />
         <mark key="." line="154" column="48" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplSaveTests.kt" timestamp="1568031901399">
+        <mark key="[" line="127" column="120" />
+        <mark key="]" line="139" column="12" />
+        <mark key="." line="139" column="12" />
+        <mark key="^" line="139" column="12" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/disposal/LoanDisposalAgreeEmailServiceImpl.kt" timestamp="1567673022390">
+        <mark key="[" line="94" column="94" />
+      </file>
       <file name="/fragment.java" timestamp="1568016543173">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.kt" timestamp="1568094518692">
+        <mark key="[" line="119" column="4" />
+        <mark key="]" line="119" column="4" />
+        <mark key="^" line="115" column="11" />
+        <mark key="." line="119" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -222,49 +216,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
-    }</text>
+        <text>defaultHistory</text>
       </register>
       <register name="-" type="4">
-        <text>overrid</text>
+        <text>defaultHistory</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gYW1vcnRpemVkTWFzdGVyU2VydmljZS5jaGVja0RlZmF1bHRIaXN0b3J5SXNWYWxpZChkZWZhdWx0SGlzdG9yeSkKICAgICAgICBpZiAoIXJlc3VsdCkgewo=</text>
+        <text encoding="base64">ICAgIGZ1biBkZWFjdGl2YXRlRGlzcG9zYWwoZGVmYXVsdEhpc3Rvcnk6IERlZmF1bHRIaXN0b3J5KSB7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>{
-        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
+        <text>fun deactivateDisposal(defaultHistory: DefaultHistory) {
+        defaultHistory.deactivate()
+        defaultHistorySystemManager.cancelDisposal(defaultHistory)
+        defaultHistoryRepository.save(defaultHistory)
     }</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQ==</text>
+        <text encoding="base64">ICBmdW4gZGVhY3RpdmF0ZVJlZ2lzdGVyZWQoZGVmYXVsdEhpc3Rvcnk6IERlZmF1bHRIaXN0b3J5KSB7CiAgICAgICAgZGVmYXVsdEhpc3RvcnkuZGVhY3RpdmF0ZSgpCiAgICAgICAgZGVmYXVsdEhpc3RvcnlTeXN0ZW1NYW5hZ2VyLmNhbmNlbFJlZ2lzdGVyKGRlZmF1bHRIaXN0b3J5KQogICAgICAgIGRlZmF1bHRIaXN0b3J5UmVwb3NpdG9yeS5zYXZlKGRlZmF1bHRIaXN0b3J5KQogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBkZQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>override fun delete(defaultHistory: DefaultHistory) {
-        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
-    }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>@field:NotNull
+    var loanMasterId: Int?,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRkZGUgZnVuIHNhdmUoZGVmYXVsdEhpc3Rvcnk6IERlZmF1bHRIaXN0b3J5KTogRGVmYXVsdEhpc3RvcnkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9hbk1hc3RlcklkID0gZGVmYXVsdER0by5sb2FuTWFzdGVySWQhIQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">QFB1dE1hcHBpbmcKICAgIGZ1biA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="9" type="4">
+        <text>{
+        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
+    }</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
