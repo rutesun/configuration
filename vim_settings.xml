@@ -35,7 +35,7 @@
         <mark key="." line="40" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/validation/BindException.java" timestamp="1568108035930" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplSaveTests.kt" timestamp="1568164888663">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplSaveTests.kt" timestamp="1568167755433">
         <mark key="[" line="53" column="65" />
         <mark key="]" line="53" column="64" />
         <mark key="^" line="53" column="64" />
@@ -67,6 +67,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" timestamp="1568103607815" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/shop/admin/OrderAdminApiController.kt" timestamp="1568101895394" />
       <file name="/DefaultDto.kt" timestamp="1568163504059" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplActivateTests.kt" timestamp="1568168665756">
+        <mark key="[" line="210" column="36" />
+        <mark key="]" line="210" column="36" />
+        <mark key="." line="210" column="36" />
+        <mark key="^" line="85" column="8" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/chargeOff/controller/ChargeOffHistoryApiController.kt" timestamp="1568103942152">
         <mark key="[" line="60" column="5" />
         <mark key="]" line="60" column="5" />
@@ -133,43 +139,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DefaultStepCode.DEFAULT_STEP_02</text>
+        <text>activateDefaultHistory</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultStepCode.DEFAULT_STEP_02</text>
+        <text>activateDefaultHistory</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdFN0ZXBDZCA9IERlZmF1bHRTdGVwQ29kZS5ERUZBVUxUX1NURVBfMDIsCg==</text>
+        <text encoding="base64">ICAgICAgICBNb2NraXRvLmB3aGVuYChkZWZhdWx0SGlzdG9yeVJlcG9zaXRvcnkuc2F2ZShkZWZhdWx0SGlzdG9yeTAxKSkudGhlblJldHVybihkZWZhdWx0SGlzdG9yeTAxKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>fun `03 채권매각 비활성화`() {
+        prepareDefaultHistoryRepository02()
+        defaultService.deactivateDisposal(defaultHistory02.loanMasterId)
+    }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VPZmZIaXN0b3J5U2VydmljZS5zYXZlQW5kQWN0aXZhdGUoQ2hhcmdlT2ZmVHlwZUNvZGUuRElTUE9TQUwsIGRlZmF1bHRIaXN0b3J5LmxvYW5NYXN0ZXJJZCwgRGF0ZVRpbWVVdGlsLnBhcnNlRGF0ZShkZWZhdWx0SGlzdG9yeS5ldmVudER0KSwgY2hhcmdlT2ZmQW10KQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IEBCZWZvcmUKICAgIGZ1biBiZWZvcmUoKSB7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2hhcmdlT2ZmQW10ID0gbG9hbk1hc3RlclNlcnZpY2UuZ2V0UmVtYWluQW10Rm9yQWNjb3VudChsb2FuTWFzdGVySWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVwYXJlRGVmYXVsdEhpc3RvcnlSZXBvc2l0b3J5MDEoKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDsg4HqsIEg6riw66Gd7J2EIOunjOuToOuLpAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHJpdmF0ZSBmdW4gcHJlcGFyZURlZmF1bHRIaXN0b3J5UmVwb3NpdG9yeTAxKCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IE1vY2tpdG8uYHdoZW5gKGRlZmF1bHRIaXN0b3J5UmVwb3NpdG9yeS5maW5kQWxsQnlMb2FuTWFzdGVySWQoTE9BTl9NQVNURVJfSUQpKS50aGVuUmV0dXJuKEFycmF5cy5hc0xpc3QoZGVmYXVsdEhpc3RvcnkwMSwgZGVmYXVsdEhpc3RvcnkwMikpCiAgICAgICAgTW9ja2l0by5gd2hlbmAoZGVmYXVsdEhpc3RvcnlSZXBvc2l0b3J5LmZpbmRPbmUoREVGQVVMVF9ISVNUT1JZX0lEXzAxKSkudGhlblJldHVybihkZWZhdWx0SGlzdG9yeTAxKQogICAgICAgIE1vY2tpdG8uYHdoZW5gKGRlZmF1bHRIaXN0b3J5UmVwb3NpdG9yeS5maW5kQnlJZFdpdGhMb2NrKERFRkFVTFRfSElTVE9SWV9JRF8wMSkpLnRoZW5SZXR1cm4oZGVmYXVsdEhpc3RvcnkwMSkKICAgICAgICBNb2NraXRvLmB3aGVuYChkZWZhdWx0SGlzdG9yeVJlcG9zaXRvcnkuc2F2ZShkZWZhdWx0SGlzdG9yeTAxKSkudGhlblJldHVybihkZWZhdWx0SGlzdG9yeTAxKQ==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IH0gY2F0Y2ggKGU6IEJ1c2luZXNzRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHJldHVybiBlLm1lc3NhZ2UKICAgICAgICB9</text>
+        <text>Test
+    f</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VPZmZIaXN0b3J5U2VydmljZS5zYXZlQW5kQWN0aXZhdGUoQ2hhcmdlT2ZmVHlwZUNvZGUuRElTUE9TQUwsIGRlZmF1bHRIaXN0b3J5LmxvYW5NYXN0ZXJJZCwgRGF0ZVRpbWVVdGlsLnBhcnNlRGF0ZShkZWZhdWx0SGlzdG9yeS5ldmVudER0KSwgY2hhcmdlT2ZmQW10KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYmluZGluZ1Jlc3VsdCA9IEJlYW5Qcm9wZXJ0eUJpbmRpbmdSZXN1bHQoZHRvLCA6OmNsYXNzLmp2bU5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2hhcmdlT2ZmQW10ID0gbG9hbk1hc3RlclNlcnZpY2UuZ2V0UmVtYWluQW10Rm9yQWNjb3VudChsb2FuTWFzdGVySWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
