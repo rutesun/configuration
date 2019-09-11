@@ -12,10 +12,10 @@
       <file name="/a.dummy" timestamp="1567581985690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/delinquency/dto/DefaultDtoTest.kt" timestamp="1568185513719">
-        <mark key="[" line="54" column="28" />
-        <mark key="]" line="54" column="31" />
-        <mark key="." line="54" column="31" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/delinquency/dto/DefaultDtoTest.kt" timestamp="1568186706419">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/RoleCode.kt" timestamp="1568100221395" />
@@ -66,17 +66,17 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySet.kt" timestamp="1568108341916">
-        <mark key="[" line="37" column="55" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySet.kt" timestamp="1568186898853">
+        <mark key="[" line="20" column="24" />
         <mark key="]" line="37" column="55" />
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="70" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568183405809">
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="211" column="7" />
-        <mark key="." line="211" column="7" />
-        <mark key="^" line="211" column="7" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568186837039">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="216" column="7" />
+        <mark key="." line="216" column="7" />
+        <mark key="^" line="216" column="7" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/OverdueHistoryServiceImpl.java" timestamp="1567731277890">
         <mark key="[" line="591" column="12" />
@@ -111,7 +111,7 @@
         <mark key="]" line="60" column="5" />
         <mark key="." line="60" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568185294242">
+      <file name="/Dummy.txt" timestamp="1568187016093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/component/ComponentAdminApiController.kt" timestamp="1568100200698" />
@@ -171,8 +171,8 @@
       <jump line="108" column="12" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySystemManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>InjectMocks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBkZWZhdWx0U3RlcENkID0gbnVsbCwK</text>
       </register>
       <register name="-" type="4">
         <text>InjectMocks</text>
@@ -184,21 +184,24 @@
         <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKHRoaXMubG9hbk1hc3RlcklkLCBkZWZhdWx0SGlzdG9yeTAxLmxvYW5NYXN0ZXJJZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkZWZhdWx0U3RlcENkID0gbnVsbCwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBsYXRlaW5pdCB2YXIgY2hhcmdlT2ZmSGlzdG9yeVNlcnZpY2U6IENoYXJnZU9mZkhpc3RvcnlTZXJ2aWNl</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBsYXRlaW5pdCB2YXIgY2hhcmdlT2ZmSGlzdG9yeVNlcnZpY2U6IENoYXJnZU9mZkhpc3RvcnlTZXJ2aWNl</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>@Test(expected = BusinessException::class)
     fun `03-1 Amortized 에 기록된 금액이 다름 채권매각 활성화 실패`() {
         prepareDefaultHistoryRepository02()
@@ -210,28 +213,11 @@
         verify(defaultHistorySystemManager, atLeastOnce()).executeDisposal(defaultHistory02)
     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>@Test
-    fun testDefaultHistoryServiceImpl_activateDefaultHistory02_NoActivated01() {
-        prepareDefaultHistoryRepository02()
-        Mockito.`when`(defaultHistoryRepository.findByLoanMasterIdAndDefaultStepCdAndActivatedYnTrue(LOAN_MASTER_ID, DefaultStepCode.DEFAULT_STEP_01)).thenReturn(null)
-        val result = defaultHistoryServiceImpl.activateDefaultHistory(DEFAULT_HISTORY_ID_02)
-        Assert.assertEquals(result, false)
-    }
-
-    @Test
-    fun testDefaultHistoryServiceImpl_activateDefaultHistory02_DefaultHistoryIsNotValid() {
-        prepareDefaultHistoryRepository02()
-        Mockito.`when`(amortizedMasterService.checkDefaultHistoryIsValid(defaultHistory02)).thenReturn(false)
-        val result = defaultHistoryServiceImpl.activateDefaultHistory(DEFAULT_HISTORY_ID_02)
-        Assert.assertEquals(result, false)
-    }</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
