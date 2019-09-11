@@ -13,10 +13,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/delinquency/dto/DefaultDtoTest.kt" timestamp="1568163415352">
-        <mark key="[" line="55" column="28" />
-        <mark key="]" line="55" column="31" />
-        <mark key="." line="55" column="31" />
-        <mark key="^" line="55" column="31" />
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="54" column="31" />
+        <mark key="." line="54" column="31" />
+        <mark key="^" line="54" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/RoleCode.kt" timestamp="1568100221395" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/controller/DefaultHistoryApiController.kt" timestamp="1568102061226">
@@ -35,7 +35,7 @@
         <mark key="." line="40" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/validation/BindException.java" timestamp="1568108035930" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplSaveTests.kt" timestamp="1568109462212">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplSaveTests.kt" timestamp="1568164888663">
         <mark key="[" line="53" column="65" />
         <mark key="]" line="53" column="64" />
         <mark key="^" line="53" column="64" />
@@ -44,14 +44,14 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/disposal/LoanDisposalAgreeEmailServiceImpl.kt" timestamp="1567673022390">
         <mark key="[" line="94" column="94" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.kt" timestamp="1568102319099">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.kt" timestamp="1568164284430">
         <mark key="[" line="119" column="4" />
         <mark key="]" line="119" column="4" />
         <mark key="^" line="115" column="11" />
         <mark key="." line="119" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySystemManager.kt" timestamp="1568109909605">
-        <mark key="[" line="56" column="46" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySystemManager.kt" timestamp="1568165424223">
+        <mark key="[" line="30" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySet.kt" timestamp="1568108341916">
         <mark key="[" line="37" column="55" />
@@ -72,7 +72,7 @@
         <mark key="]" line="60" column="5" />
         <mark key="." line="60" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568163494959">
+      <file name="/Dummy.txt" timestamp="1568164264913">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/component/ComponentAdminApiController.kt" timestamp="1568100200698" />
@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190905172002__alter-unq-key.sql" timestamp="1567671821100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/disposal/DisposalServiceImpl.kt" timestamp="1568110041042">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/disposal/DisposalServiceImpl.kt" timestamp="1568164209415">
         <mark key="[" line="48" column="41" />
         <mark key="]" line="10" column="91" />
         <mark key="^" line="10" column="91" />
