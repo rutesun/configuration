@@ -12,7 +12,7 @@
       <file name="/a.dummy" timestamp="1567581985690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/delinquency/dto/DefaultDtoTest.kt" timestamp="1568163415352">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/delinquency/dto/DefaultDtoTest.kt" timestamp="1568185513719">
         <mark key="[" line="54" column="28" />
         <mark key="]" line="54" column="31" />
         <mark key="." line="54" column="31" />
@@ -45,11 +45,11 @@
         <mark key="." line="40" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/validation/BindException.java" timestamp="1568108035930" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplSaveTests.kt" timestamp="1568167755433">
-        <mark key="[" line="53" column="65" />
-        <mark key="]" line="53" column="64" />
-        <mark key="^" line="53" column="64" />
-        <mark key="." line="53" column="64" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplSaveTests.kt" timestamp="1568185247794">
+        <mark key="[" line="76" column="8" />
+        <mark key="]" line="76" column="8" />
+        <mark key="^" line="76" column="8" />
+        <mark key="." line="76" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/disposal/LoanDisposalAgreeEmailServiceImpl.kt" timestamp="1567673022390">
         <mark key="[" line="94" column="94" />
@@ -101,12 +101,17 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplActivateTests.kt" timestamp="1568183470555">
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="281" column="0" />
-        <mark key="." line="281" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplActivateTests.kt" timestamp="1568185253149">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568164264913">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/chargeOff/controller/ChargeOffHistoryApiController.kt" timestamp="1568103942152">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="60" column="5" />
+        <mark key="." line="60" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1568185294242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/component/ComponentAdminApiController.kt" timestamp="1568100200698" />
@@ -166,11 +171,11 @@
       <jump line="108" column="12" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/domain/DefaultHistorySystemManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>InjectMocks</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>InjectMocks</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -182,9 +187,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBsYXRlaW5pdCB2YXIgY2hhcmdlT2ZmSGlzdG9yeVNlcnZpY2U6IENoYXJnZU9mZkhpc3RvcnlTZXJ2aWNl</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>@Test(expected = BusinessException::class)
     fun `03-1 Amortized 에 기록된 금액이 다름 채권매각 활성화 실패`() {
         prepareDefaultHistoryRepository02()
@@ -196,13 +210,13 @@
         verify(defaultHistorySystemManager, atLeastOnce()).executeDisposal(defaultHistory02)
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>@Test
     fun testDefaultHistoryServiceImpl_activateDefaultHistory02_NoActivated01() {
         prepareDefaultHistoryRepository02()
@@ -218,15 +232,6 @@
         val result = defaultHistoryServiceImpl.activateDefaultHistory(DEFAULT_HISTORY_ID_02)
         Assert.assertEquals(result, false)
     }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEBUZXN0CiAgICBmdW4gdGVzdERlZmF1bHRIaXN0b3J5U2VydmljZUltcGxfYWN0aXZhdGVEZWZhdWx0SGlzdG9yeTAyKCkgewogICAgICAgIHByZXBhcmVEZWZhdWx0SGlzdG9yeVJlcG9zaXRvcnkwMigpCiAgICAgICAgdmFsIHJlc3VsdCA9IGRlZmF1bHRIaXN0b3J5U2VydmljZUltcGwuYWN0aXZhdGVEZWZhdWx0SGlzdG9yeShERUZBVUxUX0hJU1RPUllfSURfMDIpCiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhyZXN1bHQsIHRydWUpCiAgICAgICAgTW9ja2l0by52ZXJpZnk8Q2hhcmdlT2ZmSGlzdG9yeVNlcnZpY2U+KGNoYXJnZU9mZkhpc3RvcnlTZXJ2aWNlLCBNb2NraXRvLnRpbWVzKDEpKS5zYXZlQW5kQWN0aXZhdGUoQ2hhcmdlT2ZmVHlwZUNvZGUuRElTUE9TQUwsIExPQU5fTUFTVEVSX0lELCBEYXRlVGltZVV0aWwucGFyc2VEYXRlKERFRkFVTFRfSElTVE9SWV9FVkVOVF9EVF8wMiksIFJFTUFJTl9BTVRfRk9SX0FDQ09VTlQpCiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
