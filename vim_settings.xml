@@ -59,19 +59,18 @@
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="70" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568163379031">
-        <mark key="[" line="291" column="94" />
-        <mark key="]" line="291" column="94" />
-        <mark key="." line="291" column="94" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568178621909">
+        <mark key="[" line="206" column="4" />
+        <mark key="]" line="206" column="4" />
+        <mark key="." line="206" column="4" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" timestamp="1568103607815" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/shop/admin/OrderAdminApiController.kt" timestamp="1568101895394" />
       <file name="/DefaultDto.kt" timestamp="1568163504059" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplActivateTests.kt" timestamp="1568168665756">
-        <mark key="[" line="210" column="36" />
-        <mark key="]" line="210" column="36" />
-        <mark key="." line="210" column="36" />
-        <mark key="^" line="85" column="8" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceImplActivateTests.kt" timestamp="1568178633209">
+        <mark key="[" line="235" column="59" />
+        <mark key="]" line="235" column="59" />
+        <mark key="." line="235" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/chargeOff/controller/ChargeOffHistoryApiController.kt" timestamp="1568103942152">
         <mark key="[" line="60" column="5" />
@@ -139,47 +138,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>activateDefaultHistory</text>
+        <text>cancelRegister</text>
       </register>
       <register name="-" type="4">
-        <text>activateDefaultHistory</text>
+        <text>cancelRegister</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLmB3aGVuYChkZWZhdWx0SGlzdG9yeVJlcG9zaXRvcnkuc2F2ZShkZWZhdWx0SGlzdG9yeTAxKSkudGhlblJldHVybihkZWZhdWx0SGlzdG9yeTAxKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0U2VydmljZS5hY3RpYXZhdGVSZWdpc3RlcmVkKGRlZmF1bHRIaXN0b3J5MDEubG9hbk1hc3RlcklkKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>fun `03 채권매각 비활성화`() {
-        prepareDefaultHistoryRepository02()
-        defaultService.deactivateDisposal(defaultHistory02.loanMasterId)
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0SGlzdG9yeS4K</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IEBCZWZvcmUKICAgIGZ1biBiZWZvcmUoKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">IGRlZmF1bHRIaXN0b3J5MDIudXBkYXRlRGlzcG9zYWxJbmZvKDEwMDAsIDIwMDAsIExvY2FsRGF0ZS5ub3coKS5taW51c0RheXMoMSksIExvY2FsRGF0ZS5ub3coKSkKICAgICAgICBkZWZhdWx0U2VydmljZS5hY3RpdmF0ZURpc3Bvc2FsKGRlZmF1bHRIaXN0b3J5MDIubG9hbk1hc3RlcklkKQoKICAgICAgICB2ZXJpZnkoZGVmYXVsdEhpc3RvcnlTeXN0ZW1NYW5hZ2VyLCBhdExlYXN0T25jZSgpKS5leGVjdXRlRGlzcG9zYWwoZGVmYXVsdEhpc3RvcnkwMik=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwYXJlRGVmYXVsdEhpc3RvcnlSZXBvc2l0b3J5MDEoKQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2NraXRvLnZlcmlmeTxDaGFyZ2VPZmZIaXN0b3J5U2VydmljZT4oY2hhcmdlT2ZmSGlzdG9yeVNlcnZpY2UsIE1vY2tpdG8ubmV2ZXIoKSkuc2F2ZUFuZEFjdGl2YXRlKENoYXJnZU9mZlR5cGVDb2RlLkRJU1BPU0FMLCBMT0FOX01BU1RFUl9JRCwgRGF0ZVRpbWVVdGlsLnBhcnNlRGF0ZShERUZBVUxUX0hJU1RPUllfRVZFTlRfRFRfMDIpLCBSRU1BSU5fQU1UX0ZPUl9BQ0NPVU5UIC0gQU1PUlRJWkVEX1JFQ09SRF9PUklHSU4pCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHJpdmF0ZSBmdW4gcHJlcGFyZURlZmF1bHRIaXN0b3J5UmVwb3NpdG9yeTAxKCkgewogICAgICAgIAogICAgfQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IE1vY2tpdG8uYHdoZW5gKGRlZmF1bHRIaXN0b3J5UmVwb3NpdG9yeS5maW5kQWxsQnlMb2FuTWFzdGVySWQoTE9BTl9NQVNURVJfSUQpKS50aGVuUmV0dXJuKEFycmF5cy5hc0xpc3QoZGVmYXVsdEhpc3RvcnkwMSwgZGVmYXVsdEhpc3RvcnkwMikpCiAgICAgICAgTW9ja2l0by5gd2hlbmAoZGVmYXVsdEhpc3RvcnlSZXBvc2l0b3J5LmZpbmRPbmUoREVGQVVMVF9ISVNUT1JZX0lEXzAxKSkudGhlblJldHVybihkZWZhdWx0SGlzdG9yeTAxKQogICAgICAgIE1vY2tpdG8uYHdoZW5gKGRlZmF1bHRIaXN0b3J5UmVwb3NpdG9yeS5maW5kQnlJZFdpdGhMb2NrKERFRkFVTFRfSElTVE9SWV9JRF8wMSkpLnRoZW5SZXR1cm4oZGVmYXVsdEhpc3RvcnkwMSkKICAgICAgICBNb2NraXRvLmB3aGVuYChkZWZhdWx0SGlzdG9yeVJlcG9zaXRvcnkuc2F2ZShkZWZhdWx0SGlzdG9yeTAxKSkudGhlblJldHVybihkZWZhdWx0SGlzdG9yeTAxKQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text>Test
-    f</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNb2NraXRvLnZlcmlmeTxDaGFyZ2VPZmZIaXN0b3J5U2VydmljZT4oY2hhcmdlT2ZmSGlzdG9yeVNlcnZpY2UsIE1vY2tpdG8ubmV2ZXIoKSkuc2F2ZUFuZEFjdGl2YXRlKENoYXJnZU9mZlR5cGVDb2RlLkRJU1BPU0FMLCBMT0FOX01BU1RFUl9JRCwgRGF0ZVRpbWVVdGlsLnBhcnNlRGF0ZShERUZBVUxUX0hJU1RPUllfRVZFTlRfRFRfMDIpLCBSRU1BSU5fQU1UX0ZPUl9BQ0NPVU5UIC0gQU1PUlRJWkVEX1JFQ09SRF9PUklHSU4pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0U2VydmljZS5hY3RpYXZhdGVSZWdpc3RlcmVkKGRlZmF1bHRIaXN0b3J5MDEubG9hbk1hc3RlcklkKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VPZmZIaXN0b3J5U2VydmljZS5zYXZlQW5kQWN0aXZhdGUoQ2hhcmdlT2ZmVHlwZUNvZGUuRElTUE9TQUwsIGRlZmF1bHRIaXN0b3J5LmxvYW5NYXN0ZXJJZCwgRGF0ZVRpbWVVdGlsLnBhcnNlRGF0ZShkZWZhdWx0SGlzdG9yeS5ldmVudER0KSwgY2hhcmdlT2ZmQW10KQo=</text>
+        <text encoding="base64">ICAgIGZ1biBgMDEtMSDssYTqtozrtoDrj4Qg67mE7Zmc7ISx7ZmUYCgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2hhcmdlT2ZmQW10ID0gbG9hbk1hc3RlclNlcnZpY2UuZ2V0UmVtYWluQW10Rm9yQWNjb3VudChsb2FuTWFzdGVySWQpCg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
