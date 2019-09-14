@@ -24,7 +24,6 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/OverdueHistoryServiceImpl.java" timestamp="1568434662354">
         <mark key="[" line="578" column="0" />
         <mark key="]" line="578" column="0" />
-        <mark key="^" line="581" column="19" />
         <mark key="." line="578" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1567581985690">
@@ -108,6 +107,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1567652008621">
         <mark key="[" line="100" column="9" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/triggerclausehistory/TriggerClauseHistoryController.java" timestamp="1568437112562" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1567652991862">
         <mark key="[" line="18" column="15" />
       </file>
