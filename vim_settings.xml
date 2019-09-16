@@ -60,11 +60,11 @@
         <mark key="^" line="75" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/task/service/impl/OverdueHistoryDailyBatchServiceImpl.java" timestamp="1568608020823" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/domain/TriggerClauseHistory.kt" timestamp="1568448059898">
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="11" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/domain/TriggerClauseHistory.kt" timestamp="1568614058709">
+        <mark key="[" line="50" column="51" />
+        <mark key="]" line="50" column="51" />
         <mark key="^" line="63" column="32" />
-        <mark key="." line="26" column="11" />
+        <mark key="." line="50" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/default/DefaultHistoryServiceImpl.kt" timestamp="1567645633609">
         <mark key="[" line="0" column="33" />
@@ -155,11 +155,11 @@
       <jump line="15" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/domain/TriggerClauseHistory.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBmaWVsZDpNaW4oMCkK</text>
+      <register name="&quot;" type="4">
+        <text>, nullable = false</text>
       </register>
       <register name="-" type="4">
-        <text>overdueExecuteDate.toString()</text>
+        <text>, nullable = false</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
