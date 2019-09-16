@@ -19,13 +19,14 @@
         <mark key="." line="84" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/OverdueHistoryService.java" timestamp="1568608109152" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/task/LoanMasterDailyBatchAutoTask.java" timestamp="1568611374598" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/domain/OverdueHistoryTest.kt" timestamp="1568607609930">
         <mark key="[" line="14" column="40" />
         <mark key="]" line="14" column="39" />
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568450912268">
+      <file name="/Dummy.txt" timestamp="1568611815627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryService.kt" timestamp="1568446121332">
@@ -52,7 +53,7 @@
         <mark key="]" line="184" column="54" />
         <mark key="." line="184" column="54" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.kt" timestamp="1568607251372">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.kt" timestamp="1568612083119">
         <mark key="[" line="42" column="11" />
         <mark key="]" line="42" column="11" />
         <mark key="." line="42" column="11" />
@@ -121,8 +122,8 @@
         <mark key="." line="42" column="35" />
         <mark key="^" line="42" column="35" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/AdminController.java" timestamp="1568608043533" />
-      <file name="/fragment.java" timestamp="1568606355950">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/AdminController.java" timestamp="1568611689150" />
+      <file name="/fragment.java" timestamp="1568611815621">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
