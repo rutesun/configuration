@@ -25,5 +25,6 @@
     <mask>*.kt</mask>
     <mask>*Controller*</mask>
     <mask>*kt</mask>
+    <mask>*jsp</mask>
   </component>
 </application>
