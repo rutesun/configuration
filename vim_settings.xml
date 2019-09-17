@@ -28,24 +28,24 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/dto/TriggerClauseDto.kt" timestamp="1568699543103">
-        <mark key="[" line="54" column="35" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="57" column="48" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/dto/TriggerClauseDto.kt" timestamp="1568703517839">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="40" column="4" />
+        <mark key="." line="40" column="4" />
+        <mark key="^" line="39" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/LoanMasterScheduleServiceImpl.java" timestamp="1568698537195" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/domain/TriggerClauseStepCode.kt" timestamp="1568640820694">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/domain/TriggerClauseStepCode.kt" timestamp="1568701740793">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1568109246314">
+      <file name="/fragment.kt" timestamp="1568702620146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/invest/performance/calculator/PaymentInvestPerfCalcServiceImpl.kt" timestamp="1568446510117">
         <mark key="[" line="151" column="66" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/proxy/ControllerHandlerFactory.kt" timestamp="1568634466010" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryServiceImpl.kt" timestamp="1568698177859">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryServiceImpl.kt" timestamp="1568702482197">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -73,24 +73,15 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/triggerclausehistory/TriggerClauseHistoryController.java" timestamp="1568698571148">
         <mark key="[" line="44" column="54" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/exception/ExceptionAdviceController.kt" timestamp="1568699885783">
-        <mark key="[" line="47" column="45" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryServiceImplSaveTests.kt" timestamp="1568450906048">
-        <mark key="[" line="64" column="47" />
-        <mark key="]" line="367" column="0" />
-        <mark key="^" line="367" column="0" />
-        <mark key="." line="367" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/exception/ExceptionAdviceController.kt" timestamp="1568702664871">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="63" column="18" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/overduehistory/OverdueHistoryFormValidator.java" timestamp="1568621351271" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/proxy/RequestControllerProxy.kt" timestamp="1568629726076" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1568633933858" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/disposal/LoanDisposalAgreeEmailServiceImpl.kt" timestamp="1568434535038">
-        <mark key="[" line="98" column="164" />
-        <mark key="]" line="98" column="164" />
-        <mark key="^" line="98" column="164" />
-        <mark key="." line="98" column="164" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/AmortizedMasterServiceImpl.java" timestamp="1568624870989" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.kt" timestamp="1568625227257" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/service/NewDefaultService.kt" timestamp="1568627801806">
@@ -98,21 +89,10 @@
         <mark key="]" line="265" column="53" />
         <mark key="." line="265" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/TriggerClauseStepCode.kt" timestamp="1568441180036">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/DefaultStepCode.java" timestamp="1568623856628" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/misc/util/KotlinExtensions.kt" timestamp="1568638202159">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/OverdueHistoryServiceImpl.java" timestamp="1568689726910" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.14.RELEASE/f1db8f14d67bdcd0655d7ccd274e9f9f14b6aa7/spring-web-4.3.14.RELEASE-sources.jar!/org/springframework/web/bind/annotation/InitBinder.java" timestamp="1568636278120" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.14.RELEASE/63fd73134126b6ae088666fb720f5437bcb39cfa/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" timestamp="1568703422784" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cis/cisOverdueInfo/CisOverdueInfoServiceImpl.kt" timestamp="1568615841570">
         <mark key="[" line="118" column="72" />
         <mark key="]" line="118" column="72" />
@@ -121,11 +101,11 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/OverdueHistoryService.java" timestamp="1568608109152" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/overduehistory/OverdueHistoryController.java" timestamp="1568621213506" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/controller/TriggerClauseApiController.kt" timestamp="1568699843314">
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="18" />
-        <mark key="." line="59" column="18" />
-        <mark key="^" line="38" column="47" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/controller/TriggerClauseApiController.kt" timestamp="1568702521755">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="37" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="73" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1568699245200">
         <mark key="[" line="0" column="0" />
@@ -159,12 +139,6 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/db/migration/V20190905172002__alter-unq-key.sql" timestamp="1567671821100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/disposal/DisposalServiceImpl.kt" timestamp="1568434083132">
-        <mark key="[" line="48" column="41" />
-        <mark key="]" line="10" column="91" />
-        <mark key="^" line="10" column="91" />
-        <mark key="." line="10" column="91" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/AmortizedCost.kt" timestamp="1568621988426">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -172,7 +146,7 @@
         <mark key="^" line="41" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/AdminController.java" timestamp="1568611689150" />
-      <file name="/fragment.java" timestamp="1568634132009">
+      <file name="/fragment.java" timestamp="1568703184095">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -204,43 +178,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIEBUaHJvd3MoQnVzaW5lc3NFeGNlcHRpb246OmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyQ2xhdXNlRHRvLmlkID0gaWQK</text>
+        <text encoding="base64">QEpzb25JZ25vcmVQcm9wZXJ0aWVzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyQ2xhdXNlRHRvLmlkID0gaWQK</text>
+      <register name="2" type="4">
+        <text>id = id
+        )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyQ2xhdXNlRHRvLmlkID0gaWQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBMYXp5Cg==</text>
+      <register name="4" type="4">
+        <text>if (dto.triggerClauseStepCd == TriggerClauseStepCode.TRIGGER_CLAUSE_STEP_01) {
+            validator.validate(target, errors)
+        } else {
+            validator.validate(target, errors, Default::class, TriggerClauseDto.ExecuteTrigger::class)
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBMYXp5Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgZXgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBMYXp5Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyQ2xhdXNlRHRvLmlkID0gaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLnZhbGlkYXRlKHRhcmdldCwgZXJyb3JzLCBEZWZhdWx0OjpjbGFzcywgVHJpZ2dlckNsYXVzZUR0by5FeGVjdXRlVHJpZ2dlcjo6Y2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyQ2xhdXNlRHRvLmlkID0gaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3IudmFsaWRhdGUodGFyZ2V0LCBlcnJvcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyQ2xhdXNlRHRvLmlkID0gaWQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICBpZiAoZm9ybS5ldmVudER0ID09IG51bGwpCiAgICAgICAgICAgICAgICBlcnJvcnMucmVqZWN0VmFsdWUoImV2ZW50RHQiLCAiZmllbGQucmVxdWlyZWQiKQogICAgICAgICAgICBlbHNlIGlmIChTdHJpbmdVdGlsLmlzRW1wdHkoZm9ybS5ldmVudER0KSkKICAgICAgICAgICAgICAgIGVycm9ycy5yZWplY3RWYWx1ZSgiZXZlbnREdCIsICJmaWVsZC52YWxpZGF0aW9uIikKICAgICAgICAgICAgZWxzZSBpZiAoIURhdGVUaW1lVXRpbC5pc1ZhbGlkRGF0ZShmb3JtLmV2ZW50RHQhISkpCiAgICAgICAgICAgICAgICBlcnJvcnMucmVqZWN0VmFsdWUoImV2ZW50RHQiLCAiZmllbGQudmFsaWRhdGlvbi5kYXRlIikKCiAgICAgICAgICAgIGlmICghU3RyaW5nVXRpbC5pc0VtcHR5KGZvcm0uZXZlbnREdCkgJiYgIURhdGVUaW1lVXRpbC5pc1ZhbGlkRGF0ZShmb3JtLmV2ZW50RHRGb3JJbnZlc3RvciEhKSkgewogICAgICAgICAgICAgICAgZXJyb3JzLnJlamVjdFZhbHVlKCJldmVudER0Rm9ySW52ZXN0b3IiLCAiZmllbGQudmFsaWRhdGlvbi5kYXRlIikKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBMYXp5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
