@@ -3,15 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/webapp/WEB-INF/tiles/view/admin/loanmaster/view.jsp" timestamp="1568699382750" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/papi/PApiClientServiceImpl.java" timestamp="1568697738027" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/dto/DefaultDto.kt" timestamp="1568625253684" />
       <file name="/a.dummy" timestamp="1568443839547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TriggerClauseHistory.java" timestamp="1568614878960" />
-      <file name="$USER_HOME$/Develop/lenditKr/thirdparty/src/main/resources/application.yml" timestamp="1568634297111">
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/master/LoanMasterAdminController.java" timestamp="1568699398635" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/task/LoanMasterDailyBatchAutoTask.java" timestamp="1568611374598" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/management/dto/DelayManageDTO.kt" timestamp="1568630197339" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/DefaultStepCode.kt" timestamp="1568627847058">
@@ -29,12 +28,13 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/dto/TriggerClauseDto.kt" timestamp="1568640547656">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/dto/TriggerClauseDto.kt" timestamp="1568699543103">
         <mark key="[" line="54" column="35" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
         <mark key="^" line="57" column="48" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/LoanMasterScheduleServiceImpl.java" timestamp="1568698537195" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/domain/TriggerClauseStepCode.kt" timestamp="1568640820694">
         <mark key="[" line="14" column="0" />
       </file>
@@ -45,7 +45,7 @@
         <mark key="[" line="151" column="66" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/proxy/ControllerHandlerFactory.kt" timestamp="1568634466010" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryServiceImpl.kt" timestamp="1568689640980">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryServiceImpl.kt" timestamp="1568698177859">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -70,11 +70,11 @@
         <mark key="^" line="73" column="8" />
         <mark key="." line="73" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/triggerclausehistory/TriggerClauseHistoryController.java" timestamp="1568692908472">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/triggerclausehistory/TriggerClauseHistoryController.java" timestamp="1568698571148">
         <mark key="[" line="44" column="54" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/exception/ExceptionAdviceController.kt" timestamp="1568625005982">
-        <mark key="[" line="47" column="46" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/exception/ExceptionAdviceController.kt" timestamp="1568699885783">
+        <mark key="[" line="47" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryServiceImplSaveTests.kt" timestamp="1568450906048">
         <mark key="[" line="64" column="47" />
@@ -121,19 +121,19 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/OverdueHistoryService.java" timestamp="1568608109152" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/overduehistory/OverdueHistoryController.java" timestamp="1568621213506" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/controller/TriggerClauseApiController.kt" timestamp="1568692981877">
-        <mark key="[" line="44" column="95" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="46" column="26" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/controller/TriggerClauseApiController.kt" timestamp="1568699843314">
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="18" />
+        <mark key="." line="59" column="18" />
+        <mark key="^" line="38" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568640154682">
+      <file name="/Dummy.txt" timestamp="1568699245200">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryService.kt" timestamp="1568637984145">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryService.kt" timestamp="1568699223999">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/AmortizedFormServiceImpl.java" timestamp="1568620723528" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loan/overdue/service/OverdueBaseTest.kt" timestamp="1568606519154" />
@@ -203,11 +203,11 @@
       <jump line="15" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/domain/TriggerClauseHistory.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyQ2xhdXNlRHRvLmlkID0gaWQK</text>
+      <register name="&quot;" type="4">
+        <text>update</text>
       </register>
       <register name="-" type="4">
-        <text>saveTriggerClauseHistoryAndProcess</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
