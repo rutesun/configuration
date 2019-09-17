@@ -45,11 +45,11 @@
         <mark key="[" line="151" column="66" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/proxy/ControllerHandlerFactory.kt" timestamp="1568634466010" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryServiceImpl.kt" timestamp="1568685496230">
-        <mark key="[" line="47" column="63" />
-        <mark key="]" line="49" column="8" />
-        <mark key="." line="49" column="8" />
-        <mark key="^" line="49" column="8" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/service/TriggerClauseHistoryServiceImpl.kt" timestamp="1568689640980">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="49" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/OverdueHistory.kt" timestamp="1568615810086">
         <mark key="[" line="103" column="48" />
@@ -70,7 +70,7 @@
         <mark key="^" line="73" column="8" />
         <mark key="." line="73" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/triggerclausehistory/TriggerClauseHistoryController.java" timestamp="1568638940097">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/triggerclausehistory/TriggerClauseHistoryController.java" timestamp="1568689154417">
         <mark key="[" line="44" column="54" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/exception/ExceptionAdviceController.kt" timestamp="1568625005982">
@@ -111,7 +111,7 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/OverdueHistoryServiceImpl.java" timestamp="1568624344598" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/OverdueHistoryServiceImpl.java" timestamp="1568689726910" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.14.RELEASE/f1db8f14d67bdcd0655d7ccd274e9f9f14b6aa7/spring-web-4.3.14.RELEASE-sources.jar!/org/springframework/web/bind/annotation/InitBinder.java" timestamp="1568636278120" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/cis/cisOverdueInfo/CisOverdueInfoServiceImpl.kt" timestamp="1568615841570">
         <mark key="[" line="118" column="72" />
@@ -145,7 +145,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/delinquency/controller/DefaultHistoryController.kt" timestamp="1568077826666">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/triggerclausehistory/TriggerClauseHistoryForm.kt" timestamp="1568635778249">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/triggerclausehistory/TriggerClauseHistoryForm.kt" timestamp="1568689016676">
         <mark key="[" line="20" column="6" />
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="7" />
@@ -203,67 +203,44 @@
       <jump line="15" column="0" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/triggerclause/domain/TriggerClauseHistory.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBMYXp5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>val</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBzYXZlVHJpZ2dlckNsYXVzZUhpc3RvcnlBbmRQcm9jZXNzKHRyaWdnZXJDbGF1c2VIaXN0b3J5Rm9ybTogVHJpZ2dlckNsYXVzZUhpc3RvcnlGb3JtKTogU3RyaW5nPwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLnZhbGlkYXRlKHRhcmdldCwgZXJyb3JzLCBEZWZhdWx0OjpjbGFzcywgVHJpZ2dlckNsYXVzZUR0by5FeGVjdXRlVHJpZ2dlcjo6Y2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIEBMYXp5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3IudmFsaWRhdGUodGFyZ2V0LCBlcnJvcnMpCg==</text>
+        <text encoding="base64">ICAgIEBMYXp5Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICBpZiAoZm9ybS5ldmVudER0ID09IG51bGwpCiAgICAgICAgICAgICAgICBlcnJvcnMucmVqZWN0VmFsdWUoImV2ZW50RHQiLCAiZmllbGQucmVxdWlyZWQiKQogICAgICAgICAgICBlbHNlIGlmIChTdHJpbmdVdGlsLmlzRW1wdHkoZm9ybS5ldmVudER0KSkKICAgICAgICAgICAgICAgIGVycm9ycy5yZWplY3RWYWx1ZSgiZXZlbnREdCIsICJmaWVsZC52YWxpZGF0aW9uIikKICAgICAgICAgICAgZWxzZSBpZiAoIURhdGVUaW1lVXRpbC5pc1ZhbGlkRGF0ZShmb3JtLmV2ZW50RHQhISkpCiAgICAgICAgICAgICAgICBlcnJvcnMucmVqZWN0VmFsdWUoImV2ZW50RHQiLCAiZmllbGQudmFsaWRhdGlvbi5kYXRlIikKCiAgICAgICAgICAgIGlmICghU3RyaW5nVXRpbC5pc0VtcHR5KGZvcm0uZXZlbnREdCkgJiYgIURhdGVUaW1lVXRpbC5pc1ZhbGlkRGF0ZShmb3JtLmV2ZW50RHRGb3JJbnZlc3RvciEhKSkgewogICAgICAgICAgICAgICAgZXJyb3JzLnJlamVjdFZhbHVlKCJldmVudER0Rm9ySW52ZXN0b3IiLCAiZmllbGQudmFsaWRhdGlvbi5kYXRlIikKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBMYXp5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLnZhbGlkYXRlKHRhcmdldCwgZXJyb3JzLCBEZWZhdWx0OjpjbGFzcywgVHJpZ2dlckNsYXVzZUR0by5FeGVjdXRlVHJpZ2dlcjo6Y2xhc3MpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3IudmFsaWRhdGUodGFyZ2V0LCBlcnJvcnMpCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICBpZiAoZm9ybS5ldmVudER0ID09IG51bGwpCiAgICAgICAgICAgICAgICBlcnJvcnMucmVqZWN0VmFsdWUoImV2ZW50RHQiLCAiZmllbGQucmVxdWlyZWQiKQogICAgICAgICAgICBlbHNlIGlmIChTdHJpbmdVdGlsLmlzRW1wdHkoZm9ybS5ldmVudER0KSkKICAgICAgICAgICAgICAgIGVycm9ycy5yZWplY3RWYWx1ZSgiZXZlbnREdCIsICJmaWVsZC52YWxpZGF0aW9uIikKICAgICAgICAgICAgZWxzZSBpZiAoIURhdGVUaW1lVXRpbC5pc1ZhbGlkRGF0ZShmb3JtLmV2ZW50RHQhISkpCiAgICAgICAgICAgICAgICBlcnJvcnMucmVqZWN0VmFsdWUoImV2ZW50RHQiLCAiZmllbGQudmFsaWRhdGlvbi5kYXRlIikKCiAgICAgICAgICAgIGlmICghU3RyaW5nVXRpbC5pc0VtcHR5KGZvcm0uZXZlbnREdCkgJiYgIURhdGVUaW1lVXRpbC5pc1ZhbGlkRGF0ZShmb3JtLmV2ZW50RHRGb3JJbnZlc3RvciEhKSkgewogICAgICAgICAgICAgICAgZXJyb3JzLnJlamVjdFZhbHVlKCJldmVudER0Rm9ySW52ZXN0b3IiLCAiZmllbGQudmFsaWRhdGlvbi5kYXRlIikKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uVmFsaWRhdG9yCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyLgo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8qKgogICAgICoKICAgICAqIEBwYXJhbSB0cmlnZ2VyQ2xhdXNlSGlzdG9yeQogICAgICogQHJldHVybgogICAgICov</text>
-      </register>
-      <register name="8" type="4">
-        <text>fun convert(triggerClauseHistory: TriggerClauseHistory): TriggerClauseHistory {
-        if (id != null) {
-            triggerClauseHistory.id = id!!
-        }
-        triggerClauseHistory.loanMasterId = loanMasterId!!
-        triggerClauseHistory.eventDt = eventDt.toString()
-        triggerClauseHistory.eventDtForInvestor = eventDtForInvestor.toString()
-        triggerClauseHistory.triggerClauseStepCd = triggerClauseStepCd!!
-
-        triggerClauseHistory.partialRepaymentAmt = partialRepaymentAmt
-
-        return triggerClauseHistory
-    }
-
-    fun setFrom(triggerClauseHistory: TriggerClauseHistory) {
-        id = triggerClauseHistory.id
-        loanMasterId = triggerClauseHistory.loanMasterId
-        eventDt = DateTimeUtil.parseDate(triggerClauseHistory.eventDt!!)
-        eventDtForInvestor = DateTimeUtil.parseDate(triggerClauseHistory.eventDtForInvestor!!)
-        triggerClauseStepCd = triggerClauseHistory.triggerClauseStepCd
-        activatedYn = triggerClauseHistory.isActivatedYn
-
-        partialRepaymentAmt = triggerClauseHistory.partialRepaymentAmt
-    }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGFwdGVyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
@@ -319,6 +296,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
