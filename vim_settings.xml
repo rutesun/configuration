@@ -8,7 +8,8 @@
         <mark key="]" line="265" column="53" />
         <mark key="." line="265" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/overduehistory/OverdueHistoryController.java" timestamp="1568766404468">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/api/RestResponse.kt" timestamp="1568770428533" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/overduehistory/OverdueHistoryController.java" timestamp="1568770523466">
         <mark key="[" line="35" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/overduehistory/OverdueHistoryForm.java" timestamp="1568766432674" />
@@ -29,10 +30,11 @@
         <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/controller/CollectionVisitController.kt" timestamp="1568765966358" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/service/NewOverdueHistoryService.kt" timestamp="1568766113959">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="40" />
-        <mark key="." line="14" column="40" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/service/NewOverdueHistoryService.kt" timestamp="1568770576969">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="34" column="42" />
+        <mark key="." line="34" column="42" />
+        <mark key="^" line="34" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/task/service/impl/OverdueHistoryDailyBatchServiceImpl.java" timestamp="1568767806469" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/triggerclausehistory/TriggerClauseHistoryForm.kt" timestamp="1568689016676">
@@ -40,11 +42,11 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/controller/OverdueApiController.kt" timestamp="1568766410117">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="27" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/controller/OverdueApiController.kt" timestamp="1568770613072">
+        <mark key="[" line="58" column="39" />
+        <mark key="]" line="58" column="39" />
+        <mark key="." line="58" column="39" />
+        <mark key="^" line="58" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/dto/OverdueHistoryDto.kt" timestamp="1568768093069">
         <mark key="[" line="49" column="0" />
@@ -86,10 +88,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>val activatedYn: Boolean = false,</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>val activatedYn: Boolean = false,</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -98,33 +100,33 @@
         <text encoding="base64">ICAgIEBUaHJvd3MoQnVzaW5lc3NFeGNlcHRpb246OmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9ZGQK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBmaWVsZDpOb3ROdWxsCiAgICB2YXIgbG9hblNjaGVkdWxlTm86IEludD8gPSBudWxsLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGZ1biBkZWxldGUoaGlzdG9yeUlkOiBJbnQpIHsKCiAgICB9</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBmaWVsZDpOb3ROdWxsCiAgICB2YXIgbG9hblNjaGVkdWxlTm86IEludD8gPSBudWxsLAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>var investMasterId: Int? = null,
 
     var portfolioId: Int? = null,</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBrci5jby5sZW5kaXQuZXhjZXB0aW9uCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">QEpzb25JZ25vcmVQcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
