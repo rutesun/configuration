@@ -17,7 +17,7 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/service/OverdueHistoryServiceImpl.java" timestamp="1568766689080" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/service/OverdueHistoryServiceImpl.java" timestamp="1568767710930" />
       <file name="/Dummy.txt" timestamp="1568712314159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -34,6 +34,7 @@
         <mark key="]" line="14" column="40" />
         <mark key="." line="14" column="40" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/task/service/impl/OverdueHistoryDailyBatchServiceImpl.java" timestamp="1568767806469" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/triggerclausehistory/TriggerClauseHistoryForm.kt" timestamp="1568689016676">
         <mark key="[" line="20" column="6" />
         <mark key="]" line="20" column="7" />
@@ -45,11 +46,11 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/dto/OverdueHistoryDto.kt" timestamp="1568766828016">
-        <mark key="[" line="28" column="30" />
-        <mark key="]" line="28" column="30" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="28" column="30" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/dto/OverdueHistoryDto.kt" timestamp="1568768093069">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="48" column="4" />
+        <mark key="^" line="60" column="12" />
+        <mark key="." line="48" column="4" />
       </file>
       <file name="/fragment.java" timestamp="1568712258801">
         <mark key="[" line="0" column="36" />
@@ -85,10 +86,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>val activatedYn: Boolean = false,</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>val activatedYn: Boolean = false,</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
