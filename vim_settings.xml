@@ -30,8 +30,8 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/triggerclause/controller/TriggerClauseApiController.kt" timestamp="1568946963354">
-        <mark key="[" line="30" column="73" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/triggerclause/controller/TriggerClauseApiController.kt" timestamp="1569202094327">
+        <mark key="[" line="51" column="0" />
         <mark key="]" line="27" column="53" />
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="53" />
@@ -41,8 +41,6 @@
         <mark key="]" line="21" column="47" />
         <mark key="." line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/RoleCode.kt" timestamp="1568947078595" />
-      <file name="/TriggerClauseHistoryAdapter.kt" timestamp="1568944645319" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/overduehistory/OverdueHistoryForm.java" timestamp="1568788222818">
         <mark key="[" line="184" column="5" />
         <mark key="]" line="8" column="0" />
@@ -119,8 +117,8 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/chargeOff/controller/ChargeOffHistoryApiController.kt" timestamp="1568943713430">
-        <mark key="[" line="25" column="38" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/chargeOff/controller/ChargeOffHistoryApiController.kt" timestamp="1569202150703">
+        <mark key="[" line="32" column="0" />
         <mark key="]" line="25" column="38" />
         <mark key="^" line="25" column="38" />
         <mark key="." line="25" column="38" />
