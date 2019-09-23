@@ -32,7 +32,7 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/triggerclause/controller/TriggerClauseApiController.kt" timestamp="1569202094327">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/triggerclause/controller/TriggerClauseApiController.kt" timestamp="1569216546126">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="27" column="53" />
         <mark key="^" line="27" column="52" />
@@ -54,12 +54,13 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/triggerclause/service/TriggerClauseHistoryServiceImpl.kt" timestamp="1569216520123" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/domain/OverdueHistory.kt" timestamp="1568788170228">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569208076693">
+      <file name="/Dummy.txt" timestamp="1569216644126">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -113,11 +114,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/triggerclause/service/TriggerClauseServiceAdapter.kt" timestamp="1569206967214">
-        <mark key="[" line="60" column="43" />
-        <mark key="]" line="60" column="42" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/triggerclause/service/TriggerClauseServiceAdapter.kt" timestamp="1569216637044">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
         <mark key="^" line="60" column="42" />
-        <mark key="." line="60" column="42" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/master/LoanMasterApiController.kt" timestamp="1569203302120" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/chargeOff/controller/ChargeOffHistoryApiController.kt" timestamp="1569202150703">
@@ -172,11 +173,11 @@
       <jump line="9" column="39" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/dto/OverdueHistoryDtoValidator.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvcnNcPg==</text>
@@ -185,24 +186,30 @@
         <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc0FueVJvbGUoJ1JPTEVfREVWJywgJ1JPTEVfTE9BTl9DT0xMRUNUSU9OX0hFQUQnKSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1JPTEVfREVWJykiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1JPTEVfREVWJykiKQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc0FueVJvbGUoJ1JPTEVfREVWJykiKQo=</text>
+        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1JPTEVfREVWJykiKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1JPTEVfREVWJykiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc0FueVJvbGUoJ1JPTEVfREVWJykiKQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1JPTEVfREVWJykiKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>@Transactional
     fun deactivateRegistered(loanMasterId: Int) {
         val historySet = findByLoanMasterId(loanMasterId)
@@ -214,12 +221,6 @@
         defaultHistorySystemManager.executeRegister(defaultHistory)
         defaultHistoryRepository.save(defaultHistory)
     }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0aHJvdyBCdXNpbmVzc0V4Y2VwdGlvbigi7Zmc7ISx7ZmU65CcICR7RGVmYXVsdFN0ZXBDb2RlLkRFRkFVTFRfU1RFUF8wMi5sYWJlbH3snYAg67mE7Zmc7ISx7ZmUIO2VoCDsiJgg7JeG7Iq164uI64ukLiAoJHRoaXMpIikK</text>
       </register>
       <register name=":" type="4">
         <text>335</text>
