@@ -80,6 +80,11 @@
         <mark key="^" line="93" column="24" />
         <mark key="." line="53" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/NewOverdueHistoryService.kt" timestamp="1569227940190">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/service/InsurancePaymentHistoryServiceImpl.java" timestamp="1569218581464" />
       <file name="/ExceptionAdviceController.kt" timestamp="1569223616018" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/triggerclause/controller/TriggerClauseApiController.kt" timestamp="1568872614689">
@@ -217,10 +222,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>controller</text>
+        <text>kr.co.lendit.loanmanagement.overdue.service.</text>
       </register>
       <register name="-" type="4">
-        <text>controller</text>
+        <text>kr.co.lendit.loanmanagement.overdue.service.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvcnNcPg==</text>
