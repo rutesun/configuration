@@ -9,9 +9,6 @@
         <mark key="." line="30" column="84" />
         <mark key="^" line="27" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/delinquency/domain/DefaultHistorySystemManager.kt" timestamp="1569224590776">
-        <mark key="[" line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/delinquency/service/NewDefaultService.kt" timestamp="1569225130629">
         <mark key="[" line="275" column="0" />
         <mark key="]" line="275" column="53" />
@@ -83,7 +80,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/OverdueHistory.kt" timestamp="1569231044760">
         <mark key="[" line="43" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/insurancepaymenthistory/InsurancePaymentHistoryController.java" timestamp="1569218346678" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/insurancepaymenthistory/InsurancePaymentHistoryController.java" timestamp="1569290128944" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/controller/InsurancePaymentApiController.kt" timestamp="1569219301305">
         <mark key="[" line="33" column="27" />
         <mark key="]" line="33" column="17" />
@@ -106,6 +103,12 @@
         <mark key="[" line="20" column="70" />
         <mark key="]" line="20" column="70" />
         <mark key="." line="20" column="70" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/controller/LoanInsuranceApiController.kt" timestamp="1569290367152">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1569233770383">
         <mark key="[" line="0" column="0" />
@@ -172,35 +175,35 @@
       <jump line="9" column="39" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/dto/OverdueHistoryDtoValidator.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getList</text>
+        <text>loanmaster</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvcnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBmaW5kQWxsQnlMb2FuTWFzdGVySWQobG9hbk1hc3RlcklkOiBJbnQpOiBMaXN0PE92ZXJkdWVIaXN0b3J5Pgo=</text>
+        <text encoding="base64">CiAgICBARGVsZXRlTWFwcGluZygiL3tpZH0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LnByaW50LlBhZ2VhYmxlCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBEZWxldGVNYXBwaW5nKCIve2lkfSIpCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyZHVlSGlzdG9yeS5zZXRPdmVyZHVlSW50KG92ZXJkdWVJbnQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LnByaW50LlBhZ2VhYmxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyZHVlSGlzdG9yeS5zZXRPdmVyZHVlSW50KG92ZXJkdWVJbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0SGlzdG9yeVJlcG9zaXRvcnkuc2F2ZShkZWZhdWx0SGlzdG9yeSkK</text>
+        <text encoding="base64">ICAgICAgICBvdmVyZHVlSGlzdG9yeS5zZXRPdmVyZHVlSW50KG92ZXJkdWVJbnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0SGlzdG9yeVJlcG9zaXRvcnkuc2F2ZShkZWZhdWx0SGlzdG9yeSkK</text>
+        <text encoding="base64">ICAgICAgICBvdmVyZHVlSGlzdG9yeS5zZXRPdmVyZHVlSW50KG92ZXJkdWVJbnQpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZWZhdWx0SGlzdG9yeVJlcG9zaXRvcnkuc2F2ZShkZWZhdWx0SGlzdG9yeSkK</text>
@@ -209,7 +212,7 @@
         <text encoding="base64">ICAgICAgICBkZWZhdWx0SGlzdG9yeVJlcG9zaXRvcnkuc2F2ZShkZWZhdWx0SGlzdG9yeSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0SGlzdG9yeVJlcG9zaXRvcnkuc2F2ZShkZWZhdWx0SGlzdG9yeSkK</text>
       </register>
       <register name=":" type="4">
         <text>245</text>
