@@ -9,7 +9,7 @@
         <mark key="." line="30" column="84" />
         <mark key="^" line="27" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/delinquency/domain/DefaultHistorySystemManager.kt" timestamp="1569307171320">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/delinquency/domain/DefaultHistorySystemManager.kt" timestamp="1569311796266">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="183" column="7" />
@@ -25,7 +25,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/insurance/LoanInsuranceAdminController.java" timestamp="1569203188121" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/DefaultHistoryServiceImpl.java" timestamp="1569220925731" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/task/LoanMasterDailyBatchAutoTask.java" timestamp="1569229555453" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceTests.kt" timestamp="1569310879903">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/impl/DefaultHistoryServiceTests.kt" timestamp="1569311770428">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="218" column="27" />
