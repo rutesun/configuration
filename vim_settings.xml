@@ -9,6 +9,9 @@
         <mark key="." line="30" column="84" />
         <mark key="^" line="27" column="45" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/delinquency/domain/DefaultHistorySystemManager.kt" timestamp="1569224590776">
+        <mark key="[" line="85" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/delinquency/service/NewDefaultService.kt" timestamp="1569225130629">
         <mark key="[" line="275" column="0" />
         <mark key="]" line="275" column="53" />
@@ -26,6 +29,11 @@
         <mark key="^" line="218" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/loan/enums/ReturnStatusCode.java" timestamp="1569224371535" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/controller/InsuranceDto.kt" timestamp="1569296320520">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/triggerclause/controller/TriggerClauseApiController.kt" timestamp="1569216546126">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="27" column="53" />
@@ -45,6 +53,11 @@
         <mark key="." line="49" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/triggerclause/service/TriggerClauseHistoryServiceImpl.kt" timestamp="1569216520123" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1569295524592">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/domain/OverdueHistory.kt" timestamp="1568788170228">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="16" />
@@ -103,14 +116,19 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/OverdueHistory.kt" timestamp="1569231044760">
         <mark key="[" line="43" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/insurancepaymenthistory/InsurancePaymentHistoryController.java" timestamp="1569290128944" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/insurancepaymenthistory/InsurancePaymentHistoryController.java" timestamp="1569295870181" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/controller/InsurancePaymentApiController.kt" timestamp="1569219301305">
         <mark key="[" line="33" column="27" />
         <mark key="]" line="33" column="17" />
         <mark key="^" line="33" column="17" />
         <mark key="." line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/InsurancePaymentHistory.java" timestamp="1569218548204" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/InsurancePaymentHistory.java" timestamp="1569296357795">
+        <mark key="[" line="79" column="59" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/OverdueHistoryServiceImpl.java" timestamp="1569223713986" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/chargeoff/controller/ChargeOffHistoryController.kt" timestamp="1568872082514">
         <mark key="[" line="61" column="39" />
@@ -133,12 +151,19 @@
         <mark key="]" line="20" column="70" />
         <mark key="." line="20" column="70" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/controller/LoanInsuranceApiController.kt" timestamp="1569290400390">
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/controller/LoanInsuranceApiController.kt" timestamp="1569296804319">
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="52" column="7" />
+        <mark key="^" line="52" column="7" />
+        <mark key="." line="52" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569293386259">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/domain/InsuranceIncidentTypeCode.kt" timestamp="1569296096926">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1569295624204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -148,10 +173,13 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/service/InsurancePaymentHistoryAdapter.kt" timestamp="1569292685169">
-        <mark key="[" line="11" column="80" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/overdue/service/OverdueLoanOutsourcingService.kt" timestamp="1569295528007">
+        <mark key="[" line="30" column="90" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/service/InsurancePaymentHistoryAdapter.kt" timestamp="1569296504651">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/bondmanagement/overdue/service/NewOverdueHistoryService.kt" timestamp="1568787467153">
         <mark key="[" line="62" column="69" />
@@ -201,7 +229,7 @@
         <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/master/LoanMasterApiController.kt" timestamp="1569203302120" />
-      <file name="/fragment.java" timestamp="1569230168050">
+      <file name="/fragment.java" timestamp="1569296868881">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -236,43 +264,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmluZGluZ1Jlc3VsdC5oYXNFcnJvcnMoKSkgdGhyb3cgQmluZEV4Y2VwdGlvbihiaW5kaW5nUmVzdWx0KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvcnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gaW5zdXJhbmNlUGF5bWVudFNlcnZpY2UuYWN0aXZhdGUoaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmluZGluZ1Jlc3VsdC5oYXNFcnJvcnMoKSkgdGhyb3cgQmluZEV4Y2VwdGlvbihiaW5kaW5nUmVzdWx0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgLyoqCiAgICAgKiBFeGNlcHRpb24g7J2EIOuNmOyngOqzoCDsi7bsp4Drp4wKICAgICAqIOu2gOuPhCDtnojsiqTthqDrpqwg65Ox7JeQ7IScIOyCrOyaqe2VmOqzoCDsnojslrTshJwg7Im97IKs66asIOuNmOyngOuptCDtirjrnpzsnq3shZjsnZgg7J207IqI6rCAIOyeiOyWtOyEnCDrjZjsp4gg7IiY6rCAIOyXhuuLpC4KICAgICAqLwogICAgQFRyYW5zYWN0aW9uYWwocHJvcGFnYXRpb24gPSBQcm9wYWdhdGlvbi5SRVFVSVJFU19ORVcp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC8qKgogICAgICogRXhjZXB0aW9uIOydhCDrjZjsp4Dqs6Ag7Iu27KeA66eMCiAgICAgKiDrtoDrj4Qg7Z6I7Iqk7Yag66asIOuTseyXkOyEnCDsgqzsmqntlZjqs6Ag7J6I7Ja07IScIOyJveyCrOumrCDrjZjsp4DrqbQg7Yq4656c7J6t7IWY7J2YIOydtOyKiOqwgCDsnojslrTshJwg642Y7KeIIOyImOqwgCDsl4bri6QuCiAgICAgKi8KICAgIEBUcmFuc2FjdGlvbmFsKHByb3BhZ2F0aW9uID0gUHJvcGFnYXRpb24uUkVRVUlSRVNfTkVXKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaW5zdXJhbmNlUGF5bWVudEhpc3RvcnkuaXNOb3ROdWxsKCkpIHRocm93IEJ1c2luZXNzRXhjZXB0aW9uKCLsnbTrr7gg65Ox66Gd65CcIOuToOuToOuztO2XmCDtnojsiqTthqDrpqzqsIAg7J6I7Iq164uI64ukLiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAia3IuY28ubGVuZGl0LmxvYW5tYW5hZ2VtZW50LmNvbnRhY3QuY29udHJvbGxlciIK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaW5zdXJhbmNlUGF5bWVudEhpc3RvcnkgPSBmaW5kQnlMb2FuTWFzdGVySWQobG9hbk1hc3RlcklkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBsb2FuTWFzdGVySWQ6IEludD8sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBmaWVsZDpOb3ROdWxsZGQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW5zdXJhbmNlUGF5bWVudEhpc3RvcnkgPSBnZXRPclRocm93KGlkKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG5hbWU6IFN0cmluZz8gPSBudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>245</text>
