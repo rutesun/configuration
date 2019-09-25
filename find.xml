@@ -28,7 +28,7 @@
     <mask>*Test*</mask>
     <mask>*.kt</mask>
     <mask>*Controller*</mask>
-    <mask>*kt</mask>
     <mask>*jsp</mask>
+    <mask>*kt</mask>
   </component>
 </application>
