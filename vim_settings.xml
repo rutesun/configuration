@@ -214,7 +214,7 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueHistoryServiceImpl.java" timestamp="1569503464323">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueHistoryServiceImpl.java" timestamp="1569508377060">
         <mark key="[" line="812" column="62" />
         <mark key="]" line="812" column="62" />
         <mark key="." line="812" column="62" />
@@ -249,7 +249,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/master/LoanMasterServiceImpl.java" timestamp="1569483376205">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/master/LoanMasterServiceImpl.java" timestamp="1569508422319">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
@@ -278,7 +278,7 @@
         <mark key="^" line="67" column="41" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/insurance/service/InsurancePaymentHistoryServiceImpl.java" timestamp="1569462679699" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/OverdueHistory.kt" timestamp="1569388120572">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/OverdueHistory.kt" timestamp="1569507556243">
         <mark key="[" line="125" column="40" />
         <mark key="]" line="125" column="40" />
         <mark key="." line="125" column="40" />
@@ -349,7 +349,7 @@
         <mark key="]" line="378" column="85" />
         <mark key="." line="378" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569503301090">
+      <file name="/Dummy.txt" timestamp="1569507940458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/ResidentRegistrationIssueService.kt" timestamp="1569490389581">
@@ -494,7 +494,7 @@
         <text encoding="base64">aW1wb3J0IGtyLmNvLmxlbmRpdC5kb21haW4uVHJpZ2dlckNsYXVzZUhpc3Rvcnk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>303</text>
       </register>
     </registers>
     <search>
@@ -526,6 +526,7 @@
         <entry encoding="base64">JzwsJz4yNDU=</entry>
         <entry>245</entry>
         <entry>1</entry>
+        <entry>303</entry>
       </history-cmd>
       <history-expr />
       <history-input />
