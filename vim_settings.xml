@@ -12,6 +12,7 @@
         <mark key="." line="34" column="12" />
         <mark key="^" line="34" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueHistoryService.java" timestamp="1569914840447" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.14.RELEASE/c5a6bef4c10d616d2c34098270d874d24e7e30a1/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java" timestamp="1569911704913" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/PDFGenerator.kt" timestamp="1569910507374">
         <mark key="[" line="17" column="13" />
@@ -19,6 +20,8 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="17" column="13" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/dto/OverdueDto.kt" timestamp="1569915020746" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/OverdueHistoryCalc.kt" timestamp="1569914712917" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/PDFTemplateType.kt" timestamp="1569911347315">
         <mark key="[" line="9" column="40" />
         <mark key="]" line="9" column="40" />
@@ -34,16 +37,21 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/CollectionMailHistory.kt" timestamp="1569913207186" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/repository/RegisterMailHistoryRepository.kt" timestamp="1569913123856" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1569911755291" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueHistoryServiceImpl.java" timestamp="1569915368260">
+        <mark key="[" line="812" column="62" />
+        <mark key="]" line="812" column="62" />
+        <mark key="." line="812" column="62" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionMailService.kt" timestamp="1569910767569">
         <mark key="[" line="129" column="4" />
         <mark key="]" line="129" column="4" />
         <mark key="." line="129" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionMailPdfManager.kt" timestamp="1569913193469">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="24" />
-        <mark key="^" line="25" column="24" />
-        <mark key="." line="25" column="24" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionMailPdfManager.kt" timestamp="1569915074152">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="34" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="25" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/PDFType.kt" timestamp="1569909807992">
         <mark key="[" line="4" column="3" />
@@ -125,10 +133,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>entityManager</text>
+        <text>CollectionMailingDto</text>
       </register>
       <register name="-" type="4">
-        <text>entityManager</text>
+        <text>CollectionMailingDto</text>
       </register>
       <register name="/" type="4">
         <text>at</text>
