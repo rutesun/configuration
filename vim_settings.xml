@@ -20,6 +20,7 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="17" column="13" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/IllegalArgumentException.java" timestamp="1569921228565" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/dto/OverdueDto.kt" timestamp="1569915020746" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/OverdueHistoryCalc.kt" timestamp="1569914712917" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/PDFTemplateType.kt" timestamp="1569911347315">
@@ -47,11 +48,11 @@
         <mark key="]" line="129" column="4" />
         <mark key="." line="129" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionMailPdfManager.kt" timestamp="1569920254733">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="21" />
-        <mark key="^" line="32" column="21" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionMailPdfManager.kt" timestamp="1569921340183">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="23" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/PDFType.kt" timestamp="1569909807992">
         <mark key="[" line="4" column="3" />
@@ -132,11 +133,11 @@
       <jump line="136" column="11" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/contract/LoanContract.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBmdW4gc2V0QW1vcnRpemVkQW10KG9yZ2luOiBMb25nLCBpbnQ6IExvbmcpIHsKICAgICAgICB0aGlzLm5leHRBbW9ydGl6ZWRBbXRPcmlnaW4gPSBvcmdpbgogICAgICAgIHRoaXMubmV4dEFtb3J0aXplZEFtdEludCA9IGludAogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>at</text>
@@ -144,32 +145,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBmdW4gc2V0QW1vcnRpemVkQW10KG9yZ2luOiBMb25nLCBpbnQ6IExvbmcpIHsKICAgICAgICB0aGlzLm5leHRBbW9ydGl6ZWRBbXRPcmlnaW4gPSBvcmdpbgogICAgICAgIHRoaXMubmV4dEFtb3J0aXplZEFtdEludCA9IGludAogICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
+        <text encoding="base64">ICAgIHZhbCBwZXJzb25OYW1lSW5DaGFyZ2U6IFN0cmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZXh0QW1vcnRpemVkQW10T3JpZ2luOiBMb25nID0gMCwKICAgIHZhbCBuZXh0QW1vcnRpemVkQW10SW50OiBMb25nID0gMCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">InBlcnNvbk5hbWVJbkNoYXJnZSI6ICLquYDroIzrlKciCg==</text>
+      <register name="5" type="4">
+        <text>fun updateDate(overdue02: OverdueHistory) {
+        this.triggerClauseDt = DateTimeUtil.parseDate(overdue02.triggerClauseEventDt!!)
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Im92ZXJkdWVFeGVjdXRlRHQiOiAiMjAxOS0wMy0wMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ImNvbW1lbnQiOiAi7JeG7J2MIiwK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Im5leHRBbW9ydGl6ZWRBbXRJbnQiOiA0MDAwMCwK</text>
+        <text encoding="base64">ICAgIHZhbCBuZXh0QW1vcnRpemVkQW10T3JpZ2luOiBMb25nID0gMCwKICAgIHZhbCBuZXh0QW1vcnRpemVkQW10SW50OiBMb25nID0gMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Im5leHRBbW9ydGl6ZWRBbXRPcmlnaW4iOiAyMjAwMDAsCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
