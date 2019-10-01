@@ -37,7 +37,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/CollectionMailHistory.kt" timestamp="1569913207186" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/repository/RegisterMailHistoryRepository.kt" timestamp="1569913123856" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1569911755291" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueHistoryServiceImpl.java" timestamp="1569915368260">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueHistoryServiceImpl.java" timestamp="1569916106348">
         <mark key="[" line="812" column="62" />
         <mark key="]" line="812" column="62" />
         <mark key="." line="812" column="62" />
@@ -47,11 +47,11 @@
         <mark key="]" line="129" column="4" />
         <mark key="." line="129" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionMailPdfManager.kt" timestamp="1569915074152">
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="19" column="15" />
-        <mark key="." line="25" column="34" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionMailPdfManager.kt" timestamp="1569916144909">
+        <mark key="[" line="26" column="86" />
+        <mark key="]" line="26" column="85" />
+        <mark key="^" line="26" column="85" />
+        <mark key="." line="26" column="85" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/PDFType.kt" timestamp="1569909807992">
         <mark key="[" line="4" column="3" />
@@ -133,10 +133,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CollectionMailingDto</text>
+        <text>getOverdueHistoryWithLoanMasterIdAndOverdueStatusCdAndActivatedYn</text>
       </register>
       <register name="-" type="4">
-        <text>CollectionMailingDto</text>
+        <text>getOverdueHistoryWithLoanMasterIdAndOverdueStatusCdAndActivatedYn</text>
       </register>
       <register name="/" type="4">
         <text>at</text>
@@ -144,34 +144,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoInRlbXBsYXRlLW5hbWUiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="1" type="4">
+        <text>em.createQuery(
+            &quot;&quot;&quot;
+            SELECT u.name, rh.addr,
+            FROM User u
+                JOIN CollectionMailHistory rh ON u.id = rh.userId
+                JOIN OverdueHistory oh ON oh.id = rh.overdueHistoryId
+            WHERE rh.id = :id
+            &quot;&quot;&quot;.trimIndent()
+        )</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IHByaXZhdGUgdmFyIGJ1aWxkZXJNYXAgPSBsYXp5IHsKICAgICAgICBCZWFuQ29uZmlnLmdldEJlYW5zT2ZUeXBlKFBERlJlcXVlc3RCdWlsZGVyOjpjbGFzcy5qYXZhKS5tYXAgeyBpdC52YWx1ZSB9CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>override fun build(id: Number): PDFRequest {
         TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QEpzb25OYW1pbmcodmFsdWUgPSBQcm9wZXJ0eU5hbWluZ1N0cmF0ZWd5LktFQkFCX0NBU0U6OmNsYXNzKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcy5jbG9zZSgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBmaW5hbGx5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcy5jbG9zZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
