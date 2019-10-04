@@ -76,15 +76,19 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/OneToOne.java" timestamp="1570157884300" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUser.kt" timestamp="1570158320396">
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="63" column="89" />
-        <mark key="." line="63" column="89" />
-        <mark key="^" line="63" column="89" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/OneToOne.java" timestamp="1570159829045" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUser.kt" timestamp="1570160972482">
+        <mark key="[" line="55" column="42" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="54" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserRepository.kt" timestamp="1570158309729">
-        <mark key="[" line="7" column="62" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/JoinColumn.java" timestamp="1570159869614" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserRepository.kt" timestamp="1570161003876">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/revision/listener/LenditEnversPostUpdateEventListener.kt" timestamp="1569897813138">
         <mark key="[" line="21" column="5" />
@@ -111,11 +115,11 @@
       <file name="/fragment.java" timestamp="1570157152172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/user/LoanUserServiceTest.kt" timestamp="1570157291359">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="28" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/user/LoanUserServiceTest.kt" timestamp="1570159667223">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="27" column="14" />
+        <mark key="." line="28" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -164,10 +168,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>at</text>
@@ -176,31 +180,31 @@
         <text encoding="base64">ICAgIEBPbmVUb09uZQogICAgQEpvaW5Db2x1bW4obmFtZSA9ICJ1c2VyX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAidXNlcl9pZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgQEpvaW5Db2x1bW4obmFtZSA9ICJ1c2VyX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAidXNlcl9pZCIsIGluc2VydGFibGUgPSBmYWxzZSwgdXBkYXRhYmxlID0gZmFsc2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFzc2lzdC5Ob3RGb3VuZEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgIC8vICAgIEBPbmVUb09uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBsb2FuVXNlckFkZHJlc3M6IExvYW5Vc2VyQWRkcmVzcz8gPSBudWxsCg==</text>
+        <text encoding="base64">Ly8gICAgQEpvaW5Db2x1bW4obmFtZSA9ICJ1c2VyX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAidXNlcl9pZCIsIGluc2VydGFibGUgPSBmYWxzZSwgdXBkYXRhYmxlID0gZmFsc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIEBPbmVUb09uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5hbm5vdGF0aW9uLkpzb25OYW1pbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5Qcm9wZXJ0eU5hbWluZ1N0cmF0ZWd5Cg==</text>
+        <text encoding="base64">Ly8gIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGh0dHBIZWFkZXJzLnNldENvbnRlbnREaXNwb3NpdGlvbkZvcm1EYXRhKCJhdHRhY2htZW50IiwgIiR7cmVxdWVzdC50eXBlfS0ke3JlcXVlc3QuaWR9IikK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihsb2FuVXNlcjogTG9hblVzZXIsIGxvYW5Vc2VySG9tZTogTG9hblVzZXJIb21lPywgbG9hblVzZXJPY2M6IExvYW5Vc2VyT2NjPyk6IHRoaXMoCi8vICAgICAgICBpZCA9IGxvYW5Vc2VyLmlkLCB1c2VySWQgPSBsb2FuVXNlci51c2VySWQsIHNhZmVLZXkgPSBsb2FuVXNlci5zYWZlS2V5LAovLyAgICAgICAgcmVmdW5kQWNjb3VudE5vID0gbG9hblVzZXIucmVmdW5kQWNjb3VudE5vLCByZWZ1bmRCYW5rQ2QgPSBsb2FuVXNlci5yZWZ1bmRCYW5rQ2QsCi8vICAgICAgICBtYXJpdGFsU3RhdHVzQ2QgPSBsb2FuVXNlci5tYXJpdGFsU3RhdHVzQ2QsIGxhc3RJbmZvQ29uZmlybWVkRHQgPSBsb2FuVXNlci5sYXN0SW5mb0NvbmZpcm1lZER0Ci8vICAgICkgewovLyAgICAgICAgdGhpcy5sb2FuVXNlckhvbWUgPSBsb2FuVXNlckhvbWUKLy8gICAgICAgIHRoaXMubG9hblVzZXJPY2MgPSBsb2FuVXNlck9jYwovLyAgICB9</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICDstpzssphAIGh0dHBzQCAvL2FkZGlvMzMwNS50aXN0b3J5LmNvbS84NCBb7Z2U7ZWcIOqwnOuwnOyekOydmCDqsJzrsJwg64W47Yq4XQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmFzc2lzdC5Ob3RGb3VuZEV4Y2VwdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
