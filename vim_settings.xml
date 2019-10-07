@@ -9,6 +9,13 @@
         <mark key="." line="11" column="43" />
         <mark key="^" line="11" column="18" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/webapp/WEB-INF/tiles/view/admin/loanmaster/view.jsp" timestamp="1570420149604" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1570417424022">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/PDFGenerator.kt" timestamp="1570179008954">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="36" />
@@ -27,20 +34,26 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="58" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/domain/PDFTemplateType.kt" timestamp="1570415707369">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/master/LoanMasterAdminController.java" timestamp="1570420099584" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/domain/PDFTemplateType.kt" timestamp="1570418483654">
+        <mark key="[" line="26" column="73" />
+        <mark key="]" line="26" column="73" />
+        <mark key="^" line="23" column="72" />
+        <mark key="." line="26" column="73" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/PDFGenerator.java" timestamp="1569909318595">
         <mark key="[" line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/LoanSchedulePdfManager.kt" timestamp="1570420197506">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/revision/listener/LenditEnversPostUpdateEventListener.kt" timestamp="1569897813138">
         <mark key="[" line="21" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/aws/PDFGenerator.kt" timestamp="1570415307375">
-        <mark key="[" line="40" column="57" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/aws/PDFGenerator.kt" timestamp="1570420006398">
+        <mark key="[" line="55" column="83" />
         <mark key="]" line="40" column="55" />
         <mark key="^" line="40" column="55" />
         <mark key="." line="40" column="55" />
@@ -52,9 +65,10 @@
         <mark key="." line="48" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionMailPdfManager.kt" timestamp="1570415772835" />
-      <file name="/Dummy.txt" timestamp="1570180528718">
+      <file name="/Dummy.txt" timestamp="1570418727265">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/LoanMasterScheduleServiceImpl.java" timestamp="1570420224688" />
       <file name="/fragment.kt" timestamp="1570414580027">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,11 +88,17 @@
         <mark key="^" line="98" column="26" />
         <mark key="." line="98" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionVisitPdfManager.kt" timestamp="1570415778610">
-        <mark key="[" line="30" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionVisitPdfManager.kt" timestamp="1570419990535">
+        <mark key="[" line="139" column="17" />
+        <mark key="]" line="139" column="17" />
+        <mark key="." line="139" column="17" />
+        <mark key="^" line="139" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1570179192936">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/user/LoanUserServiceTest.kt" timestamp="1570418712685">
+        <mark key="[" line="19" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -127,11 +147,11 @@
       <jump line="114" column="24" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionVisitPdfManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mapper.writeValueAsString(body</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc2NoZWR1bGVMaXN0ID0gYW1vcnRpemVkU2NoZWR1bGVkU2VydmljZS5nZXRCeUxvYW5NYXN0ZXJJZChsb2FuTWFzdGVySWQudG9JbnQoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>mapper.writeValueAsString(body</text>
+        <text>.g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FuTWFzdGVySWQxNTE1MVw+</text>
@@ -140,31 +160,35 @@
         <text encoding="base64">ICAgIEBPbmVUb09uZQogICAgQEpvaW5Db2x1bW4obmFtZSA9ICJ1c2VyX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAidXNlcl9pZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2NoZWR1bGVMaXN0ID0gYW1vcnRpemVkU2NoZWR1bGVkU2VydmljZS5nZXRCeUxvYW5NYXN0ZXJJZChsb2FuTWFzdGVySWQudG9JbnQoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFtb3J0aXplZFNjaGVkdWxlZFNlcnZpY2U6IEFtb3J0aXplZFNjaGVkdWxlZFNlcnZpY2UsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBwcml2YXRlIHZhbCBtYXBwZXIgPSBCZWFuQ29uZmlnLmdldE9iamVjdE1hcHBlcigpCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFtb3J0aXplZFJlY29yZFNlcnZpY2U6IEFtb3J0aXplZFJlY29yZFNlcnZpY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvYW5Db250cmFjdFJlcG9zaXRvcnk6IExvYW5Db250cmFjdFJlcG9zaXRvcnksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1hcHBlciA9IEJlYW5Db25maWcuZ2V0T2JqZWN0TWFwcGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHZhY2N0U2VydmNpZTogVmlydHVhbEFjY3RTZXJ2aWNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWxjdWxhdGUudG90YWxNaWRkbGVQYXltZW50SW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW5pb24gb2JqZWN0IHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB2QWNjdCA9IHZhY2N0U2VydmNpZS5nZXRCeUxvYW5NYXN0ZXJJZChpdC5pZCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9hbkludFJhdGUgPSBsb2FuTWFzdGVyLmxvYW5QYXlSYXRlCg==</text>
+      <register name="9" type="4">
+        <text>rivate val loanUserService: LoanUserService,
+    private val userService: UserService,
+    private val userDetailService: UserDetailService,
+    private val collectionVisitUseCase: CollectionVisitUseCase,
+    private val bussinessCalendarRepository: BusinessCalendarRepository</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
