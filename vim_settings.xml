@@ -51,11 +51,11 @@
         <mark key="^" line="98" column="26" />
         <mark key="." line="98" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionVisitPdfManager.kt" timestamp="1570514478724">
-        <mark key="[" line="90" column="42" />
-        <mark key="]" line="90" column="40" />
-        <mark key="." line="90" column="40" />
-        <mark key="^" line="90" column="40" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionVisitPdfManager.kt" timestamp="1570516675470">
+        <mark key="[" line="66" column="71" />
+        <mark key="]" line="66" column="18" />
+        <mark key="." line="66" column="18" />
+        <mark key="^" line="66" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/UserAdminApiController.java" timestamp="1570427554169" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/contract/LoanContract.kt" timestamp="1570426532609" />
@@ -92,7 +92,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionMailPdfManager.kt" timestamp="1570512966092">
         <mark key="[" line="114" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570507137892">
+      <file name="/Dummy.txt" timestamp="1570516707485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/AmortizedCode.java" timestamp="1570425821988" />
