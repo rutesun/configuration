@@ -66,14 +66,15 @@
         <mark key="[" line="21" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/LoanIntyCode.java" timestamp="1570426566090" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CertificationPdfManager.kt" timestamp="1570499814013">
-        <mark key="[" line="173" column="74" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CertificationPdfManager.kt" timestamp="1570502400822">
+        <mark key="[" line="176" column="38" />
+        <mark key="]" line="176" column="38" />
+        <mark key="." line="176" column="38" />
+        <mark key="^" line="185" column="75" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/LoanFeeSchedule.java" timestamp="1570425948891" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionMailPdfManager.kt" timestamp="1570415772835" />
-      <file name="/Dummy.txt" timestamp="1570418727265">
+      <file name="/Dummy.txt" timestamp="1570502461281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/AmortizedCode.java" timestamp="1570425821988" />
@@ -135,11 +136,11 @@
       <jump line="114" column="24" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionVisitPdfManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVtYWluQW10ID0gbWFzdGVyLnJlbWFpbkxvYW5BbXQgPzogMCwgbG9hbkFtdCA9IG1hc3Rlci5sb2FuQW10LAo=</text>
+      <register name="&quot;" type="4">
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;: 450000</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FuTWFzdGVySWQxNTE1MVw+</text>
