@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/file/FileResolveServiceImpl.kt" timestamp="1570679997987" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1570417424022">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="28" column="7" />
@@ -57,13 +58,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionMailPdfManager.kt" timestamp="1570512966092">
         <mark key="[" line="114" column="60" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueLoanOutsourcingService.kt" timestamp="1570679098592">
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="46" column="19" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1570670490690">
+      <file name="/Dummy.txt" timestamp="1570679698093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1570414580027">
@@ -92,6 +87,7 @@
         <mark key="^" line="31" column="75" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanapp/document/LoanAppDocumentServiceImpl.java" timestamp="1570679935537" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/resources/application.yml" timestamp="1570415234295">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="98" column="26" />
