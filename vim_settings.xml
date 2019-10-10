@@ -3,39 +3,79 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/webapp/WEB-INF/tiles/view/admin/loanmaster/view.jsp" timestamp="1570427939030" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1570417424022">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/OverdueLoanMangageEnums.kt" timestamp="1570513235980">
         <mark key="[" line="41" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/PDFGenerator.kt" timestamp="1570503367796" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/LoanMasterSchedule.kt" timestamp="1570429086940" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/master/LoanMasterAdminController.java" timestamp="1570431015506" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1570670932355">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="27" column="31" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/common/domain/CollectionDelegationCompanyCode.kt" timestamp="1570670869585" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/domain/PDFTemplateType.kt" timestamp="1570517440234">
+        <mark key="[" line="52" column="70" />
+        <mark key="]" line="52" column="70" />
+        <mark key="^" line="51" column="3" />
+        <mark key="." line="52" column="70" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/PDFGenerator.java" timestamp="1569909318595">
         <mark key="[" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/webapp/WEB-INF/tiles/view/admin/hy/fee/list-v2.jsp" timestamp="1570426699574" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/loan/enums/ReturnStatusCode.java" timestamp="1570517443059" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueHistoryServiceImpl.java" timestamp="1570436965091" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/dto/OverdueDto.kt" timestamp="1570504951921">
+        <mark key="[" line="99" column="52" />
+        <mark key="]" line="99" column="52" />
+        <mark key="^" line="99" column="52" />
+        <mark key="." line="99" column="52" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/LoanSchedulePdfManager.kt" timestamp="1570513725580">
         <mark key="[" line="57" column="125" />
         <mark key="]" line="57" column="125" />
         <mark key="." line="57" column="125" />
         <mark key="^" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/LoanFeeScheduleService.java" timestamp="1570425922396" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/RoleCode.kt" timestamp="1570427378045" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/revision/listener/LenditEnversPostUpdateEventListener.kt" timestamp="1569897813138">
+        <mark key="[" line="21" column="5" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/aws/PDFGenerator.kt" timestamp="1570420006398">
         <mark key="[" line="55" column="83" />
         <mark key="]" line="40" column="55" />
         <mark key="^" line="40" column="55" />
         <mark key="." line="40" column="55" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/service/impl/LoanMasterScheduleServiceImpl.java" timestamp="1570420224688" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CertificationPdfManager.kt" timestamp="1570670485052">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="40" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="162" column="38" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionMailPdfManager.kt" timestamp="1570512966092">
+        <mark key="[" line="114" column="60" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueLoanOutsourcingService.kt" timestamp="1570670819417">
+        <mark key="[" line="37" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1570670490690">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1570414580027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/loan/enums/LoanPeriCode.java" timestamp="1570439256907" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/LoanScheduleStatus.java" timestamp="1570429488410" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserOcc.kt" timestamp="1570156906344">
+        <mark key="[" line="66" column="52" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/ResidentRegistrationPdf.kt" timestamp="1570504624249">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/LoanPaddCode.java" timestamp="1570429587875">
         <mark key="[" line="28" column="5" />
       </file>
@@ -56,56 +96,6 @@
         <mark key="]" line="66" column="18" />
         <mark key="." line="66" column="18" />
         <mark key="^" line="66" column="18" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/admin/UserAdminApiController.java" timestamp="1570427554169" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/contract/LoanContract.kt" timestamp="1570426532609" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1570417424022">
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="28" column="7" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="28" column="7" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/OverdueHistory.kt" timestamp="1570437173163" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/domain/PDFTemplateType.kt" timestamp="1570517440234">
-        <mark key="[" line="52" column="70" />
-        <mark key="]" line="52" column="70" />
-        <mark key="^" line="51" column="3" />
-        <mark key="." line="52" column="70" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/dto/OverdueDto.kt" timestamp="1570504951921">
-        <mark key="[" line="99" column="52" />
-        <mark key="]" line="99" column="52" />
-        <mark key="^" line="99" column="52" />
-        <mark key="." line="99" column="52" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/revision/listener/LenditEnversPostUpdateEventListener.kt" timestamp="1569897813138">
-        <mark key="[" line="21" column="5" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/LoanIntyCode.java" timestamp="1570426566090" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CertificationPdfManager.kt" timestamp="1570517877832">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="40" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="162" column="38" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/LoanFeeSchedule.java" timestamp="1570425948891" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionMailPdfManager.kt" timestamp="1570512966092">
-        <mark key="[" line="114" column="60" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1570516707485">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/AmortizedCode.java" timestamp="1570425821988" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/PDFRequestBuilder.kt" timestamp="1570503387979" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserOcc.kt" timestamp="1570156906344">
-        <mark key="[" line="66" column="52" />
-      </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/AdminUserService.kt" timestamp="1570504747923" />
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/ResidentRegistrationPdf.kt" timestamp="1570504624249">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/master/LoanMaster.kt" timestamp="1570437965890">
         <mark key="[" line="242" column="2" />
@@ -165,11 +155,11 @@
       <jump line="114" column="24" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionVisitPdfManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAZmllbGQ6SnNvblByb3BlcnR5KCJsb2FuRW5kRHQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>OutsourcingCompany(</text>
       </register>
       <register name="-" type="4">
-        <text>loanUser</text>
+        <text>OutsourcingCompany(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FuTWFzdGVySWQxNTE1MVw+</text>
