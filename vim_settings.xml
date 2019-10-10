@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/file/FileResolveServiceImpl.kt" timestamp="1570683266336" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/repository/CollectionVisitHistoryRepository.kt" timestamp="1570417424022">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="28" column="7" />
@@ -76,7 +75,7 @@
         <mark key="^" line="72" column="4" />
         <mark key="." line="80" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570686129190">
+      <file name="/Dummy.txt" timestamp="1570688788292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1570414580027">
@@ -89,6 +88,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/183.4588.61/IntelliJ IDEA.app.vmoptions" timestamp="1570689505306">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/ResidentRegistrationIssueHistory.kt" timestamp="1570689154371" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/ResidentRegistrationPdf.kt" timestamp="1570504624249">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="9" column="28" />
@@ -104,7 +109,6 @@
         <mark key="^" line="31" column="75" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/exception/ExceptionAdviceController.kt" timestamp="1570686376122" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanapp/document/LoanAppDocumentServiceImpl.java" timestamp="1570683948385">
         <mark key="[" line="114" column="0" />
       </file>
@@ -120,7 +124,7 @@
         <mark key="." line="66" column="18" />
         <mark key="^" line="66" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1570179192936">
+      <file name="/fragment.java" timestamp="1570688788267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/user/LoanUserServiceTest.kt" timestamp="1570418712685">
@@ -173,11 +177,11 @@
       <jump line="114" column="24" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionVisitPdfManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAZmllbGQ6SnNvblByb3BlcnR5KCJsb2FuRW5kRHQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>!= CollectionDelegationCompanyCode.COLLECTION_NONE</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FuTWFzdGVySWQxNTE1MVw+</text>
