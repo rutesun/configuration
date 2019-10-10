@@ -25,6 +25,12 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="59" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loan/common/domain/CollectionDelegationCompanyCode.kt" timestamp="1570685008609">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/domain/PDFTemplateType.kt" timestamp="1570517440234">
         <mark key="[" line="52" column="70" />
         <mark key="]" line="52" column="70" />
@@ -64,6 +70,12 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionMailPdfManager.kt" timestamp="1570512966092">
         <mark key="[" line="114" column="60" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueLoanOutsourcingService.kt" timestamp="1570685036635">
+        <mark key="[" line="80" column="24" />
+        <mark key="]" line="80" column="24" />
+        <mark key="^" line="72" column="4" />
+        <mark key="." line="80" column="24" />
+      </file>
       <file name="/Dummy.txt" timestamp="1570679698093">
         <mark key="[" line="0" column="0" />
       </file>
@@ -73,8 +85,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserOcc.kt" timestamp="1570156906344">
         <mark key="[" line="66" column="52" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loanmanagement/overdue/service/OverdueLoanOutsourcingTest.kt" timestamp="1570683818406">
-        <mark key="[" line="122" column="20" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loanmanagement/overdue/service/OverdueLoanOutsourcingTest.kt" timestamp="1570684791651">
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
@@ -166,11 +177,11 @@
       <jump line="114" column="24" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionVisitPdfManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!= CollectionDelegationCompanyCode.COLLECTION_NONE</text>
       </register>
       <register name="-" type="4">
-        <text>expected = BusinessException::class)</text>
+        <text>!= CollectionDelegationCompanyCode.COLLECTION_NONE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FuTWFzdGVySWQxNTE1MVw+</text>
