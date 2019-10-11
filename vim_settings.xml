@@ -11,6 +11,14 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/shop/api/PortfolioController.java" timestamp="1570764566948" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/shop/api/PortfolioApiController.java" timestamp="1570764979185" />
+      <file name="/a.dummy" timestamp="1570769941610">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/controller/ResidentRegistrationIssueController.kt" timestamp="1570769935517">
+        <mark key="[" line="102" column="15" />
+        <mark key="]" line="102" column="16" />
+        <mark key="." line="102" column="16" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/PDFGenerator.java" timestamp="1569909318595">
         <mark key="[" line="1" column="29" />
       </file>
@@ -55,6 +63,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueLoanOutsourcingService.kt" timestamp="1570769650911">
+        <mark key="[" line="100" column="8" />
+        <mark key="]" line="100" column="8" />
+        <mark key="^" line="100" column="13" />
+        <mark key="." line="100" column="8" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/LoanManagementPdfController.kt" timestamp="1570763088731">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -62,7 +76,7 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/web/shop/service/impl/OrderApiServiceImpl.java" timestamp="1570765194156" />
-      <file name="/Dummy.txt" timestamp="1570763490809">
+      <file name="/Dummy.txt" timestamp="1570769688358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserOcc.kt" timestamp="1570156906344">
@@ -81,6 +95,7 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.0/29a1a95363d497e856c0a7d682e4f7973e334068/jackson-annotations-2.8.0-sources.jar!/com/fasterxml/jackson/annotation/JsonProperty.java" timestamp="1570769912335" />
       <file name="/fragment.java" timestamp="1570688788267">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,11 +151,11 @@
       <jump line="114" column="24" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionVisitPdfManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>outsou</text>
       </register>
       <register name="-" type="4">
-        <text>visitDt</text>
+        <text>outsou</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FuTWFzdGVySWQxNTE1MVw+</text>
