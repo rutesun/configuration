@@ -49,6 +49,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/revision/listener/LenditEnversPostUpdateEventListener.kt" timestamp="1569897813138">
         <mark key="[" line="21" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/controller/OverdueLoanOutsourcingController.kt" timestamp="1571032957431" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionMailPdfManager.kt" timestamp="1570690646960">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -72,7 +73,6 @@
       <file name="/fragment.kt" timestamp="1570414580027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserStatusCode.kt" timestamp="1571026085357" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserOcc.kt" timestamp="1570156906344">
         <mark key="[" line="66" column="52" />
       </file>
