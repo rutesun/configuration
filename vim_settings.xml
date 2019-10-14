@@ -15,6 +15,12 @@
       <file name="/a.dummy" timestamp="1570769941610">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/repository/OverdueLoanOutsourcingRepository.kt" timestamp="1571018016700">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="101" column="45" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/ComMerCode.java" timestamp="1570755207215">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -27,6 +33,12 @@
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/service/PDFGenerator.java" timestamp="1569909318595">
         <mark key="[" line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/dto/OverdueDto.kt" timestamp="1571017935217">
+        <mark key="[" line="41" column="45" />
+        <mark key="]" line="42" column="56" />
+        <mark key="^" line="42" column="56" />
+        <mark key="." line="42" column="56" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueHistoryServiceImpl.java" timestamp="1570776567615">
         <mark key="[" line="1120" column="19" />
@@ -42,11 +54,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueLoanOutsourcingService.kt" timestamp="1570769650911">
-        <mark key="[" line="87" column="8" />
-        <mark key="]" line="87" column="8" />
-        <mark key="^" line="87" column="13" />
-        <mark key="." line="87" column="8" />
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/OverdueLoanOutsourcingService.kt" timestamp="1571018086113">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/LoanManagementPdfController.kt" timestamp="1570763088731">
         <mark key="[" line="40" column="0" />
@@ -54,7 +66,7 @@
         <mark key="^" line="15" column="47" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570776605853">
+      <file name="/Dummy.txt" timestamp="1571018030760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1570414580027">
@@ -74,6 +86,12 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/domain/OverdueDomain.kt" timestamp="1570691032393">
         <mark key="[" line="17" column="3" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/loanmanagement/overdue/service/OverdueLoanOutsourcingTest.kt" timestamp="1571018652256">
+        <mark key="[" line="140" column="21" />
+        <mark key="]" line="135" column="68" />
+        <mark key="^" line="140" column="20" />
+        <mark key="." line="135" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/183.4588.61/IntelliJ IDEA.app.vmoptions" timestamp="1570690385111">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="4" />
@@ -90,7 +108,7 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1570688788267">
+      <file name="/fragment.java" timestamp="1571018030778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/test/java/kr/co/lendit/user/LoanUserServiceTest.kt" timestamp="1570418712685">
@@ -143,11 +161,11 @@
       <jump line="114" column="24" filename="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/overdue/service/CollectionVisitPdfManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>war</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2FuTWFzdGVyLnJlbWFpbkxvYW5BbXQgPSBsb2FuTWFzdGVyLnJlbWFpbkxvYW5BbXQhISAtIDEwMDAK</text>
       </register>
       <register name="-" type="4">
-        <text>war</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FuTWFzdGVySWQxNTE1MVw+</text>
@@ -156,39 +174,31 @@
         <text encoding="base64">ICAgIEBQb3N0TWFwcGluZyhwcm9kdWNlcyA9IFtNZWRpYVR5cGUuQVBQTElDQVRJT05fUERGX1ZBTFVFXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FuTWFzdGVyLnJlbWFpbkxvYW5BbXQgPSBsb2FuTWFzdGVyLnJlbWFpbkxvYW5BbXQhISAtIDEwMDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmlzaXREdG8udmlzaXREdC5pc0JlZm9yZShMb2NhbERhdGUubm93KCkpKSB0aHJvdyBCdXNpbmVzc0V4Y2VwdGlvbigi67Cp66y47JiI7KCV7J28KCR7dmlzaXREdG8udmlzaXREdH0p7J20IOyngOuCrOyKteuLiOuLpC4g7ZmV7J247ZW07KO87IS47JqULiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIHJoLm91dHNvdXJjaW5nU3RhdHVzID0gJyR7T3V0c291cmNpbmdTdGF0dXMuUkVHSVNURVJFRH0nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZWZ1YWx0LiDrpqzsiqTtirgg6rKA7IOJ7Iuc7JeQ64qUIOyiheqysOuQmOyngCDslYrsnYAg7LGE6raM66eMIOuztOyXrOykgOuLpC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmlzaXREdG8udmlzaXREdC5pc0JlZm9yZShMb2NhbERhdGUubm93KCkpKSB0aHJvdyBCdXNpbmVzc0V4Y2VwdGlvbigi67Cp66y47JiI7KCV7J28KCR7dmlzaXREdG8udmlzaXREdH0p7J20IOyngOuCrOyKteuLiOuLpC4g7ZmV7J247ZW07KO87IS47JqULiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodmlzaXREdG8udmlzaXREdC5pc0JlZm9yZShMb2NhbERhdGUubm93KCkpKSB0aHJvdyBCdXNpbmVzc0V4Y2VwdGlvbigi67Cp66y47JiI7KCV7J28KCR7dmlzaXREdG8udmlzaXREdH0p7J20IOyngOuCrOyKteuLiOuLpC4g7ZmV7J247ZW07KO87IS47JqULiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdmlzaXREdG8gPSBjb2xsZWN0aW9uVmlzaXRTZXJ2aWNlLmdldChpZC50b0xvbmcoKSkhIQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGYK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodmlzaXREdG8udmlzaXREdC5pc0JlZm9yZShMb2NhbERhdGUubm93KCkpKSB0aHJvdyBCdXNpbmVzc0V4Y2VwdGlvbigi67Cp66y47JiI7KCV7J28KCR7dmlzaXREdG8udmlzaXREdH0p7J20IOyngOuCrOyKteuLiOuLpC4g7ZmV7J247ZW07KO87IS47JqULiIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>un updateVisitTime(visit: VisitTime) {
-        this.visitDt = visit.visitDt
-        this.visitTimeDetail = visit.visitTime
-    }
-
-    fun updateVisitPlan(visitPlan: VisitTime) {
-        this.visitScheduleDt = visitPlan.visitDt
-        this.visitTimeDetail = visitPlan.visitTime
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdmlzaXREdG8gPSBjb2xsZWN0aW9uVmlzaXRTZXJ2aWNlLmdldChpZC50b0xvbmcoKSkhIQo=</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
