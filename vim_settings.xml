@@ -72,6 +72,7 @@
       <file name="/fragment.kt" timestamp="1570414580027">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/common/user/UserStatusCode.kt" timestamp="1571020191433" />
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/user/loan/LoanUserOcc.kt" timestamp="1570156906344">
         <mark key="[" line="66" column="52" />
       </file>
@@ -100,7 +101,7 @@
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/domain/enums/LoanPaddCode.java" timestamp="1570429587875">
         <mark key="[" line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanapp/document/LoanAppDocumentServiceImpl.java" timestamp="1570690673603">
+      <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanapp/document/LoanAppDocumentServiceImpl.java" timestamp="1571019669524">
         <mark key="[" line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/lenditKr/lendit/src/main/java/kr/co/lendit/loanmanagement/pdf/service/CollectionVisitPdfManager.kt" timestamp="1570763454873">
